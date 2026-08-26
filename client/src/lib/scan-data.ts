@@ -314,28 +314,28 @@ export const LEGAL_CASES: LegalCase[] = [
     id: "andersen",
     name: "Andersen v. Stability AI, Midjourney, DeviantArt, Runway",
     summary:
-      "A group of visual artists sued Stability AI, Midjourney, DeviantArt, and Runway over alleged use of their copyrighted works to train image models and over outputs that mimic their identifiable styles. The case is proceeding toward trial.",
+      "Visual artists' claim that image models were trained on their copyrighted work and can reproduce their identifiable styles survived dismissal in August 2024 and remains in active fact discovery in the Northern District of California as of mid-2026, with no class-certification ruling yet and a summary-judgment hearing pushed to February 2027. This is the longest-running US generative-image copyright suit and the one most directly on point for style-mimicry and training-provenance exposure.",
     relevantTo: ["style-mimicry", "training-provenance", "visual-similarity"],
-    url: "https://ailawsuittracker.com/cases/andersen-v-stability-ai-ltd-3-23-cv-00201/",
-    sourceLabel: "AI Lawsuit Tracker — Andersen v. Stability AI",
+    url: "https://fiund.com/lawsuits/andersen-v-stability",
+    sourceLabel: "Case tracker (fiund.com) — Andersen v. Stability AI, updated July 2026",
   },
   {
     id: "getty",
     name: "Getty Images v. Stability AI",
     summary:
-      "The UK High Court rejected Getty's secondary-copyright-infringement claim over Stable Diffusion's outputs, narrowing but not eliminating infringement exposure for image generators trained on licensed stock libraries.",
+      "The UK High Court ruled on November 4, 2025 that Stable Diffusion's model weights do not themselves constitute an 'infringing copy,' dismissing Getty's secondary-copyright claim, while finding limited trademark infringement where the model reproduced Getty's watermarks. Getty was granted permission to appeal the copyright dismissal in December 2025, so the core question is not finally settled. The primary infringement (training-stage copying) claims were withdrawn mid-trial and were never ruled on.",
     relevantTo: ["visual-similarity", "training-provenance"],
-    url: "https://www.lw.com/en/insights/getty-images-v-stability-ai-english-high-court-rejects-secondary-copyright-claim",
-    sourceLabel: "Latham & Watkins — Getty Images v. Stability AI",
+    url: "https://www.judiciary.uk/judgments/getty-images-and-others-v-stability-ai/",
+    sourceLabel: "UK Courts and Tribunals Judiciary — Getty Images v. Stability AI judgment, Nov 4 2025",
   },
   {
     id: "nyt",
     name: "New York Times v. OpenAI and Microsoft",
     summary:
-      "The Times' direct and contributory copyright infringement claims over ChatGPT outputs survived a motion to dismiss and proceeded to summary judgment briefing, establishing that training-data provenance and output similarity remain live legal theories against generative model vendors.",
+      "The Times' core copyright infringement claims survived a March 2025 motion to dismiss and are now in contested discovery, including a January 2026 order compelling OpenAI to produce 20 million de-identified ChatGPT logs. In June 2026 the Times amended its complaint, dropping a secondary-infringement theory against OpenAI while sharpening claims against Microsoft; in July 2026 the plaintiffs asked the court to sanction OpenAI over alleged discovery misconduct. No court has yet ruled on the underlying fair-use question, and no trial date is set.",
     relevantTo: ["training-provenance", "visual-similarity"],
-    url: "https://ailawsuittracker.com/cases/new-york-times-v-openai/",
-    sourceLabel: "AI Lawsuit Tracker — NYT v. OpenAI",
+    url: "https://www.reuters.com/legal/litigation/new-york-times-led-group-asks-court-sanction-openai-us-copyright-dispute-2026-07-09/",
+    sourceLabel: "Reuters — NYT-led group asks court to sanction OpenAI, July 9 2026",
   },
 ];
 

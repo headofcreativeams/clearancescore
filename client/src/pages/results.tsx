@@ -258,12 +258,20 @@ export default function Results() {
         </CardContent>
       </Card>
 
-      <div className="flex items-start gap-2 rounded-md border border-border bg-muted/30 px-4 py-3">
+      <div className="flex items-start gap-2 rounded-md border border-[hsl(var(--band-high))]/40 bg-[hsl(var(--band-high))]/10 px-4 py-3">
         <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-[hsl(var(--band-high))]" />
-        <p className="text-xs text-muted-foreground leading-relaxed">
-          Automated risk estimate for triage only. Not legal advice. Confirm with IP counsel and a licensed broker
-          before publishing or binding coverage.
-        </p>
+        <div className="text-xs text-foreground leading-relaxed space-y-1">
+          <p className="font-semibold">Internal triage estimate only. Not legal advice. Not an insurance recommendation. Not for client-facing use.</p>
+          <p className="text-muted-foreground">
+            No US court has issued a merits ruling on whether AI-generated output infringes copyright as of this
+            writing, so this score has no adjudicated outcomes to be validated against. Provenance and reverse-image
+            checks detect exact or near-exact matches only, not legal substantial similarity, and they cannot detect
+            right-of-publicity or trade dress risk at all. Vendor indemnities (Adobe, Microsoft) carry dollar caps and
+            exclusions that are voided by ordinary edits such as compositing or retouching. Route every score below
+            "Clear" to IP counsel and confirm any coverage decision with a licensed insurance broker before this
+            asset is shown to a client or published.
+          </p>
+        </div>
       </div>
     </div>
   );

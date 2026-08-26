@@ -9,6 +9,7 @@ import { AppSidebar } from "@/components/app-sidebar";
 import { ThemeProvider } from "@/components/theme-provider";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ScanProvider } from "@/lib/scan-context";
+import { DisclaimerBanner } from "@/components/disclaimer-banner";
 import NotFound from "@/pages/not-found";
 import Intake from "@/pages/intake";
 import Results from "@/pages/results";
@@ -47,6 +48,7 @@ function App() {
                       <SidebarTrigger data-testid="button-sidebar-toggle" />
                       <ThemeToggle />
                     </header>
+                    <DisclaimerBanner />
                     <main className="flex-1 overflow-y-auto" style={{ overscrollBehavior: "contain" }}>
                       <AppRouter />
                     </main>
