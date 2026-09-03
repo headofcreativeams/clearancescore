@@ -14,6 +14,7 @@ import NotFound from "@/pages/not-found";
 import Intake from "@/pages/intake";
 import Results from "@/pages/results";
 import History from "@/pages/history";
+import LegalUpdates from "@/pages/legal-updates";
 import Settings from "@/pages/settings";
 
 function AppRouter() {
@@ -22,6 +23,7 @@ function AppRouter() {
       <Route path="/" component={Intake} />
       <Route path="/results" component={Results} />
       <Route path="/history" component={History} />
+      <Route path="/legal-updates" component={LegalUpdates} />
       <Route path="/settings" component={Settings} />
       <Route component={NotFound} />
     </Switch>

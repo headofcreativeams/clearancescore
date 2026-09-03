@@ -1,5 +1,5 @@
 import { Link, useLocation } from "wouter";
-import { ScanSearch, History, Settings, Upload } from "lucide-react";
+import { ScanSearch, History, Settings, Upload, Newspaper } from "lucide-react";
 import {
   Sidebar,
   SidebarContent,
@@ -18,6 +18,7 @@ const items = [
   { title: "Intake", url: "/", icon: Upload, testId: "link-intake" },
   { title: "Scan Results", url: "/results", icon: ScanSearch, testId: "link-results" },
   { title: "History", url: "/history", icon: History, testId: "link-history" },
+  { title: "Legal Updates", url: "/legal-updates", icon: Newspaper, testId: "link-legal-updates" },
   { title: "Settings", url: "/settings", icon: Settings, testId: "link-settings" },
 ];
 
