@@ -49,6 +49,12 @@ interface CacheEntry {
 let cache: CacheEntry | null = null;
 const CACHE_TTL_MS = 15 * 60 * 1000; // 15 minutes — keeps the feed live without hammering upstream hosts
 
+// Per-source last-known-good items. Google News RSS and other upstream hosts can
+// return transient 429/5xx under load; falling back to the last successful pull
+// for that specific source keeps the page populated instead of losing items
+// every time one source has a bad moment.
+const lastGoodBySource = new Map<string, LegalFeedItem[]>();
+
 const parser = new XMLParser({
   ignoreAttributes: false,
   cdataPropName: "__cdata",
@@ -82,6 +88,28 @@ function parseRss(xml: string, sourceId: string, label: string): LegalFeedItem[]
   });
 }
 
+const MAX_FEED_BYTES = 3 * 1024 * 1024; // 3 MB — real RSS feeds run tens of KB; caps a slow/hostile response
+
+async function readBodyCapped(res: Response, capBytes: number): Promise<string> {
+  const reader = res.body?.getReader();
+  if (!reader) return res.text();
+  const decoder = new TextDecoder();
+  let received = 0;
+  let out = "";
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    received += value.byteLength;
+    if (received > capBytes) {
+      await reader.cancel().catch(() => {});
+      throw new Error(`Response exceeded ${capBytes} byte cap`);
+    }
+    out += decoder.decode(value, { stream: true });
+  }
+  out += decoder.decode();
+  return out;
+}
+
 async function fetchOneFeed(source: { id: string; label: string; url: string }) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 8000);
@@ -93,7 +121,7 @@ async function fetchOneFeed(source: { id: string; label: string; url: string }) 
     if (!res.ok) {
       throw new Error(`HTTP ${res.status}`);
     }
-    const xml = await res.text();
+    const xml = await readBodyCapped(res, MAX_FEED_BYTES);
     return { items: parseRss(xml, source.id, source.label), error: null as string | null };
   } catch (err) {
     return { items: [] as LegalFeedItem[], error: err instanceof Error ? err.message : String(err) };
@@ -115,7 +143,12 @@ export async function getLegalFeed(forceRefresh = false): Promise<CacheEntry> {
     const source = FEED_SOURCES[idx];
     if (result.error) {
       errors.push({ sourceId: source.id, label: source.label, message: result.error });
+      const stale = lastGoodBySource.get(source.id);
+      if (stale && stale.length > 0) {
+        items.push(...stale);
+      }
     } else {
+      lastGoodBySource.set(source.id, result.items);
       items.push(...result.items);
     }
   });
