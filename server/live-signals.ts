@@ -93,6 +93,18 @@ async function fetchWithTimeout(url: string): Promise<string> {
 
 const IP_CAUSE_PATTERN = /copyright|trademark|patent|lanham|digital millennium|right of publicity/i;
 
+// Product/version suffixes ("Midjourney v6", "Runway Gen-4", "Sora 2", "Veo 3.1") almost never
+// appear verbatim in a docket — litigation captions and filings name the company or the base
+// product, not the marketing version string. Tested directly against CourtListener: quoting
+// "Runway Gen-4" as an exact phrase returns a single, unrelated result (an EVOX v. Stability AI
+// copyright case that does not contain that phrase at all), while stripping to "Runway" recovers
+// the real, on-point "David Vance Gardner v. Runway AI, Inc." DMCA docket. Stripping the version
+// tag before searching is required, not optional, for the dropdown's own values to work.
+function stripVersionSuffix(term: string): string {
+  const stripped = term.replace(/\s+(v\d+(\.\d+)?|gen[-\s]?\d+(\.\d+)?|\d+(\.\d+)?)$/i, "").trim();
+  return stripped.length > 0 ? stripped : term;
+}
+
 async function searchCaseLaw(rawQuery: string): Promise<{ hits: CaseLawHit[]; error: string | null }> {
   try {
     // type=r = RECAP federal docket search (actual filed complaints/dockets, updated as
@@ -103,7 +115,7 @@ async function searchCaseLaw(rawQuery: string): Promise<{ hits: CaseLawHit[]; er
     // named "Dall") and AND-scoped to common IP causes of action, verified against
     // CourtListener directly: this materially improves precision for generic model names
     // ("Sora", "Runway") that otherwise collide with unrelated personal names and companies.
-    const term = rawQuery.replace(/"/g, "");
+    const term = stripVersionSuffix(rawQuery.replace(/"/g, ""));
     const phrase = `"${term}" AND (copyright OR trademark OR patent OR "right of publicity" OR "artificial intelligence")`;
     const url = `${COURTLISTENER_BASE}?q=${encodeURIComponent(phrase)}&type=r&order_by=score desc`;
     const raw = await fetchWithTimeout(url);
