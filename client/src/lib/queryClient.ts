@@ -6,6 +6,12 @@ export function getLegalFeedUrl(forceRefresh = false) {
   return `${API_BASE}/api/legal-feed${forceRefresh ? "?refresh=1" : ""}`;
 }
 
+export function getLiveSignalsUrl(query: string, forceRefresh = false) {
+  const params = new URLSearchParams({ q: query });
+  if (forceRefresh) params.set("refresh", "1");
+  return `${API_BASE}/api/live-signals?${params.toString()}`;
+}
+
 async function throwIfResNotOk(res: Response) {
   if (!res.ok) {
     const text = (await res.text()) || res.statusText;

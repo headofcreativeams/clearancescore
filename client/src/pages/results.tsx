@@ -1,13 +1,38 @@
 import { useState } from "react";
 import { Link } from "wouter";
-import { AlertTriangle, ExternalLink, ShieldCheck, ShieldAlert, Gavel, Landmark, CheckSquare, Square } from "lucide-react";
+import { useQuery } from "@tanstack/react-query";
+import { AlertTriangle, ExternalLink, ShieldCheck, ShieldAlert, Gavel, Landmark, CheckSquare, Square, Radar, RefreshCw, Scale, Newspaper } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { Skeleton } from "@/components/ui/skeleton";
 import { ScoreGauge } from "@/components/score-gauge";
 import { SubScoreChart } from "@/components/subscore-chart";
 import { useScan } from "@/lib/scan-context";
 import { LEGAL_CASES, VENDOR_PROGRAMS, INSURANCE_BANDS, scoreBand } from "@/lib/scan-data";
+import { getLiveSignalsUrl } from "@/lib/queryClient";
+
+interface CaseLawHit {
+  caseName: string;
+  court: string;
+  dateFiled: string | null;
+  docketNumber: string | null;
+  cause: string | null;
+  url: string;
+}
+interface NewsHit {
+  title: string;
+  link: string;
+  pubDate: string | null;
+}
+interface LiveSignalsResponse {
+  query: string;
+  caseLaw: CaseLawHit[];
+  news: NewsHit[];
+  fetchedAt: number;
+  errors: { source: string; message: string }[];
+}
 
 const confidenceVariant: Record<string, "secondary" | "default" | "destructive"> = {
   Low: "secondary",
@@ -18,6 +43,30 @@ const confidenceVariant: Record<string, "secondary" | "default" | "destructive">
 export default function Results() {
   const { activeScan } = useScan();
   const [checked, setChecked] = useState<Record<string, boolean>>({});
+  const [liveRefreshNonce, setLiveRefreshNonce] = useState(0);
+
+  const liveQuery = activeScan?.generativeModel ?? "";
+  const {
+    data: liveData,
+    isLoading: liveLoading,
+    isFetching: liveFetching,
+    error: liveError,
+    refetch: refetchLive,
+  } = useQuery<LiveSignalsResponse>({
+    queryKey: ["/api/live-signals", liveQuery],
+    queryFn: async () => {
+      const res = await fetch(getLiveSignalsUrl(liveQuery, liveRefreshNonce > 0));
+      if (!res.ok) throw new Error(`${res.status}: ${res.statusText}`);
+      return res.json();
+    },
+    enabled: Boolean(liveQuery),
+    staleTime: 5 * 60 * 1000,
+  });
+
+  function handleRefreshLive() {
+    setLiveRefreshNonce((n) => n + 1);
+    refetchLive();
+  }
 
   if (!activeScan) {
     return (
@@ -167,6 +216,146 @@ export default function Results() {
               </a>
             </div>
           ))}
+        </CardContent>
+      </Card>
+
+      {/* Live legal signals — real, unfiltered, keyless search, not part of the score */}
+      <Card>
+        <CardHeader>
+          <div className="flex items-center justify-between gap-2 flex-wrap">
+            <CardTitle className="text-base flex items-center gap-2">
+              <Radar className="h-4 w-4 text-muted-foreground" />
+              Live legal signals
+            </CardTitle>
+            <div className="flex items-center gap-2">
+              <Badge variant="outline" className="text-[10px] font-mono uppercase tracking-wide">
+                Real-time · live data
+              </Badge>
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={handleRefreshLive}
+                disabled={liveFetching}
+                data-testid="button-refresh-live-signals"
+              >
+                <RefreshCw className={`h-3.5 w-3.5 ${liveFetching ? "animate-spin" : ""}`} />
+                Refresh
+              </Button>
+            </div>
+          </div>
+          <CardDescription>
+            Unfiltered, real-time search of federal court dockets (CourtListener RECAP / Free Law Project) and news for &quot;{activeScan.generativeModel}&quot;.
+            This is a raw search layer for a human reviewer, not a detection result, and it does not feed the score above.
+          </CardDescription>
+        </CardHeader>
+        <CardContent className="space-y-4">
+          {liveError && (
+            <Alert variant="destructive">
+              <AlertTriangle className="h-4 w-4" />
+              <AlertTitle>Live signals unavailable</AlertTitle>
+              <AlertDescription>Could not reach the live search service. Try refreshing in a moment.</AlertDescription>
+            </Alert>
+          )}
+
+          {liveData && liveData.errors.length > 0 && (
+            <Alert variant="destructive">
+              <AlertTriangle className="h-4 w-4" />
+              <AlertTitle>Some sources did not respond</AlertTitle>
+              <AlertDescription>
+                {liveData.errors.map((e) => e.source).join(", ")} failed to load this cycle.
+              </AlertDescription>
+            </Alert>
+          )}
+
+          {liveLoading && (
+            <div className="space-y-2">
+              <Skeleton className="h-4 w-full" />
+              <Skeleton className="h-4 w-2/3" />
+              <Skeleton className="h-4 w-3/4" />
+            </div>
+          )}
+
+          {!liveLoading && liveData && (
+            <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+              <div>
+                <p className="mb-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                  <Scale className="h-3.5 w-3.5" /> Case law ({liveData.caseLaw.length})
+                </p>
+                {liveData.caseLaw.length === 0 ? (
+                  <p className="text-sm text-muted-foreground">No matching filings found on this pass.</p>
+                ) : (
+                  <ul className="space-y-2">
+                    {liveData.caseLaw.map((c, i) => (
+                      <li key={i}>
+                        <a
+                          href={c.url || "#"}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="group block rounded-md border border-border p-3 hover-elevate"
+                          data-testid={`link-live-case-${i}`}
+                        >
+                          <p className="text-sm font-medium text-foreground leading-snug flex items-start gap-1.5">
+                            <span>{c.caseName}</span>
+                            <ExternalLink className="mt-0.5 h-3 w-3 shrink-0 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity" />
+                          </p>
+                          <p className="mt-1 text-xs text-muted-foreground">
+                            {c.court || "Court not specified"}
+                            {c.dateFiled ? ` · Filed ${new Date(c.dateFiled).toLocaleDateString("en-US")}` : ""}
+                            {c.docketNumber ? ` · No. ${c.docketNumber}` : ""}
+                          </p>
+                          {c.cause && <p className="mt-0.5 text-xs text-muted-foreground/80">{c.cause}</p>}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+              <div>
+                <p className="mb-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                  <Newspaper className="h-3.5 w-3.5" /> News ({liveData.news.length})
+                </p>
+                {liveData.news.length === 0 ? (
+                  <p className="text-sm text-muted-foreground">No matching headlines found on this pass.</p>
+                ) : (
+                  <ul className="space-y-2">
+                    {liveData.news.map((n, i) => (
+                      <li key={i}>
+                        <a
+                          href={n.link || "#"}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="group block rounded-md border border-border p-3 hover-elevate"
+                          data-testid={`link-live-news-${i}`}
+                        >
+                          <p className="text-sm font-medium text-foreground leading-snug flex items-start gap-1.5">
+                            <span>{n.title}</span>
+                            <ExternalLink className="mt-0.5 h-3 w-3 shrink-0 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity" />
+                          </p>
+                          <p className="mt-1 text-xs text-muted-foreground">
+                            {n.pubDate ? new Date(n.pubDate).toLocaleDateString("en-US") : "Undated"}
+                          </p>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </div>
+          )}
+
+          {liveData?.fetchedAt && (
+            <p className="text-[11px] text-muted-foreground border-t border-border pt-3">
+              Fetched {new Date(liveData.fetchedAt).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })} from{" "}
+              <a href="https://www.courtlistener.com/api/rest/v4/search/" target="_blank" rel="noreferrer" className="underline decoration-dotted hover:text-foreground">
+                CourtListener
+              </a>{" "}
+              and{" "}
+              <a href="https://news.google.com/" target="_blank" rel="noreferrer" className="underline decoration-dotted hover:text-foreground">
+                Google News
+              </a>
+              . Results are query-matched only, not reviewed for relevance, and are not a substitute for a docket-monitoring or legal-research subscription.
+            </p>
+          )}
         </CardContent>
       </Card>
 
