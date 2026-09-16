@@ -15,7 +15,7 @@ const GENERATIVE_MODELS = [
   "DALL·E 3",
   "Adobe Firefly",
   "Stable Diffusion",
-  "Sora 2",
+  "GPT-5.6 Sol / GPT-6 Astra",
   "Veo 3.1",
   "Runway Gen-4",
   "Other / unknown",

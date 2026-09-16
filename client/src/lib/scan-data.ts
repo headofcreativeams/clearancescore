@@ -272,7 +272,7 @@ export const DEMO_SCANS: ScanResult[] = [
     id: "scan-1035",
     assetName: "brand_mascot_explainer_loop.mp4",
     assetKind: "video",
-    generativeModel: "Sora 2",
+    generativeModel: "GPT-5.6 Sol / GPT-6 Astra",
     intendedUse: "Internal pitch deck",
     scannedAt: "2026-08-19T11:15:00-04:00",
     reviewer: "K. Osei",

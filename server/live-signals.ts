@@ -105,6 +105,22 @@ function stripVersionSuffix(term: string): string {
   return stripped.length > 0 ? stripped : term;
 }
 
+// Some dropdown values are internal model-family codenames, not product names that would ever
+// appear verbatim in a docket. Tested directly against CourtListener: quoting "GPT-5.6 Sol / GPT-6
+// Astra" returns zero results (count 0) since no filing contains that exact internal name, while
+// searching the parent company "OpenAI" surfaces the real, on-point litigation (In Re: OpenAI,
+// Inc. Copyright Infringement Litigation; The Seattle Times Company v. OpenAI Inc.; and others).
+// The generic version-suffix stripper above can't fix this case because the mismatch isn't a
+// trailing version number, so this alias table is checked first for known dropdown values.
+const MODEL_SEARCH_ALIASES: Record<string, string> = {
+  "gpt-5.6 sol / gpt-6 astra": "OpenAI",
+};
+
+function resolveSearchTerm(rawTerm: string): string {
+  const alias = MODEL_SEARCH_ALIASES[rawTerm.trim().toLowerCase()];
+  return alias ?? stripVersionSuffix(rawTerm);
+}
+
 async function searchCaseLaw(rawQuery: string): Promise<{ hits: CaseLawHit[]; error: string | null }> {
   try {
     // type=r = RECAP federal docket search (actual filed complaints/dockets, updated as
@@ -115,7 +131,7 @@ async function searchCaseLaw(rawQuery: string): Promise<{ hits: CaseLawHit[]; er
     // named "Dall") and AND-scoped to common IP causes of action, verified against
     // CourtListener directly: this materially improves precision for generic model names
     // ("Sora", "Runway") that otherwise collide with unrelated personal names and companies.
-    const term = stripVersionSuffix(rawQuery.replace(/"/g, ""));
+    const term = resolveSearchTerm(rawQuery.replace(/"/g, ""));
     const phrase = `"${term}" AND (copyright OR trademark OR patent OR "right of publicity" OR "artificial intelligence")`;
     const url = `${COURTLISTENER_BASE}?q=${encodeURIComponent(phrase)}&type=r&order_by=score desc`;
     const raw = await fetchWithTimeout(url);
