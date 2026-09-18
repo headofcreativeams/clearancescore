@@ -1,7 +1,6 @@
 import type { Express } from "express";
 import { createServer } from 'node:http';
 import type { Server } from 'node:http';
-import { storage } from "./storage";
 import { getLegalFeed, getFeedSourceList } from "./legal-feed";
 import { getLiveSignals } from "./live-signals";
 
@@ -10,8 +9,6 @@ export async function registerRoutes(
   app: Express
 ): Promise<Server> {
   // prefix all routes with /api
-  // use storage to perform CRUD operations on the storage interface
-  // e.g. app.get("/api/items", async (_req, res) => { ... })
 
   // Persistent legal-updates feed: aggregates real, live RSS sources (Google News
   // search feeds + IPWatchdog) server-side, cached for 15 minutes per instance.
