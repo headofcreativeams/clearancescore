@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { getLegalFeedUrl } from "@/lib/queryClient";
 
 interface LegalFeedItem {
@@ -45,12 +45,19 @@ const sourceColors: Record<string, string> = {
 };
 
 export default function LegalUpdates() {
-  const [refreshNonce, setRefreshNonce] = useState(0);
+  // A ref, not state: handleRefresh() needs the incremented value visible to
+  // queryFn on the SAME call that triggers refetch(). A state setter is not
+  // applied until the next render, so refetch() would still read the
+  // pre-increment closure value and hit the same cached URL — invisible
+  // against the old Express server, but static JSON on GitHub Pages is
+  // served with a 10-minute cache-control, which made stale results
+  // reappear after clicking Refresh.
+  const refreshNonce = useRef(0);
 
   const { data, isLoading, isFetching, error, refetch } = useQuery<LegalFeedResponse>({
     queryKey: ["/api/legal-feed"],
     queryFn: async () => {
-      const res = await fetch(getLegalFeedUrl(refreshNonce > 0));
+      const res = await fetch(getLegalFeedUrl(refreshNonce.current > 0));
       if (!res.ok) throw new Error(`${res.status}: ${res.statusText}`);
       return res.json();
     },
@@ -60,7 +67,7 @@ export default function LegalUpdates() {
   });
 
   function handleRefresh() {
-    setRefreshNonce((n) => n + 1);
+    refreshNonce.current += 1;
     refetch();
   }
 

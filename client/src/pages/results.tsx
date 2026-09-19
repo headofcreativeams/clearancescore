@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { Link } from "wouter";
 import { useQuery } from "@tanstack/react-query";
 import { AlertTriangle, ExternalLink, ShieldCheck, ShieldAlert, Gavel, Landmark, CheckSquare, Square, Radar, RefreshCw, Scale, Newspaper } from "lucide-react";
@@ -43,7 +43,14 @@ const confidenceVariant: Record<string, "secondary" | "default" | "destructive">
 export default function Results() {
   const { activeScan } = useScan();
   const [checked, setChecked] = useState<Record<string, boolean>>({});
-  const [liveRefreshNonce, setLiveRefreshNonce] = useState(0);
+  // A ref, not state: handleRefreshLive() needs the incremented value visible
+  // to queryFn on the SAME call that triggers refetch(). A state setter is
+  // not applied until the next render, so refetch() would still read the
+  // pre-increment closure value and hit the same cached URL — invisible
+  // against the old Express server, but static JSON on GitHub Pages is
+  // served with a 10-minute cache-control, which made stale results
+  // reappear after clicking Refresh.
+  const liveRefreshNonce = useRef(0);
 
   const liveQuery = activeScan?.generativeModel ?? "";
   const {
@@ -55,7 +62,7 @@ export default function Results() {
   } = useQuery<LiveSignalsResponse>({
     queryKey: ["/api/live-signals", liveQuery],
     queryFn: async () => {
-      const res = await fetch(getLiveSignalsUrl(liveQuery, liveRefreshNonce > 0));
+      const res = await fetch(getLiveSignalsUrl(liveQuery, liveRefreshNonce.current > 0));
       if (!res.ok) throw new Error(`${res.status}: ${res.statusText}`);
       return res.json();
     },
@@ -64,7 +71,7 @@ export default function Results() {
   });
 
   function handleRefreshLive() {
-    setLiveRefreshNonce((n) => n + 1);
+    liveRefreshNonce.current += 1;
     refetchLive();
   }
 
