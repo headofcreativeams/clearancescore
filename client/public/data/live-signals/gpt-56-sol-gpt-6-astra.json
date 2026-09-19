@@ -68,9 +68,9 @@
   ],
   "news": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:42:16 GMT"
     },
     {
       "title": "GPT-6 Astra can turn photos into 3D models and playable environments - VoxelMatters",
@@ -81,11 +81,6 @@
       "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI officially launches GPT-6 Astra, a boundary-breaking new model - Mashable SEA",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2toa3RQNDR2TWdscHBVRTJMTHVlQzN5ejFnWXNVMmpHUFlCTHlHbEtVQnpOaFFZSWJtT2l6UUJBRW80cnpPWEFXZWxfZlNqeC11RXRKcVJIUExPenBfYy1HRTVlZFFPUXBfeTFraGdMM3NGS3NYR3h1RHBnX3ZXLTdHSFo5ZHVQV3E4MXkwY2RBMk1HTmxndTNzZUFiZU43VHVGR1JWMA?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI throws Astra into the top-tier model ring - The Register",
@@ -106,8 +101,13 @@
       "title": "OpenAI's GPT-6 Astra Masters Advanced Math, Scores 98% On FrontierMath - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUFB4V01fUFB2V09ZYll3YnNTMk5BTDBEaXkyX1BwSHNPQjNSRGc2Y3JrWXJDVjEyTFM2VlFqNmxOVDVxdXFnSTMtUURtak9JX1Bya2tHNDUtWmo0RWZ6WlN2cjdUODlVOXRxOFFpS1V5T0h2?oc=5",
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU5LaWZMQ0Z4UXRKQzNYTmktZlUwdWV0eGViaG11Z0RjRHd1M09FWVQ4ZHp5WTlaa21lcW9UMmUxVWJNOWJuZ19rZVR5MXFZWlR4NWVfWDJUUWI3bWMzZUZjWm1rRzVMcml1aXZqbEUtVVpqTjEtZVpZWDZyOTBaU3BsVTUwZmZqUU4xamxrX1NqV05y?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 21:30:01 GMT"
     }
   ],
-  "fetchedAt": 1789837307079,
+  "fetchedAt": 1789845580553,
   "errors": []
 }
