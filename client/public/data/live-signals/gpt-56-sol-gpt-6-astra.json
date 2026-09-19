@@ -1,7 +1,113 @@
 {
-  "query": "",
-  "caseLaw": [],
-  "news": [],
-  "fetchedAt": 0,
-  "errors": [{"source": "init", "message": "Placeholder — populated by the first scheduled data refresh."}]
+  "query": "GPT-5.6 Sol / GPT-6 Astra",
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Sullivan v. OpenAI Foundation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-14",
+      "docketNumber": "1:26-cv-06966",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/"
+    },
+    {
+      "caseName": "The Seattle Times Company v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-09-04",
+      "docketNumber": "1:26-cv-07644",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+      "court": "E.D. Tex.",
+      "dateFiled": "2026-08-31",
+      "docketNumber": "2:26-cv-00774",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "TRINIDAD v. OPENAI INC",
+      "court": "N.D. Fla.",
+      "dateFiled": "2025-07-03",
+      "docketNumber": "4:25-cv-00284",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Erickson v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-02-12",
+      "docketNumber": "3:26-cv-01303",
+      "cause": "28:1338 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
+    }
+  ],
+  "news": [
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:42:16 GMT"
+    },
+    {
+      "title": "GPT-6 Astra can turn photos into 3D models and playable environments - VoxelMatters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2ItZ1h2QWkycGpVb0RLM2tfaDh5eGJmTXg5WnhpREp6M3VhbUpWeXhJV05LaldHZ1RlcE91bkdfQUpLNlphek9WYkFEOUU1MExLWkRSSmVkVnl1cEtHTmxwa21MYXBvTzYtc19QVnlSTWtNRVYzOTlfcGJfUU0xU2ZneXhkTWFHMUtfN01LOWtQRFNnMHo4bWRFQ1plNzjSAaQBQVVfeXFMTV90c3plMTBtMHlabTVTVmYwTkhiU2hadzdDMkhDUUlvSmhwOUU3TENOdm1zTXlxU2trZGpUczA1WnpvZ0VLblh6ak5pZi1XaWZrSnlxQXgwbklsR2d2d1BhZGdYWE1oUVVZZTZFcDRneHVPUmhYZlJmb1hnM1IxdDZ0SUMzSEdPSnZBbmdBWmRQcUU1QllmMHRCcHB5aWd5ckNEOXk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 18:14:12 GMT"
+    },
+    {
+      "title": "OpenAI officially launches GPT-6 Astra, a boundary-breaking new model - Mashable SEA",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2toa3RQNDR2TWdscHBVRTJMTHVlQzN5ejFnWXNVMmpHUFlCTHlHbEtVQnpOaFFZSWJtT2l6UUJBRW80cnpPWEFXZWxfZlNqeC11RXRKcVJIUExPenBfYy1HRTVlZFFPUXBfeTFraGdMM3NGS3NYR3h1RHBnX3ZXLTdHSFo5ZHVQV3E4MXkwY2RBMk1HTmxndTNzZUFiZU43VHVGR1JWMA?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - artificiallawyer.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Unveils GPT-6 Astra, Trails Anthropic and Meta in Benchmarks - thelec.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44M2JiX2xrSG5fRzRQMkt3RmktM0czc1RYMWtEeTFfZXRiX1dIdklwLXZmcVAwOG5JQnQ2TnpBSTZQZHhhR1FpRV9nU3RUMkhyT3VZVE44bnFCdnRCREdpSTNaUS1NNHc?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI throws Astra into the top-tier model ring - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW1NVnJtclZmQV9oSXB6bElWdk44blRKTjFJNWJuc2p0TEhtTHA0LWtJY3JBNXpnbkZWbVlMVTl2MzItT3ZjS0FMMUVOTG4yb21sSlZJTS15OXk4TW82RXljQldUQXA2al9fbllUT3FVYUNxaUJOajJmQmpYQm1wa2lPTl9NcllTX2EyQjFqR2o4R2ZzM2tZdnNBNk9jcTlHcXBySk9iM1U?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra Masters Advanced Math, Scores 98% On FrontierMath - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUFB4V01fUFB2V09ZYll3YnNTMk5BTDBEaXkyX1BwSHNPQjNSRGc2Y3JrWXJDVjEyTFM2VlFqNmxOVDVxdXFnSTMtUURtak9JX1Bya2tHNDUtWmo0RWZ6WlN2cjdUODlVOXRxOFFpS1V5T0h2?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Has AI surpassed human intelligence? What OpenAI’s GPT-6 Astra can actually do - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0ZDVXFpR1AyZ1lpekhLTkVzNG9XclJWMnFka0RXRXBqSUNyQWxLSzlXNG1JVFRQeUZUbllLWGVzZUxkdW1nS3Zxc2pXY2pxcm9GQ2t0Wl9FbUtveGpqNDhySVpTY1ZmX19EaEt4VjdvWjBTUkdGTTJCMFh5SEdqREViR0ZkWU5MUldjNktQc2NGcUgxSU1BTFNGeHZlUFptbmJBN0pQZkNBaUVjOXpIbzhvZnFMY3B5a3Q0cXJYY21KdE0yQldfcUY1SF85OWFSYktHenprWWtxeDl4WjZSdzE2c1hMMTcxdGlJNGRORXA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
+    }
+  ],
+  "fetchedAt": 1789825949842,
+  "errors": []
 }

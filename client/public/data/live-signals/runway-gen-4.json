@@ -1,7 +1,113 @@
 {
-  "query": "",
-  "caseLaw": [],
-  "news": [],
-  "fetchedAt": 0,
-  "errors": [{"source": "init", "message": "Placeholder — populated by the first scheduled data refresh."}]
+  "query": "Runway Gen-4",
+  "caseLaw": [
+    {
+      "caseName": "David Vance Gardner v. Runway AI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-05-26",
+      "docketNumber": "1:26-cv-04360",
+      "cause": "17:1201 Digital Millennium Copyright Act",
+      "url": "https://www.courtlistener.com/docket/73391100/david-vance-gardner-v-runway-ai-inc/"
+    },
+    {
+      "caseName": "David Vance Gardner v. Runway AI, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2026-02-23",
+      "docketNumber": "2:26-cv-01941",
+      "cause": "Digital Millennium Copyright Act",
+      "url": "https://www.courtlistener.com/docket/72318854/david-vance-gardner-v-runway-ai-inc/"
+    },
+    {
+      "caseName": "Engineered Arresting Systems Corporation v. Runway Safe LLC",
+      "court": "W.D. Tex.",
+      "dateFiled": "2015-06-22",
+      "docketNumber": "1:15-cv-00546",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/5471851/engineered-arresting-systems-corporation-v-runway-safe-llc/"
+    },
+    {
+      "caseName": "Trendy Continue Inc v. Your Runway",
+      "court": "C.D. Cal.",
+      "dateFiled": "2014-06-03",
+      "docketNumber": "2:14-cv-04271",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/5892040/trendy-continue-inc-v-your-runway/"
+    },
+    {
+      "caseName": "Trove Brands, LLC v. The Individuals, Corporations, Limited Liability Companies, Partnerships, and Unincorporated Associations Identified on Schedule A",
+      "court": "S.D. Fla.",
+      "dateFiled": "2025-12-16",
+      "docketNumber": "1:25-cv-25914",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/72043383/trove-brands-llc-v-the-individuals-corporations-limited-liability/"
+    },
+    {
+      "caseName": "Runway TV, LLC v. Eurl Eleonora De Gray",
+      "court": "C.D. Cal.",
+      "dateFiled": "2018-03-28",
+      "docketNumber": "2:18-cv-02503",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/6508668/runway-tv-llc-v-eurl-eleonora-de-gray/"
+    },
+    {
+      "caseName": "Star Fabrics, Inc. v. Runway Fashions, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2015-10-16",
+      "docketNumber": "2:15-cv-08152",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/4153469/star-fabrics-inc-v-runway-fashions-inc/"
+    },
+    {
+      "caseName": "Trove Brands, LLC v. TRRS Magnate LLC",
+      "court": "E.D. Cal.",
+      "dateFiled": "2022-12-14",
+      "docketNumber": "2:22-cv-02222",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/66640612/trove-brands-llc-v-trrs-magnate-llc/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Generative AI Startup Runway Releases Gen-4.5 Video Model - AI Business",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wZzBNNExEOHR5eTFBTTl1a1daRFNoQWRIRENKM2FlSm5xbXI0eGJoNV9jZWI1ZlFSdzZRWlo4bGZJeDRDZlh3WVpnZWFfV3dPYzdBRFNnQlBhODdfeEFOY0lKT1FQbWFnbHFIbVhxQlplR2VBb1BqWk5uUlo?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xNl9XM2JuQy1YZnA0cGpOQng4MHY2SF8td3g1OVpEbFRCSm1SQUdFUk96Vkd0c1BwX3FCQnd0ajl2WnkzSUUwSzZnNDhzTUFuZVFUeEg5dGo2RHlBSVVLdkEwUzYydi0yVmNkeGlULTZZNndiUGhUNTNLclk?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Seedance 2.0 Videos Continue to Break the Internet, But is the AI Slop Worth the Squeeze? - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5LWt1TWMyS1VIZ25xQkphWDlQd2xpMTFaaDZRTGstaDFBUlZ4ZEl3TUhxUl9Tb0lXZzFwSE1iYnpkQ3RBN1JzZWh2cmMxYldwLVpJWlFfaEg3dkhzMDNCN1JkRQ?oc=5",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Runway Gen-4.5 Sets New Benchmark for AI Video Quality - timesofai.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWZTR0hhNnd5aTRNbmF0SkswczB2Zm5aMUlJZHN6T3RPem9Dck9BS3ZxZ2ZPWUJzdWt0SFpqd1RWRklqUi1Xb2U4WGI4QnI1NnVCSDhwOWFJOE55OFpVR3RWNDZHWnVNUDVXZjNhR0NsdTZLVndwc3RYbWV5Qy1iZjlaSXNoZjAteE5SRjZkZkFDSGZwd0E?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Runway’s new Gen-4.5 text-to-video model that beats OpenAI’s Sora 2, Google’s Veo 3 - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2QVpZanEweE5zSXJ4SU03cFlHMk9naC1lTDNLcmdQVDM5cmRvRHcyMGF1bmNvT0l4REJtaF9vRWpCZFc2LWpQc0VoTUFUTVhMVE14TkRpb2d1N1RocEgySk9kQlhiaHRuR2pNUlVSRkJFY0JaNDltaWp0Q2lKQWtXcUdJV0FnSC1oNTlhcFA2U2xwQWZ1cmtfZFAyYkg4WUJDSUxwN2ZtbmJLOXZtRXpFNTJnVWtjVUR2RzlOUk15eFpRNHdCZlBKWExnNk1XZTI3V09qOGdIcWVvWUtuekthTDlYUkRSWHJ3UGg4c9IB9gFBVV95cUxPZXlNZWZTclZzOXNCblZiNHBKTy1KRU9ZLXBKbjBTTWRUeko0S0R4b0tJYWFwbW9sOXRyVklkSXVIajFld1EycFZYTGVTdUdVTE9Wa3Qya2kzTUtTZjN6Z0RwUUxkeTJpaTJGcWtCcDNGaVMzamkweUJaZnBVaGUxaXhqU1lmYnhWb2xlRE5XOWdYOFFqMlJfZEc0ejgycDVXYzRUWGpRSHc3elVHMGJ1YmZnVnR2T1FVNVJKRjdURUx6U1JqWVlvY21LdUtZODZUQXBlSVNRM214eDZnMVd1YmpGeEZNRzR1Sl9hNm5QTHRHdjN4cXc?oc=5",
+      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Netflix using startup Runway AI’s video tools for production - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUU81bXgzMTh4THBFT3pTVm1TZHJoeVVPbjFmZXFIUkF6NkhqaGpSQ0daTy1SNDVJeDJFeUN3VXU0ejlka3I0c2tSenJvWXBHeW5zeDFKM3ViU0gxZFlfYjJjeGZSUzdPOUNLRWhJN04xNmpjbTAwMVZrVG54UDNrQjJUcEppUHo2OWotenl4aDI5VXJNVTZPZmRobEtXdHd1N1piNjNueTdZcE5YOUE?oc=5",
+      "pubDate": "Tue, 22 Jul 2025 07:00:00 GMT"
+    }
+  ],
+  "fetchedAt": 1789825952775,
+  "errors": []
 }

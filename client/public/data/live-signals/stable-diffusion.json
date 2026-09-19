@@ -1,7 +1,113 @@
 {
-  "query": "",
-  "caseLaw": [],
-  "news": [],
-  "fetchedAt": 0,
-  "errors": [{"source": "init", "message": "Placeholder — populated by the first scheduled data refresh."}]
+  "query": "Stable Diffusion",
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Barkley and Associates, Inc. v. Quizlet, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2024-07-16",
+      "docketNumber": "2:24-cv-05964",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/68948422/barkley-and-associates-inc-v-quizlet-inc/"
+    },
+    {
+      "caseName": "Getty Images (US), Inc. v. Stability AI, Ltd.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-08-14",
+      "docketNumber": "3:25-cv-06891",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71112094/getty-images-us-inc-v-stability-ai-ltd/"
+    },
+    {
+      "caseName": "Tremblay v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-06-28",
+      "docketNumber": "4:23-cv-03223",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
+    },
+    {
+      "caseName": "Andersen v. Stability AI Ltd.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-01-13",
+      "docketNumber": "3:23-cv-00201",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/"
+    },
+    {
+      "caseName": "Getty Images (US), Inc. v. Stability AI, Inc.",
+      "court": "D. Del.",
+      "dateFiled": "2023-02-03",
+      "docketNumber": "1:23-cv-00135",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/"
+    },
+    {
+      "caseName": "Daily News LP v. Microsoft Corporation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2024-04-30",
+      "docketNumber": "1:24-cv-03285",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68484432/daily-news-lp-v-microsoft-corporation/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - CNET",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 16:17:00 GMT"
+    },
+    {
+      "title": "Getty Images vs. Stability AI: copyright explained - winstontaylor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkNnTnRGNGhUNGFPaENodi1LWWUwMHMwa3pDdzZ0MnZPSEdwdDZrSTkxNUF3RmxDZ3V6U1hwbFJHNzBJNzhqdG1OdU8xbGU2ZXpHOWU0SUZjaFhISTBaSE5HSVBUNVVrZ3V4dUZMckc4MlJxUG5OM0NEeWJpX0YtVTBwV2pTMF9SUjRYQVBXSkI?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:34:49 GMT"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FKNHdfM3BRWkVEUHUzX04tSXdiRzF6N3pyNnJwT2ZFZEJLVkNUcllnYXNXZlBINlZNdDN5bTNsVi16ZGZpMUx5VFRhUlZYSkw1Smstb3VVNGRNSTk1b2VVYXBtMXdfYTI1RE5sby1OZkxfYWM3eS1HWGgzTGd5bWZkdTY1YmRFMWRJRjh3ekZtLTVWWFdIMkFaTDJFbkVmRktXMzhXSGs4b3JHUDdDZ0loa0Z6Nm1FMkluQmdKWGJHdw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Two AI copyright cases, two very different outcomes – here’s why - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUI1WUktTUdXaVk5NTR4Sk5xUjJJNGRQWlJGb0d5eGM0OHVjci10Nm5ZUHhrN1ZkYzFfSnB4Q0taODgzd2FLZTFaOU5xdlBxWFFkMjNvSk5tcTVHdFVMV2dCWndCMnotS3RTbi1OQUk5QlpTSTJpVXFYZ2J0bFZEYWtMZWM3QjJrbkd6ZnFoS2oxcnNRdmRXNHBWTQ?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Getty Images v. Stability AI: English High Court Rejects Secondary Copyright Claim - Latham & Watkins LLP",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVNSC1RR2lwM2tFUU0wOWhNYUpTNTRTdUgxRmE2dktqZjhpaGJUdHp3VVktM0dIZWw2YXhscXd3MnIwaU5EWDhiYlM0TDZfZmZLNkpkbF9uQ3pVdlhKLURZWmJ1Y0FJVlozODU5cGNpSF9EYlhMYnlGQmkxYkVhMm9rYV9nUFdNcy12T3VIRm01OXQ2N195LWROODFmQVl5d1BzQkJLal82OHJQMXJXdA?oc=5",
+      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Getty Images v Stability AI: What the High Court’s Decision Means for Rights-Holders and AI Developers - Mayer Brown",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRG5KOTFlY04zb2VUWklLN0dnN0M0cEhiLS14akhicm5DQkdsYWEycE16Q1J3OHBoT3dwUEl5bm8xSzRtd0k1WmVPa0tuSXNyRVFFMHRBUmQ3LW9iUXpPRUxTdVNtd05zSlJNSWJRVnNaZ1JwZFpKQXcwZ1BzQW85cDgwdks3VXY5bWRqRUtkY1BSVHlGWFZnM280QTFPLWx5bmF4aHVsRXdVcDdMdnFEaE44MkZ1TnI3b2pSc1Y1ZjV2cG1QU1M3bTVlYUwyZjgwNjdnMUdpSExaQ3ZCcHMxcUZjTXU5b2Jab2dSanQwQWk0QQ?oc=5",
+      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Deepfake CSAM lawsuit against xAI, Grok expands - CyberScoop",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJfZElLMFIzSjNmdjJZRVVobE5VR0VjUjNKQUJvYkhEWnhSTjRGZ1kyYUE0NkI3bGd0bklXNnFUTnVGS0NDc2VrcldCd3FJblQwT0ZaWjdjbzlBSFBjM2paSy1zaTdLeHVXVXVHcWxiY1FrOXdUWWpNU0JHWDNRNQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Getty Images largely loses landmark UK lawsuit over AI image generator - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUlRwX2JHd2g1aFpvbEVNcmdTMG1fTDZKd2pEbWp6X0pMNTFTYi1XN2tpbHA3YVJGWnZJa1FPR05id0hNcDlzenVQYzByN0tUYkYxMjhPc0g2RTVIMGRjY0J2OTVtRlo1ZUZjS2ZoR2J0MTdHcUxZSm1jN19aT3JCWW5uVnlrTnFYSWZQcGNCdXNyaW1UbjN2WXJhekZPb3Q3VDF6VVV4YkVfMldmYVdTbGkwdU9nN3lUY2Jfclh2cHY2X2YtT1ltVXBWVXVVbFJFcjRrcUI2S2lfMUV0NHZv?oc=5",
+      "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "fetchedAt": 1789825948765,
+  "errors": []
 }
