@@ -2,14 +2,35 @@ import { QueryClient, QueryFunction } from "@tanstack/react-query";
 
 const API_BASE = "__PORT_5000__".startsWith("__") ? "" : "__PORT_5000__";
 
+// Static hosting mode: this build has no live backend process. A scheduled
+// GitHub Actions job (.github/workflows/refresh-data.yml) fetches the same
+// public sources the server used to call on each request, and writes the
+// results as static JSON files that ship with the site. "forceRefresh" here
+// just cache-busts the browser/CDN cache to pull the latest committed
+// snapshot; it does not trigger a new upstream fetch on demand.
+function slugifyModel(model: string): string {
+  return model
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^\w\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-");
+}
+
+// Relative (no leading slash) so this resolves correctly whether the site is
+// served from a domain root or a GitHub Pages subdirectory (e.g.
+// username.github.io/reponame/). The app uses hash-based routing, so the
+// document path itself never changes between screens — relative paths are
+// always safe here, unlike with a history-based router.
 export function getLegalFeedUrl(forceRefresh = false) {
-  return `${API_BASE}/api/legal-feed${forceRefresh ? "?refresh=1" : ""}`;
+  const cacheBust = forceRefresh ? `?v=${Date.now()}` : "";
+  return `${API_BASE}data/legal-feed.json${cacheBust}`;
 }
 
 export function getLiveSignalsUrl(query: string, forceRefresh = false) {
-  const params = new URLSearchParams({ q: query });
-  if (forceRefresh) params.set("refresh", "1");
-  return `${API_BASE}/api/live-signals?${params.toString()}`;
+  const slug = slugifyModel(query || "other-unknown");
+  const cacheBust = forceRefresh ? `?v=${Date.now()}` : "";
+  return `${API_BASE}data/live-signals/${slug}.json${cacheBust}`;
 }
 
 async function throwIfResNotOk(res: Response) {

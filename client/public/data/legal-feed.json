@@ -1,0 +1,6 @@
+{
+  "items": [],
+  "fetchedAt": 0,
+  "errors": [{"sourceId": "init", "label": "Initial build", "message": "Placeholder — populated by the first scheduled data refresh."}],
+  "sources": []
+}
