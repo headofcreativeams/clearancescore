@@ -83,19 +83,9 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "GPT-6 Astra release: access, price and limits - neoteo.com",
+      "title": "GPT-6 Astra release: access, price and limits - NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEE2YVRmdzRObFdjR0JNOVRZTzVvcGV3S3hXbHNSNWRsUVFBNVJQYmNST3pMWXpWZ1A3N0tONldHWHhlWHJQRVJqNF9QX2Qtcm0zX2QtQlFIbE15Y25nZ2ZtelF3QUdtWVJsbTRpdG5VRTdzSWdjVDZpT0V5ZG4tR2ZyNHFnTlU?oc=5",
       "pubDate": "Mon, 14 Sep 2026 23:54:34 GMT"
-    },
-    {
-      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "An In-Depth Review of CometAPI’s Newly added OpenAI’s GPT-6 Astra API - TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS19FemNLYWE4SVg3NEJqM29nMkZzdm9vU2plSkRhUjRwdXZGZ3p6WVY2YTR6UmNSYTE2Nk9MNVktVEk0UFVoNm1wVXU1SldwOVhycGJlMUJUNS1NbTN6UjhuQnRUMTM3VXBSVklfYnlEYURFZEpBWVJ3dEpobVJ0Z254SjNKQlNTNG5Ja0NPcGZPRjZQU3Y4?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 13:36:43 GMT"
     },
     {
       "title": "OpenAI throws Astra into the top-tier model ring - The Register",
@@ -103,11 +93,21 @@
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "An In-Depth Review of CometAPI’s Newly added OpenAI’s GPT-6 Astra API - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS19FemNLYWE4SVg3NEJqM29nMkZzdm9vU2plSkRhUjRwdXZGZ3p6WVY2YTR6UmNSYTE2Nk9MNVktVEk0UFVoNm1wVXU1SldwOVhycGJlMUJUNS1NbTN6UjhuQnRUMTM3VXBSVklfYnlEYURFZEpBWVJ3dEpobVJ0Z254SjNKQlNTNG5Ja0NPcGZPRjZQU3Y4?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 13:36:43 GMT"
+    },
+    {
       "title": "OpenAI Unveils GPT-6 Astra, Trails Anthropic and Meta in Benchmarks - thelec.net",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44M2JiX2xrSG5fRzRQMkt3RmktM0czc1RYMWtEeTFfZXRiX1dIdklwLXZmcVAwOG5JQnQ2TnpBSTZQZHhhR1FpRV9nU3RUMkhyT3VZVE44bnFCdnRCREdpSTNaUS1NNHc?oc=5",
       "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra Masters Advanced Math, Scores 98% On FrontierMath - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUFB4V01fUFB2V09ZYll3YnNTMk5BTDBEaXkyX1BwSHNPQjNSRGc2Y3JrWXJDVjEyTFM2VlFqNmxOVDVxdXFnSTMtUURtak9JX1Bya2tHNDUtWmo0RWZ6WlN2cjdUODlVOXRxOFFpS1V5T0h2?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1789887815072,
+  "fetchedAt": 1789906970963,
   "errors": []
 }
