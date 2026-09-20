@@ -73,6 +73,11 @@
       "pubDate": "Mon, 14 Sep 2026 16:17:00 GMT"
     },
     {
+      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2FYaVg3LWpVSEduVDY0ZVhIZGlpQTJ1WjdZVTNhQ2FndUgwbE1WaE9icVRvQkM0amszWWFVbWhEZjFBUmxRUENJU1hST2FUbHZLZFowb21SeUlKTWFxUEZsMW5mVkx4dzFjb05Ha0FKUjB5SUF1Y19nQzBhNDRqcUFTLTRlMWMyazZPemhmaEtkTGRWXzNXUmZIaTA4MndVVFJKNTZaY0Zkb0E4VU9QaWpwajI4WDdQWk9MckMxM0FTQVBRdUU2OTlsck9MVmQxZzF4R2cwQ3hsMHhfTWFBWXVlbGMzSkozM0lHVUNqdjgxTHVtWkx1b3BR?oc=5",
       "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
@@ -81,11 +86,6 @@
       "title": "Bing Image Creator AI: Free DALL-E 3 Generator Guide - Plisio",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0N1WlcxVDJybVVrSEotanY1ckZBLVBwdUdzNThKcEFRcl9qTFg3Qm52QnFjUTYyQjR5eTFaWk5ETk02djdiLUVGUU1Kc0pnZ3c?oc=5",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1789939493516,
+  "fetchedAt": 1789946504014,
   "errors": []
 }

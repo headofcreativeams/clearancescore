@@ -1,6 +1,71 @@
 {
   "query": "GPT-5.6 Sol / GPT-6 Astra",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Sullivan v. OpenAI Foundation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-14",
+      "docketNumber": "1:26-cv-06966",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/"
+    },
+    {
+      "caseName": "The Seattle Times Company v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-09-04",
+      "docketNumber": "1:26-cv-07644",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+      "court": "E.D. Tex.",
+      "dateFiled": "2026-08-31",
+      "docketNumber": "2:26-cv-00774",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "TRINIDAD v. OPENAI INC",
+      "court": "N.D. Fla.",
+      "dateFiled": "2025-07-03",
+      "docketNumber": "4:25-cv-00284",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Erickson v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-02-12",
+      "docketNumber": "3:26-cv-01303",
+      "cause": "28:1338 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
+    }
+  ],
   "news": [
     {
       "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
@@ -43,11 +108,6 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1789939514881,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1789946509801,
+  "errors": []
 }
