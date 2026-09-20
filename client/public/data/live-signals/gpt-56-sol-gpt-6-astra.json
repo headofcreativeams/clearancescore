@@ -68,9 +68,9 @@
   ],
   "news": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:42:16 GMT"
     },
     {
       "title": "GPT-6 Astra can turn photos into 3D models and playable environments - VoxelMatters",
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1789921395449,
+  "fetchedAt": 1789930702142,
   "errors": []
 }
