@@ -93,14 +93,14 @@
       "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "An In-Depth Review of CometAPI’s Newly added OpenAI’s GPT-6 Astra API - TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS19FemNLYWE4SVg3NEJqM29nMkZzdm9vU2plSkRhUjRwdXZGZ3p6WVY2YTR6UmNSYTE2Nk9MNVktVEk0UFVoNm1wVXU1SldwOVhycGJlMUJUNS1NbTN6UjhuQnRUMTM3VXBSVklfYnlEYURFZEpBWVJ3dEpobVJ0Z254SjNKQlNTNG5Ja0NPcGZPRjZQU3Y4?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 13:36:43 GMT"
-    },
-    {
       "title": "OpenAI throws Astra into the top-tier model ring - The Register",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW1NVnJtclZmQV9oSXB6bElWdk44blRKTjFJNWJuc2p0TEhtTHA0LWtJY3JBNXpnbkZWbVlMVTl2MzItT3ZjS0FMMUVOTG4yb21sSlZJTS15OXk4TW82RXljQldUQXA2al9fbllUT3FVYUNxaUJOajJmQmpYQm1wa2lPTl9NcllTX2EyQjFqR2o4R2ZzM2tZdnNBNk9jcTlHcXBySk9iM1U?oc=5",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "An In-Depth Review of CometAPI’s Newly added OpenAI’s GPT-6 Astra API - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS19FemNLYWE4SVg3NEJqM29nMkZzdm9vU2plSkRhUjRwdXZGZ3p6WVY2YTR6UmNSYTE2Nk9MNVktVEk0UFVoNm1wVXU1SldwOVhycGJlMUJUNS1NbTN6UjhuQnRUMTM3VXBSVklfYnlEYURFZEpBWVJ3dEpobVJ0Z254SjNKQlNTNG5Ja0NPcGZPRjZQU3Y4?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 13:36:43 GMT"
     },
     {
       "title": "OpenAI's GPT-6 Astra Masters Advanced Math, Scores 98% On FrontierMath - Quantum Zeitgeist",
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1789946509801,
+  "fetchedAt": 1789953764317,
   "errors": []
 }
