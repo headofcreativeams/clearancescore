@@ -1,7 +1,77 @@
 {
   "query": "GPT-5.6 Sol / GPT-6 Astra",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Sullivan v. OpenAI Foundation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-14",
+      "docketNumber": "1:26-cv-06966",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/"
+    },
+    {
+      "caseName": "The Seattle Times Company v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-09-04",
+      "docketNumber": "1:26-cv-07644",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+      "court": "E.D. Tex.",
+      "dateFiled": "2026-08-31",
+      "docketNumber": "2:26-cv-00774",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "TRINIDAD v. OPENAI INC",
+      "court": "N.D. Fla.",
+      "dateFiled": "2025-07-03",
+      "docketNumber": "4:25-cv-00284",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Erickson v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-02-12",
+      "docketNumber": "3:26-cv-01303",
+      "cause": "28:1338 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
+    }
+  ],
   "news": [
+    {
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+    },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
@@ -13,41 +83,31 @@
       "pubDate": "Tue, 22 Sep 2026 18:02:11 GMT"
     },
     {
+      "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:14:08 GMT"
+    },
+    {
+      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1podlZPcHNTNnRGMU85VE5qN2x0LVpGWHZFRTJwOWVGTkpOdlVOYU5LLU5zSXVJc2IxYkhsMWFaMHJ6bkFCaHFMQnoyTlJibjktVUhOY1k2alNmMUVsNW55dEtCWHRES2VOSTQzQXRGMmRtd0pScWptdlVjVDdRa3dOeFFSMEFzZlFGN1ZCN19ONWU2TTNJaWpaY3NKTTdUY0tzanN3X2QyV3AyeWU5R2NoUXZoSTJZcXpxdnI4OTRqZTRYQ2hUMjJQa1dURkJ2eVk4ZUlNaExlX0hUVFBrZFBzV1oyY29kU2Jr?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 20:40:03 GMT"
+    },
+    {
+      "title": "OpenAI Introduces GPT-6 Sol and Luna With 50% Lower API Prices - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlR6YTdvaV9Sc3ppWXNxSU5oVndhaVppcldJa3ZvaVRwZ1hRUHNjdjlYSHpHR1Eyd2d4Z0dxVlVrcTZ0T2NUdHVobFNnUWtQV3RUNldhT05BNjZ1MmhQcC1mTHlKUEVNdFBVekpwMFhDT3czWkJES2p1YWZaNElzWnhqVS1ESlVDZnVn?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:26:02 GMT"
+    },
+    {
       "title": "OpenAI Launches GPT-6 Sol and GPT-6 Luna, Cuts API Prices to Half of GPT-5.6 Promotional Price - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVIwb2JwY1pNd29DcE5NQjlRRWozcm9hZEd5cjZkX2lTMGpadnNkb2Q0cGozZ2tFSl9lTVl0Q3dsWGE5SmdaMlBDblM2dEJ4aGJKdFZET2tYNlhPd2I0MFBXeG9Hc29raXp1c0QxOTJMU1RhODBmUTlzU3FfVVVGdnRUSkhEM0xSRnZfNURSMFF4OFp6OFJNRHozVGFFN2dzX2NUVHV4c0F2RlBHaUpKWjhFVmZVLWRpRFJEMjJR?oc=5",
       "pubDate": "Tue, 22 Sep 2026 19:31:43 GMT"
     },
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
-    },
-    {
-      "title": "GPT-6 Astra can turn photos into 3D models and playable environments - VoxelMatters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2ItZ1h2QWkycGpVb0RLM2tfaDh5eGJmTXg5WnhpREp6M3VhbUpWeXhJV05LaldHZ1RlcE91bkdfQUpLNlphek9WYkFEOUU1MExLWkRSSmVkVnl1cEtHTmxwa21MYXBvTzYtc19QVnlSTWtNRVYzOTlfcGJfUU0xU2ZneXhkTWFHMUtfN01LOWtQRFNnMHo4bWRFQ1plNzjSAaQBQVVfeXFMTV90c3plMTBtMHlabTVTVmYwTkhiU2hadzdDMkhDUUlvSmhwOUU3TENOdm1zTXlxU2trZGpUczA1WnpvZ0VLblh6ak5pZi1XaWZrSnlxQXgwbklsR2d2d1BhZGdYWE1oUVVZZTZFcDRneHVPUmhYZlJmb1hnM1IxdDZ0SUMzSEdPSnZBbmdBWmRQcUU1QllmMHRCcHB5aWd5ckNEOXk?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI throws Astra into the top-tier model ring - The Register",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW1NVnJtclZmQV9oSXB6bElWdk44blRKTjFJNWJuc2p0TEhtTHA0LWtJY3JBNXpnbkZWbVlMVTl2MzItT3ZjS0FMMUVOTG4yb21sSlZJTS15OXk4TW82RXljQldUQXA2al9fbllUT3FVYUNxaUJOajJmQmpYQm1wa2lPTl9NcllTX2EyQjFqR2o4R2ZzM2tZdnNBNk9jcTlHcXBySk9iM1U?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI Unveils GPT-6 Astra, Trails Anthropic and Meta in Benchmarks - thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44M2JiX2xrSG5fRzRQMkt3RmktM0czc1RYMWtEeTFfZXRiX1dIdklwLXZmcVAwOG5JQnQ2TnpBSTZQZHhhR1FpRV9nU3RUMkhyT3VZVE44bnFCdnRCREdpSTNaUS1NNHc?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790106629613,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1790117171283,
+  "errors": []
 }

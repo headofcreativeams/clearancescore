@@ -1,6 +1,71 @@
 {
   "query": "Midjourney v6",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "EVOX Productions LLC v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2026-07-30",
+      "docketNumber": "2:26-cv-08408",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/73698332/evox-productions-llc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Warner Bros. Entertainment Inc. v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-09-04",
+      "docketNumber": "2:25-cv-08376",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71271014/warner-bros-entertainment-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Disney Enterprises Inc. v. Midjourney Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-06-11",
+      "docketNumber": "2:25-cv-05275",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Midjourney, Inc. v. Fantastic Labs Sp. z o. o.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2022-10-25",
+      "docketNumber": "3:22-cv-06499",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/65634498/midjourney-inc-v-fantastic-labs-sp-z-o-o/"
+    },
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
+    },
+    {
+      "caseName": "Tremblay v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-06-28",
+      "docketNumber": "4:23-cv-03223",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2024-06-24",
+      "docketNumber": "1:24-cv-04777",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
@@ -23,6 +88,11 @@
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
     },
     {
+      "title": "Why the Studios’ Midjourney Lawsuit Is Different - Copyright Lately",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZERfSDFkV1dzUlphOFBzQVNjYUduVFp0UEJPRjZLY0g2RVNSSDNRbVdkMU5Gb0hVUFdId1hCdzlTd09jS1BpbGlmYW9Nb3FQWVAzNGg0WXpTbEltRU1wOVpib2xqRmdTZjdQUGItZklUb0tGcWNKZmhKRjI4eTRaOFZ3?oc=5",
+      "pubDate": "Sun, 15 Jun 2025 07:00:00 GMT"
+    },
+    {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpDaVM5azZJbGZVamJIV0M3dUJORnBHMUQ2WHZzV3RETHkxN2o1Tkg0cVdrVDJPSFJVQ1JWZDU4MndWWkg0YnppemNDc1pUaVZITFZlY0lIbWRxekhncXQ0R3BsbnIwVlhfQm9oQnRMcFNWdjVkWEZQVlB1TFVGbURZYjZQQW55UXBxY0tyMWlrQU5YTUpuMHhmanJpcF91amI3YnFKQjR5WUd1UFpZRzFHWGxSRnVfT0VDWmVB?oc=5",
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
@@ -36,18 +106,8 @@
       "title": "Midjourney Blocks All Stability AI Employees After Alleged Data Theft Attempt - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXY0aTNyLTBWMGg3S0Q2XzFIRGkydGNtZDB6WklQdDl6SXdZWk5va1JtQmlMUjRaaXdPbHhTZ18zNnBiR21KZGU1UmF6YjFlWk9ZQXF4RkktbHFjZlhHeFZQTW1MVEdpekRUcGp5ZF9jN3paT1VHbkdJQ2psM2h3OUg2azY5eHY2RF9hZWRpWVFDczg1MEZObnhRUDZNRlhJc2tyRUtJbFpCNG01RV85Vg?oc=5",
       "pubDate": "Fri, 08 Mar 2024 08:00:00 GMT"
-    },
-    {
-      "title": "3 Count: Wordle Battle - Plagiarism Today",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQW1EOXUwTTZaVVByc1lmSFQ0bXVBcGRzazNJZG5mT2JDTUphcjNBTnU0RkV5SU5QNHFycGROWDFNcklJZ3dHV1ZXODVsNGN1b2FLTFlickpXMmRuT0hkWXVLTkpERHh4STRCb1Z1LVRpb3fSAXhBVV95cUxPM1ZlckdJeFg4MmRiWmE3cVZ2d0Y3bFR0VnJ3WDBqRnB3V0RWaXh2VFltTDhCd3dWR2NVSkt4OEQzVXBNaHVGMWRUX0ZocHc1dE04bEtlVnl0TGhKdE1WQ2N1TFFKcWVlcWRQVWhjNW9PQWVUMTFVaTc?oc=5",
-      "pubDate": "Mon, 11 Mar 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790106582760,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1790117158403,
+  "errors": []
 }
