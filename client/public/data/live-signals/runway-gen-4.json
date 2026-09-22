@@ -68,7 +68,12 @@
   ],
   "news": [
     {
-      "title": "Generative AI Startup Runway Releases Gen-4.5 Video Model - aibusiness.com",
+      "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Generative AI Startup Runway Releases Gen-4.5 Video Model - AI Business",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wZzBNNExEOHR5eTFBTTl1a1daRFNoQWRIRENKM2FlSm5xbXI0eGJoNV9jZWI1ZlFSdzZRWlo4bGZJeDRDZlh3WVpnZWFfV3dPYzdBRFNnQlBhODdfeEFOY0lKT1FQbWFnbHFIbVhxQlplR2VBb1BqWk5uUlo?oc=5",
       "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
     },
@@ -83,7 +88,7 @@
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Seedance 2.0 Videos Continue to Break the Internet, But is the AI Slop Worth the Squeeze? - nofilmschool.com",
+      "title": "Seedance 2.0 Videos Continue to Break the Internet, But is the AI Slop Worth the Squeeze? - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5LWt1TWMyS1VIZ25xQkphWDlQd2xpMTFaaDZRTGstaDFBUlZ4ZEl3TUhxUl9Tb0lXZzFwSE1iYnpkQ3RBN1JzZWh2cmMxYldwLVpJWlFfaEg3dkhzMDNCN1JkRQ?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
     },
@@ -101,13 +106,8 @@
       "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
-      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790057659489,
+  "fetchedAt": 1790077615114,
   "errors": []
 }

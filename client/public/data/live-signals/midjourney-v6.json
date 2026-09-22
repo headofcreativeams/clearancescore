@@ -68,12 +68,12 @@
   ],
   "news": [
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
+      "title": "Generative AI Has a Visual Plagiarism Problem - spectrum.ieee.org",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - nofilmschool.com",
+      "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
     },
@@ -108,6 +108,6 @@
       "pubDate": "Mon, 11 Mar 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790057647979,
+  "fetchedAt": 1790077596436,
   "errors": []
 }
