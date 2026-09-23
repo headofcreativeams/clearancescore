@@ -68,9 +68,9 @@
   ],
   "news": [
     {
-      "title": "Introducing GPT-6 Sol and Luna - openai.com",
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+      "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -78,14 +78,19 @@
       "pubDate": "Tue, 22 Sep 2026 18:03:43 GMT"
     },
     {
-      "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6 - gHacks",
+      "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6 - ghacks.net",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcER0aUFxUDVCLTlTRE5FdFRMb1EzM3FEQlhiMldMb1ZJYzZmVFJ4d05JNFpqUVhuVVdSczRzTUVGVV8wZjlXNkEtOXJSTzY0aGJBbEVnSjFxdUhqaUtzdjMxSy1weUIwVnRUMzE5LTZVV1lzalRCNFNmNVozZ3JLOGZxY1g0ZjBjekdvWExZM09jWUdDeUxzeW14Y25NMmZ3bFFBZnpLSTEwZFZn?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:56:00 GMT"
     },
     {
-      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - zdnet.com",
+      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
       "pubDate": "Tue, 22 Sep 2026 18:02:11 GMT"
+    },
+    {
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 23:25:46 GMT"
     },
     {
       "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
@@ -93,21 +98,16 @@
       "pubDate": "Wed, 23 Sep 2026 05:18:36 GMT"
     },
     {
-      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1podlZPcHNTNnRGMU85VE5qN2x0LVpGWHZFRTJwOWVGTkpOdlVOYU5LLU5zSXVJc2IxYkhsMWFaMHJ6bkFCaHFMQnoyTlJibjktVUhOY1k2alNmMUVsNW55dEtCWHRES2VOSTQzQXRGMmRtd0pScWptdlVjVDdRa3dOeFFSMEFzZlFGN1ZCN19ONWU2TTNJaWpaY3NKTTdUY0tzanN3X2QyV3AyeWU5R2NoUXZoSTJZcXpxdnI4OTRqZTRYQ2hUMjJQa1dURkJ2eVk4ZUlNaExlX0hUVFBrZFBzV1oyY29kU2Jr?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 20:40:03 GMT"
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0tkNzkzQlBHOWZmc3p5bEQyQU1lWi1yMWg3S2ROVGJlcnJITGZldGV5d1RLM0dqYTRWWGlKbTJhR21KNXI4Wk1GVTRwXzQ4ejk3b2xZd2V2V1JNZVBUX0N2TVV0Rlhzb1NiUnNsTTYtNVh1czkxSTF5bGQyeUE1NHVXbWJqTlV4cmRqVi0zUEFFWko4WnUybWZ6blJpSkl6ajZWbzZYcXMwNzY1ZmhwU0lIWkxIODlpM21kNnVuS1kxY1M1VGpXa1o1NE1kOFNGOWFyRGw1R1ZGWGF20gHcAUFVX3lxTE1HS2Q3OTNCUEc5ZmZzenlsRDJBTWVaLXIxaDdLZE5UYmVyckhMZmV0ZXl3VEszR2phNFZYaUptMmFHbUo1cjhaTUZVNHBfNDh6OTdvbFl3ZXZXUk1lUFRfQ3ZNVXRGWHNvU2JSc2xNNi01WHVzOTFJMXlsZDJ5QTU0dVdtYmpOVXhyZGpWLTNQQUVaSjhadTJtZnpuUmlKSXpqNlZvNlhxczA3NjVmaHBTSUhaTEg4OWkzbWQ2dW5LWTFjUzVUaldrWjU0TWQ4U0Y5YXJEbDVHVkZYYXY?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 04:08:09 GMT"
     },
     {
       "title": "OpenAI Introduces GPT-6 Sol and Luna With 50% Lower API Prices - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlR6YTdvaV9Sc3ppWXNxSU5oVndhaVppcldJa3ZvaVRwZ1hRUHNjdjlYSHpHR1Eyd2d4Z0dxVlVrcTZ0T2NUdHVobFNnUWtQV3RUNldhT05BNjZ1MmhQcC1mTHlKUEVNdFBVekpwMFhDT3czWkJES2p1YWZaNElzWnhqVS1ESlVDZnVn?oc=5",
       "pubDate": "Tue, 22 Sep 2026 19:26:02 GMT"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Sol and GPT-6 Luna, Cuts API Prices to Half of GPT-5.6 Promotional Price - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVIwb2JwY1pNd29DcE5NQjlRRWozcm9hZEd5cjZkX2lTMGpadnNkb2Q0cGozZ2tFSl9lTVl0Q3dsWGE5SmdaMlBDblM2dEJ4aGJKdFZET2tYNlhPd2I0MFBXeG9Hc29raXp1c0QxOTJMU1RhODBmUTlzU3FfVVVGdnRUSkhEM0xSRnZfNURSMFF4OFp6OFJNRHozVGFFN2dzX2NUVHV4c0F2RlBHaUpKWjhFVmZVLWRpRFJEMjJR?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 19:31:43 GMT"
     }
   ],
-  "fetchedAt": 1790192985043,
+  "fetchedAt": 1790203453075,
   "errors": []
 }
