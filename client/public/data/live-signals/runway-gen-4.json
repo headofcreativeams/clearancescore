@@ -68,16 +68,6 @@
   ],
   "news": [
     {
-      "title": "Runway AI Review: Models, Pricing, and Rivals 2026 - Plisio",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ERXA5TDF2VnhYY1I0cF9hMFVvTTlKTEhYUUlqODZDclo0MGt5dnNaeDdtOTZlbDl4RDJVM1dpWlRuQQ?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xNl9XM2JuQy1YZnA0cGpOQng4MHY2SF8td3g1OVpEbFRCSm1SQUdFUk96Vkd0c1BwX3FCQnd0ajl2WnkzSUUwSzZnNDhzTUFuZVFUeEg5dGo2RHlBSVVLdkEwUzYydi0yVmNkeGlULTZZNndiUGhUNTNLclk?oc=5",
-      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
@@ -88,26 +78,36 @@
       "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
-      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
+      "title": "Runway AI Review: Models, Pricing, and Rivals 2026 - Plisio",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ERXA5TDF2VnhYY1I0cF9hMFVvTTlKTEhYUUlqODZDclo0MGt5dnNaeDdtOTZlbDl4RDJVM1dpWlRuQQ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe and Runway Partner to Deliver the Next Generation of AI Video for Creators, Studios and Brands - Adobe Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRnJlbkFLWVJiZGpJdzBRcFo5b0RFZXI3ZWw0am1PLWZBcEJ3cnBwdXVMcFRTdGRkN3hxVTFfRmxTa2pTNjUwSFlaVHB6Yy1sN3c1NGtsQVAzaEZoT2xSLW56bnJnMnlHZ3Zyag?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Netflix using startup Runway AI’s video tools for production - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUU81bXgzMTh4THBFT3pTVm1TZHJoeVVPbjFmZXFIUkF6NkhqaGpSQ0daTy1SNDVJeDJFeUN3VXU0ejlka3I0c2tSenJvWXBHeW5zeDFKM3ViU0gxZFlfYjJjeGZSUzdPOUNLRWhJN04xNmpjbTAwMVZrVG54UDNrQjJUcEppUHo2OWotenl4aDI5VXJNVTZPZmRobEtXdHd1N1piNjNueTdZcE5YOUE?oc=5",
-      "pubDate": "Tue, 22 Jul 2025 07:00:00 GMT"
+      "title": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xNl9XM2JuQy1YZnA0cGpOQng4MHY2SF8td3g1OVpEbFRCSm1SQUdFUk96Vkd0c1BwX3FCQnd0ajl2WnkzSUUwSzZnNDhzTUFuZVFUeEg5dGo2RHlBSVVLdkEwUzYydi0yVmNkeGlULTZZNndiUGhUNTNLclk?oc=5",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "Seedance 2.0 Videos Continue to Break the Internet, But is the AI Slop Worth the Squeeze? - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5LWt1TWMyS1VIZ25xQkphWDlQd2xpMTFaaDZRTGstaDFBUlZ4ZEl3TUhxUl9Tb0lXZzFwSE1iYnpkQ3RBN1JzZWh2cmMxYldwLVpJWlFfaEg3dkhzMDNCN1JkRQ?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Runway Gen-4.5 Sets New Benchmark for AI Video Quality - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWZTR0hhNnd5aTRNbmF0SkswczB2Zm5aMUlJZHN6T3RPem9Dck9BS3ZxZ2ZPWUJzdWt0SFpqd1RWRklqUi1Xb2U4WGI4QnI1NnVCSDhwOWFJOE55OFpVR3RWNDZHWnVNUDVXZjNhR0NsdTZLVndwc3RYbWV5Qy1iZjlaSXNoZjAteE5SRjZkZkFDSGZwd0E?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Runway’s new Gen-4.5 text-to-video model that beats OpenAI’s Sora 2, Google’s Veo 3 - indianexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2QVpZanEweE5zSXJ4SU03cFlHMk9naC1lTDNLcmdQVDM5cmRvRHcyMGF1bmNvT0l4REJtaF9vRWpCZFc2LWpQc0VoTUFUTVhMVE14TkRpb2d1N1RocEgySk9kQlhiaHRuR2pNUlVSRkJFY0JaNDltaWp0Q2lKQWtXcUdJV0FnSC1oNTlhcFA2U2xwQWZ1cmtfZFAyYkg4WUJDSUxwN2ZtbmJLOXZtRXpFNTJnVWtjVUR2RzlOUk15eFpRNHdCZlBKWExnNk1XZTI3V09qOGdIcWVvWUtuekthTDlYUkRSWHJ3UGg4c9IB9gFBVV95cUxPZXlNZWZTclZzOXNCblZiNHBKTy1KRU9ZLXBKbjBTTWRUeko0S0R4b0tJYWFwbW9sOXRyVklkSXVIajFld1EycFZYTGVTdUdVTE9Wa3Qya2kzTUtTZjN6Z0RwUUxkeTJpaTJGcWtCcDNGaVMzamkweUJaZnBVaGUxaXhqU1lmYnhWb2xlRE5XOWdYOFFqMlJfZEc0ejgycDVXYzRUWGpRSHc3elVHMGJ1YmZnVnR2T1FVNVJKRjdURUx6U1JqWVlvY21LdUtZODZUQXBlSVNRM214eDZnMVd1YmpGeEZNRzR1Sl9hNm5QTHRHdjN4cXc?oc=5",
+      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790126287269,
+  "fetchedAt": 1790144581280,
   "errors": []
 }
