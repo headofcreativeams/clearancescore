@@ -1,71 +1,6 @@
 {
   "query": "Midjourney v6",
-  "caseLaw": [
-    {
-      "caseName": "EVOX Productions LLC v. Midjourney, Inc.",
-      "court": "C.D. Cal.",
-      "dateFiled": "2026-07-30",
-      "docketNumber": "2:26-cv-08408",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/73698332/evox-productions-llc-v-midjourney-inc/"
-    },
-    {
-      "caseName": "Warner Bros. Entertainment Inc. v. Midjourney, Inc.",
-      "court": "C.D. Cal.",
-      "dateFiled": "2025-09-04",
-      "docketNumber": "2:25-cv-08376",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/71271014/warner-bros-entertainment-inc-v-midjourney-inc/"
-    },
-    {
-      "caseName": "Disney Enterprises Inc. v. Midjourney Inc.",
-      "court": "C.D. Cal.",
-      "dateFiled": "2025-06-11",
-      "docketNumber": "2:25-cv-05275",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/"
-    },
-    {
-      "caseName": "Midjourney, Inc. v. Fantastic Labs Sp. z o. o.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2022-10-25",
-      "docketNumber": "3:22-cv-06499",
-      "cause": "15:1125 Trademark Infringement (Lanham Act)",
-      "url": "https://www.courtlistener.com/docket/65634498/midjourney-inc-v-fantastic-labs-sp-z-o-o/"
-    },
-    {
-      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2023-08-04",
-      "docketNumber": "4:23-cv-03918",
-      "cause": "15:1125 Trademark Infringement (Lanham Act)",
-      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
-    },
-    {
-      "caseName": "Silverman v. OpenAI, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2023-07-07",
-      "docketNumber": "3:23-cv-03416",
-      "cause": "17:504 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
-    },
-    {
-      "caseName": "Tremblay v. OpenAI, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2023-06-28",
-      "docketNumber": "4:23-cv-03223",
-      "cause": "17:504 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
-    },
-    {
-      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2024-06-24",
-      "docketNumber": "1:24-cv-04777",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
-    }
-  ],
+  "caseLaw": [],
   "news": [
     {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
@@ -83,7 +18,7 @@
       "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
     },
     {
-      "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
+      "title": "Midjourney v6 AI art generator can finally write text in images - pcguide.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
     },
@@ -103,11 +38,16 @@
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "Midjourney Blocks All Stability AI Employees After Alleged Data Theft Attempt - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXY0aTNyLTBWMGg3S0Q2XzFIRGkydGNtZDB6WklQdDl6SXdZWk5va1JtQmlMUjRaaXdPbHhTZ18zNnBiR21KZGU1UmF6YjFlWk9ZQXF4RkktbHFjZlhHeFZQTW1MVEdpekRUcGp5ZF9jN3paT1VHbkdJQ2psM2h3OUg2azY5eHY2RF9hZWRpWVFDczg1MEZObnhRUDZNRlhJc2tyRUtJbFpCNG01RV85Vg?oc=5",
-      "pubDate": "Fri, 08 Mar 2024 08:00:00 GMT"
+      "title": "Midjourney’s V6 Brings New Era of AI Image Generation - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWjV5cTZPNURyb3BmLUU5WWd1SU0tY2k4UFdJS0J6VUtPeWQ5bllPNHBMUUNhazJyMGFhc3BaQTlPWndjYVIzTUJyOF9tWGlka3RaQ0liY1pfZWx3andaMHA3V1FwUzdJZXpOQVpoWXdnUF92dGIzbzBCb2UxNXc?oc=5",
+      "pubDate": "Fri, 22 Dec 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790117158403,
-  "errors": []
+  "fetchedAt": 1790126233972,
+  "errors": [
+    {
+      "source": "CourtListener",
+      "message": "This operation was aborted"
+    }
+  ]
 }

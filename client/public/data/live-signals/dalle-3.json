@@ -1,79 +1,14 @@
 {
   "query": "DALL·E 3",
-  "caseLaw": [
-    {
-      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2023-08-04",
-      "docketNumber": "4:23-cv-03918",
-      "cause": "15:1125 Trademark Infringement (Lanham Act)",
-      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
-    },
-    {
-      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2024-06-24",
-      "docketNumber": "1:24-cv-04777",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
-    },
-    {
-      "caseName": "Authors Guild v. OpenAI Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2023-09-19",
-      "docketNumber": "1:23-cv-08292",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/"
-    },
-    {
-      "caseName": "STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.53.113.192",
-      "court": "D.N.J.",
-      "dateFiled": "2024-10-25",
-      "docketNumber": "2:24-cv-10059",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/69310052/strike-3-holdings-llc-v-john-doe-subscriber-assigned-ip-address/"
-    },
-    {
-      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
-      "court": "N.D. Cal.",
-      "dateFiled": "2024-06-26",
-      "docketNumber": "5:24-cv-03811",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
-    },
-    {
-      "caseName": "The New York Times Company v. Microsoft Corporation",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2023-12-27",
-      "docketNumber": "1:23-cv-11195",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
-    },
-    {
-      "caseName": "Bartz v. Anthropic PBC",
-      "court": "N.D. Cal.",
-      "dateFiled": "2024-08-19",
-      "docketNumber": "4:24-cv-05417",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
-    },
-    {
-      "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
-      "court": "N.D. Ohio",
-      "dateFiled": "2025-11-19",
-      "docketNumber": "1:25-cv-02520",
-      "cause": "15:1114 Trademark Infringement",
-      "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
-    }
-  ],
+  "caseLaw": [],
   "news": [
     {
-      "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - CNET",
+      "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - cnet.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
+      "title": "Generative AI Has a Visual Plagiarism Problem - transparencycoalition.ai",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
@@ -108,6 +43,11 @@
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790117162724,
-  "errors": []
+  "fetchedAt": 1790126253977,
+  "errors": [
+    {
+      "source": "CourtListener",
+      "message": "This operation was aborted"
+    }
+  ]
 }
