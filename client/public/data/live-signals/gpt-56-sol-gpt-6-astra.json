@@ -26,14 +26,6 @@
       "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
     },
     {
-      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2026-08-21",
-      "docketNumber": "1:26-cv-07171",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
-    },
-    {
       "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
       "court": "E.D. Tex.",
       "dateFiled": "2026-08-31",
@@ -48,6 +40,14 @@
       "docketNumber": "4:25-cv-00284",
       "cause": "17:101 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
     },
     {
       "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
@@ -103,11 +103,11 @@
       "pubDate": "Wed, 23 Sep 2026 05:18:36 GMT"
     },
     {
-      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - TradingView",
+      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1podlZPcHNTNnRGMU85VE5qN2x0LVpGWHZFRTJwOWVGTkpOdlVOYU5LLU5zSXVJc2IxYkhsMWFaMHJ6bkFCaHFMQnoyTlJibjktVUhOY1k2alNmMUVsNW55dEtCWHRES2VOSTQzQXRGMmRtd0pScWptdlVjVDdRa3dOeFFSMEFzZlFGN1ZCN19ONWU2TTNJaWpaY3NKTTdUY0tzanN3X2QyV3AyeWU5R2NoUXZoSTJZcXpxdnI4OTRqZTRYQ2hUMjJQa1dURkJ2eVk4ZUlNaExlX0hUVFBrZFBzV1oyY29kU2Jr?oc=5",
       "pubDate": "Tue, 22 Sep 2026 20:40:03 GMT"
     }
   ],
-  "fetchedAt": 1790229234725,
+  "fetchedAt": 1790248422769,
   "errors": []
 }
