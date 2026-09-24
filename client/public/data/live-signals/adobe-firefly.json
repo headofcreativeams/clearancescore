@@ -36,14 +36,14 @@
   ],
   "news": [
     {
-      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools - CNET",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWJ2WWJGd3dXXy1pOXlxQ0lTODNSQkh2Z0M3OWpibGtoNTBhWDVKT2ZDRmN3cHB4Znd2YndVT2ZSTERQN25qd2VYQ1JLWkQ5dFp0b1RwTnhVRFp1dzlPLUhKOFczdGowMzFOX2V5RVNGWkVzQlFyMVdlZWJ4SGhzZkdkZlhRTURMWkVmZm9ETWFIX0Z0WUcxaTBTQTlIdGNqa3FQOU11dG13eDZY?oc=5",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "Adobe Brings Its Firefly AI Creative Agent Directly Into ChatGPT And Claude - Forbes",
@@ -61,7 +61,7 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe’s Firefly Foundry AI Offering Draws Support From Talent Agencies, Filmmakers, VFX Houses & Others - Deadline",
+      "title": "Adobe’s Firefly Foundry AI Offering Draws Support From Talent Agencies, Filmmakers, VFX Houses & Others - deadline.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vYnVjc3VHeTJZSjlZbFJUZ1hWNGN5dUJjTURQOVpHSS00bmpxUVNMV0ZXZHFOTVVlLXM4dFBLS0FwTTVSTDVfYldaUG1FMUEzd2gwZ3RqRXBHNXRURlc5SkRSWWFNb1NlZzlhaHpndm1wN3F6RFVqQktDWkpHdw?oc=5",
       "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT"
     },
@@ -76,6 +76,6 @@
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790211313844,
+  "fetchedAt": 1790229229069,
   "errors": []
 }
