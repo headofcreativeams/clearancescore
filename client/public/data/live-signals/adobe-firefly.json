@@ -36,14 +36,14 @@
   ],
   "news": [
     {
-      "title": "No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools - CNET",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWJ2WWJGd3dXXy1pOXlxQ0lTODNSQkh2Z0M3OWpibGtoNTBhWDVKT2ZDRmN3cHB4Znd2YndVT2ZSTERQN25qd2VYQ1JLWkQ5dFp0b1RwTnhVRFp1dzlPLUhKOFczdGowMzFOX2V5RVNGWkVzQlFyMVdlZWJ4SGhzZkdkZlhRTURMWkVmZm9ETWFIX0Z0WUcxaTBTQTlIdGNqa3FQOU11dG13eDZY?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools - CNET",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWJ2WWJGd3dXXy1pOXlxQ0lTODNSQkh2Z0M3OWpibGtoNTBhWDVKT2ZDRmN3cHB4Znd2YndVT2ZSTERQN25qd2VYQ1JLWkQ5dFp0b1RwTnhVRFp1dzlPLUhKOFczdGowMzFOX2V5RVNGWkVzQlFyMVdlZWJ4SGhzZkdkZlhRTURMWkVmZm9ETWFIX0Z0WUcxaTBTQTlIdGNqa3FQOU11dG13eDZY?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "Adobe Brings Its Firefly AI Creative Agent Directly Into ChatGPT And Claude - Forbes",
@@ -61,11 +61,6 @@
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe’s Firefly Foundry AI Offering Draws Support From Talent Agencies, Filmmakers, VFX Houses & Others - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vYnVjc3VHeTJZSjlZbFJUZ1hWNGN5dUJjTURQOVpHSS00bmpxUVNMV0ZXZHFOTVVlLXM4dFBLS0FwTTVSTDVfYldaUG1FMUEzd2gwZ3RqRXBHNXRURlc5SkRSWWFNb1NlZzlhaHpndm1wN3F6RFVqQktDWkpHdw?oc=5",
-      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT"
-    },
-    {
       "title": "AI Image Generation Statistics 2026: Market Size, Adoption & Risks - SQ Magazine",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWR4LWIyQlRaRTVBaFNCeHBpNXlYbkRBZUY5ZFJrYXZSQS11a2I1S2NrSGRpUUQ5N1M3eS1qWjgyVU1hcTFTa0JoYzVOWHhHWDZPcFVBVWl4UlZWM1JyWU85WVBseUU?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
@@ -74,8 +69,13 @@
       "title": "Adobe Forges Strong Media AI Partnerships via Firefly Foundry - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmlaRnNiR3NiSVlCbzdlRG56UFpfbFdMQklWVzRSUWYyS0UyMUF1ZDZBSXg2YnBqb1hGWi12cl9nbVRpVzdUWHZVTDBJckFxMTQ1VE5hVmMwRVdHVXFqSUVaU1NiVS1VYTZWNTVDcVFuWkxNdW5xZERjbVRKRXB6amFDWnNFQXhOYlM4Q0R5X21kWm9Hc2wycGR5Tm45dTVUck5LR2JR?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe’s new Firefly can create ‘custom, fully-licensed’ AI soundtracks for video - Music Business Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmp2MGxTVExiOWxWdlhCMkVubDFhQ2FXVlNMem1QZmg3VVBzZ0NSUkJTRUdkTjB5T1dvMDVMOTAtNHkzT1VhdWx2VXFHMDJPV2dXdlhvcDN4c3VTNk9sMnRoWE1NUWUwR01Eb3duY0pXNTMwOEhVT1lPVEUtN09EalFqUEdrTjlrdzdnSW5EUUFOSzE4aDcxSFlLLThCYmRWZDBleGZIVmdfaHloQVpKUFZyNU82Zms?oc=5",
+      "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790338586389,
+  "fetchedAt": 1790357204082,
   "errors": []
 }

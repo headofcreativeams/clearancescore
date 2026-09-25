@@ -68,12 +68,7 @@
   ],
   "news": [
     {
-      "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Runway Releases Gen-4.5 Video Model - aibusiness.com",
+      "title": "Runway Releases Gen-4.5 Video Model - AI Business",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wZzBNNExEOHR5eTFBTTl1a1daRFNoQWRIRENKM2FlSm5xbXI0eGJoNV9jZWI1ZlFSdzZRWlo4bGZJeDRDZlh3WVpnZWFfV3dPYzdBRFNnQlBhODdfeEFOY0lKT1FQbWFnbHFIbVhxQlplR2VBb1BqWk5uUlo?oc=5",
       "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
     },
@@ -106,8 +101,13 @@
       "title": "Runway’s new Gen-4.5 text-to-video model that beats OpenAI’s Sora 2, Google’s Veo 3 - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2QVpZanEweE5zSXJ4SU03cFlHMk9naC1lTDNLcmdQVDM5cmRvRHcyMGF1bmNvT0l4REJtaF9vRWpCZFc2LWpQc0VoTUFUTVhMVE14TkRpb2d1N1RocEgySk9kQlhiaHRuR2pNUlVSRkJFY0JaNDltaWp0Q2lKQWtXcUdJV0FnSC1oNTlhcFA2U2xwQWZ1cmtfZFAyYkg4WUJDSUxwN2ZtbmJLOXZtRXpFNTJnVWtjVUR2RzlOUk15eFpRNHdCZlBKWExnNk1XZTI3V09qOGdIcWVvWUtuekthTDlYUkRSWHJ3UGg4c9IB9gFBVV95cUxPZXlNZWZTclZzOXNCblZiNHBKTy1KRU9ZLXBKbjBTTWRUeko0S0R4b0tJYWFwbW9sOXRyVklkSXVIajFld1EycFZYTGVTdUdVTE9Wa3Qya2kzTUtTZjN6Z0RwUUxkeTJpaTJGcWtCcDNGaVMzamkweUJaZnBVaGUxaXhqU1lmYnhWb2xlRE5XOWdYOFFqMlJfZEc0ejgycDVXYzRUWGpRSHc3elVHMGJ1YmZnVnR2T1FVNVJKRjdURUx6U1JqWVlvY21LdUtZODZUQXBlSVNRM214eDZnMVd1YmpGeEZNRzR1Sl9hNm5QTHRHdjN4cXc?oc=5",
       "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790338598125,
+  "fetchedAt": 1790357215764,
   "errors": []
 }
