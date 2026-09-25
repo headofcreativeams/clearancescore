@@ -78,7 +78,7 @@
       "pubDate": "Tue, 22 Sep 2026 18:03:43 GMT"
     },
     {
-      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - zdnet.com",
+      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
       "pubDate": "Tue, 22 Sep 2026 18:02:11 GMT"
     },
@@ -88,14 +88,14 @@
       "pubDate": "Tue, 22 Sep 2026 19:14:08 GMT"
     },
     {
-      "title": "Introducing Claude Opus 5.5 - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 23:25:46 GMT"
-    },
-    {
       "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6 - gHacks",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcER0aUFxUDVCLTlTRE5FdFRMb1EzM3FEQlhiMldMb1ZJYzZmVFJ4d05JNFpqUVhuVVdSczRzTUVGVV8wZjlXNkEtOXJSTzY0aGJBbEVnSjFxdUhqaUtzdjMxSy1weUIwVnRUMzE5LTZVV1lzalRCNFNmNVozZ3JLOGZxY1g0ZjBjekdvWExZM09jWUdDeUxzeW14Y25NMmZ3bFFBZnpLSTEwZFZn?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:59:11 GMT"
+    },
+    {
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 23:25:46 GMT"
     },
     {
       "title": "OpenAI Introduces GPT-6 Sol and Luna With 50% Lower API Prices - Unite.AI",
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 05:18:36 GMT"
     }
   ],
-  "fetchedAt": 1790318273855,
+  "fetchedAt": 1790338592880,
   "errors": []
 }
