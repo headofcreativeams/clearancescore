@@ -83,14 +83,14 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gGWAkFVX3lxTE9pM1l5Z1ozbkxUaWVoYkI2bzAyZE5Md0luZzlFQWRwRXVtQWtNdXpEZ2VuZGYzQktpVzZGTFQyRU9hV0JnUE9rRmZQTnJvMV9STkFyREdEbTFfY0VQWklVSUlfTWtYX1VHTFZHeXpyeDNYSVRETENVS1BhUlpQZk04REtWLXRGbzUwMlV2SUZDR3JUMHBDcFFLTjI4eExwT2lfTmRaeHNoc2JsZHFlamZJUVc0N2lMRXVkMjFqdTZhVzVtZUVCNlAxTV82NG8xNC1pcWF2Z3JMMlRwd2lFYXZ4UklJYkhMdnFleDBpNktETFMyUjlwZTV3QkNxZHZyUGtPa3RuTS1PaTQ3b3hPVWVUZUlfWWRR?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "Google Veo 3.1 Updates Promise Even More Realistic AI-Generated Video - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0QtV1Ixc1l1d1hVS18tcThObGw4QTROcUdYY2NDVlpkRHpyUmZ0bHJVNW54LU84N0hyTGlydHpJQzA3YVdYVVdOTGJNYUktWDQ3NnZHeU1maHR4TUYwQmRCbVJnSU1iMHVDdkoyQjFvVlk5UDNMbWhRb25SV1pRNmYyTVlxTTF3M0d2MXdZeFRueG9jOFI5QU9rV1FJLW92bVQ0QWl3?oc=5",
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gGWAkFVX3lxTE9pM1l5Z1ozbkxUaWVoYkI2bzAyZE5Md0luZzlFQWRwRXVtQWtNdXpEZ2VuZGYzQktpVzZGTFQyRU9hV0JnUE9rRmZQTnJvMV9STkFyREdEbTFfY0VQWklVSUlfTWtYX1VHTFZHeXpyeDNYSVRETENVS1BhUlpQZk04REtWLXRGbzUwMlV2SUZDR3JUMHBDcFFLTjI4eExwT2lfTmRaeHNoc2JsZHFlamZJUVc0N2lMRXVkMjFqdTZhVzVtZUVCNlAxTV82NG8xNC1pcWF2Z3JMMlRwd2lFYXZ4UklJYkhMdnFleDBpNktETFMyUjlwZTV3QkNxZHZyUGtPa3RuTS1PaTQ3b3hPVWVUZUlfWWRR?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "Google Announces New Veo 3 AI Video Model Amid Sora Hype - CNET",
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790357211118,
+  "fetchedAt": 1790368786964,
   "errors": []
 }

@@ -1,6 +1,71 @@
 {
   "query": "DALL·E 3",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2024-06-24",
+      "docketNumber": "1:24-cv-04777",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
+    },
+    {
+      "caseName": "Authors Guild v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2023-09-19",
+      "docketNumber": "1:23-cv-08292",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/"
+    },
+    {
+      "caseName": "STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.53.113.192",
+      "court": "D.N.J.",
+      "dateFiled": "2024-10-25",
+      "docketNumber": "2:24-cv-10059",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69310052/strike-3-holdings-llc-v-john-doe-subscriber-assigned-ip-address/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-06-26",
+      "docketNumber": "5:24-cv-03811",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "The New York Times Company v. Microsoft Corporation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2023-12-27",
+      "docketNumber": "1:23-cv-11195",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
+    },
+    {
+      "caseName": "Bartz v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-08-19",
+      "docketNumber": "4:24-cv-05417",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
+      "court": "N.D. Ohio",
+      "dateFiled": "2025-11-19",
+      "docketNumber": "1:25-cv-02520",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
+    }
+  ],
   "news": [
     {
       "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - CNET",
@@ -38,16 +103,11 @@
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "OpenAI is working on a tool to detect DALL-E 3 AI-generated images - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFM5MXpfdmRHNUZMR1k5ZmZ4X056QkJNSG53azlCVFJwX3poZk1xc1JKanI0QXM5TXFyQ3VQcHJnQUxfcHFOMWlmbG5lSHdfc0VPUUg3R0lyUGdxN0ZyVkpWSzlWT0IwNFIzRXkzWlNYRURLMlVIZVJTVndHemd0ZzJTUQ?oc=5",
-      "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT"
+      "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWktWOWZDQkFyOWZLZV91M0hrdGR4ZTRpSzBvOEpoWEFUeFAyTU1xbnFRWHA3aC1fM25tY1drU0dQREN2WjcteEhZcUVaVW5GcGxpODFXcGd2Ykdtd1RpM0liTWJSRXhEZUJaQzdKcGc4MDVSeXN4UVNRelYyM0ZBU1hVSVRXckFKSy1GTw?oc=5",
+      "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790357192694,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1790368780952,
+  "errors": []
 }
