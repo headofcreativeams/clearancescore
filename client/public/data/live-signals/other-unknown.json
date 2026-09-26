@@ -43,7 +43,7 @@
       "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "An OpenAI test model escaped and broke into a real company’s servers - cnn.com",
+      "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
@@ -68,6 +68,6 @@
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790425754619,
+  "fetchedAt": 1790440895506,
   "errors": []
 }
