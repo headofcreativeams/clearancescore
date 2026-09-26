@@ -73,6 +73,11 @@
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2FYaVg3LWpVSEduVDY0ZVhIZGlpQTJ1WjdZVTNhQ2FndUgwbE1WaE9icVRvQkM0amszWWFVbWhEZjFBUmxRUENJU1hST2FUbHZLZFowb21SeUlKTWFxUEZsMW5mVkx4dzFjb05Ha0FKUjB5SUF1Y19nQzBhNDRqcUFTLTRlMWMyazZPemhmaEtkTGRWXzNXUmZIaTA4MndVVFJKNTZaY0Zkb0E4VU9QaWpwajI4WDdQWk9MckMxM0FTQVBRdUU2OTlsck9MVmQxZzF4R2cwQ3hsMHhfTWFBWXVlbGMzSkozM0lHVUNqdjgxTHVtWkx1b3BR?oc=5",
       "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
@@ -81,11 +86,6 @@
       "title": "Bing Image Creator AI: Free DALL-E 3 Generator Guide - Plisio",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0N1WlcxVDJybVVrSEotanY1ckZBLVBwdUdzNThKcEFRcl9qTFg3Qm52QnFjUTYyQjR5eTFaWk5ETk02djdiLUVGUU1Kc0pnZ3c?oc=5",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "DALL-E’s New Guardrails: Fast, Furious, and Far from Airtight - Marcus on AI",
@@ -98,16 +98,16 @@
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - spectrum.ieee.org",
+      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "OpenAI is working on a tool to detect DALL-E 3 AI-generated images - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFM5MXpfdmRHNUZMR1k5ZmZ4X056QkJNSG53azlCVFJwX3poZk1xc1JKanI0QXM5TXFyQ3VQcHJnQUxfcHFOMWlmbG5lSHdfc0VPUUg3R0lyUGdxN0ZyVkpWSzlWT0IwNFIzRXkzWlNYRURLMlVIZVJTVndHemd0ZzJTUQ?oc=5",
-      "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT"
+      "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWktWOWZDQkFyOWZLZV91M0hrdGR4ZTRpSzBvOEpoWEFUeFAyTU1xbnFRWHA3aC1fM25tY1drU0dQREN2WjcteEhZcUVaVW5GcGxpODFXcGd2Ykdtd1RpM0liTWJSRXhEZUJaQzdKcGc4MDVSeXN4UVNRelYyM0ZBU1hVSVRXckFKSy1GTw?oc=5",
+      "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790408512316,
+  "fetchedAt": 1790425742597,
   "errors": []
 }
