@@ -1,6 +1,71 @@
 {
   "query": "Stable Diffusion",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Barkley and Associates, Inc. v. Quizlet, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2024-07-16",
+      "docketNumber": "2:24-cv-05964",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/68948422/barkley-and-associates-inc-v-quizlet-inc/"
+    },
+    {
+      "caseName": "Getty Images (US), Inc. v. Stability AI, Ltd.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-08-14",
+      "docketNumber": "3:25-cv-06891",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71112094/getty-images-us-inc-v-stability-ai-ltd/"
+    },
+    {
+      "caseName": "Tremblay v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-06-28",
+      "docketNumber": "4:23-cv-03223",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
+    },
+    {
+      "caseName": "Andersen v. Stability AI Ltd.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-01-13",
+      "docketNumber": "3:23-cv-00201",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/"
+    },
+    {
+      "caseName": "Getty Images (US), Inc. v. Stability AI, Inc.",
+      "court": "D. Del.",
+      "dateFiled": "2023-02-03",
+      "docketNumber": "1:23-cv-00135",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/"
+    },
+    {
+      "caseName": "Daily News LP v. Microsoft Corporation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2024-04-30",
+      "docketNumber": "1:24-cv-03285",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68484432/daily-news-lp-v-microsoft-corporation/"
+    }
+  ],
   "news": [
     {
       "title": "Getty Images vs. Stability AI: copyright explained - Winston Taylor",
@@ -28,7 +93,7 @@
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Deepfake CSAM lawsuit against xAI, Grok expands - CyberScoop",
+      "title": "Deepfake CSAM lawsuit against xAI, Grok expands - cyberscoop.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJfZElLMFIzSjNmdjJZRVVobE5VR0VjUjNKQUJvYkhEWnhSTjRGZ1kyYUE0NkI3bGd0bklXNnFUTnVGS0NDc2VrcldCd3FJblQwT0ZaWjdjbzlBSFBjM2paSy1zaTdLeHVXVXVHcWxiY1FrOXdUWWpNU0JHWDNRNQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
@@ -43,11 +108,6 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790450740848,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1790460347969,
+  "errors": []
 }
