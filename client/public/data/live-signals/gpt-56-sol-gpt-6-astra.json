@@ -42,20 +42,20 @@
       "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
     },
     {
-      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2026-03-13",
-      "docketNumber": "1:26-cv-02097",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
-    },
-    {
       "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
       "court": "S.D.N.Y.",
       "dateFiled": "2026-08-21",
       "docketNumber": "1:26-cv-07171",
       "cause": "17:101 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
     },
     {
       "caseName": "Erickson v. OpenAI, Inc.",
@@ -73,7 +73,7 @@
       "pubDate": "Wed, 23 Sep 2026 16:30:34 GMT"
     },
     {
-      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
       "pubDate": "Tue, 22 Sep 2026 18:03:43 GMT"
     },
@@ -98,7 +98,7 @@
       "pubDate": "Wed, 23 Sep 2026 07:59:11 GMT"
     },
     {
-      "title": "Introducing Claude Opus 5.5 - anthropic.com",
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
       "pubDate": "Tue, 22 Sep 2026 23:25:46 GMT"
     },
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 25 Sep 2026 19:31:09 GMT"
     }
   ],
-  "fetchedAt": 1790524103527,
+  "fetchedAt": 1790537664001,
   "errors": []
 }
