@@ -73,7 +73,7 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - the-decoder.com",
+      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - The Decoder",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXQ1dHVrUndEU090eERLaTFmbGJLbDhENEgzV0FyT284dVB5VXRyOTFScXhJcXVKaDRRZVhpNEdsd1pxaV9XbnBzYzQybGt3dmtxNDJKOEd4OEZkM2Y4SmFiODJLaG5LWEJxelZpSmx0MWdVRThNTlRWVjBrbHNpYmJXUUdDWVRlYWtfa09UX2tHSENQbHc?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
@@ -88,14 +88,14 @@
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "Google Announces New Veo 3 AI Video Model Amid Sora Hype - CNET",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTI4T2dBbHE5Z2xILTVBRU9jUVBEdHNFUTFQWDBCbkFIWXNiS2dYX3NKM2Jic1lBMGpUaVJPU3gxVGR3ZXZkTzdIX2oyZ3FnR1ZJT3pVMUhab0pOTmYyYXdoSUlDM0RjaTNRbDk1QlhFb3B3TklEcWlGci16OWRoQ2dIV1AwdEdDQzV2UWNEd1praDNhSEhNVTNYaUtyU1NqLXZjQlI1dGU?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "Google upgrades AI video generation with Veo 3.1 and native vertical support - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1RvRm4wSDJVUFNzUllyNjVILTlyLUhKV0w4bGVoTEE5Rllrd2JFamEzajhaSmpXVDRoYlEwYnZleWltcHpMLTBYWkNKMlg4Qm5GdkY1eTZGV2twS01pZFpTZHk5SmVDVTlNSnItRWxfVnNseThja2FOZlFVUmF0NjJtTDNLeDUzWlNKbzA3elIyUGFGWE1vVmZtcjZVam80eTdRV1l3?oc=5",
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google Announces New Veo 3 AI Video Model Amid Sora Hype - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTI4T2dBbHE5Z2xILTVBRU9jUVBEdHNFUTFQWDBCbkFIWXNiS2dYX3NKM2Jic1lBMGpUaVJPU3gxVGR3ZXZkTzdIX2oyZ3FnR1ZJT3pVMUhab0pOTmYyYXdoSUlDM0RjaTNRbDk1QlhFb3B3TklEcWlGci16OWRoQ2dIV1AwdEdDQzV2UWNEd1praDNhSEhNVTNYaUtyU1NqLXZjQlI1dGU?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "Google Goes All In on Vertical AI Videos With Veo 3.1's New Feature - Android Headlines",
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790578651809,
+  "fetchedAt": 1790608237914,
   "errors": []
 }
