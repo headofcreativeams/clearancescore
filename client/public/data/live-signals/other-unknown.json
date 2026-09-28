@@ -28,7 +28,12 @@
   ],
   "news": [
     {
-      "title": "Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs - yalereview.org",
+      "title": "ChatGPT maker OpenAI says its AI technology acted on its own in an 'unprecedented' hack of Hugging Face - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEtTV29RNktEVDNid3p2NldvajJlVFBudnRxTURGVzdxQ0hKaUtMeFZwTWdWdzRuVG1qbWkzNnIwZklqckw3NTUwMWRGbjNHMUY0TUIyNkJOdzVjcnppQkVvY19xVElxVDAzRjNuRmJFRmNma3M0dVgydXpVdllvdnB6N1hxdER4V2dkMFBsOUwwa0NqSElIUnZqUW9XT0prUXgteU5veDhncVN0bEpUVFNhY9IBuAFBVV95cUxPMTFVZXNyOVplSGdVVUVFOVZJRWZfYktDRDQ1RjlwRGt0dHRmMzFiMWZjbFd4M2NpQ1JvRmE5Y0tzR05XcnRoU2lzdnE2ZDdkaEtoZFp2a0VybENSSFZrZnAzUFNybGM3RFN4SW1ueXhuNkVtRC0ySXRnR3lmTVNsYWlaY09CRWhydVdpUm9VcW1IX3NEMUlTbG5VUS13MTlVUEpnb2lJV0l6ZEQxdnJhRE05VEJscGt1?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs - The Yale Review",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdkRSeUgzQzNjNTE0TnBtakRzWUtLNGJtTnRQQ1dQYUJVRmJZeVBEc3RUeHN6MVVNM0NTalF0SVhsMnhJUFRTYURpNkhDX0xSU2lqanBvRTh0WHpLclJuY21hSTFKUWRleTFicW5reXVqQVNqY1E?oc=5",
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
@@ -48,7 +53,7 @@
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Latest news: Bigfoot, faith and the unknown; Christians using AI more than others?; closer look at the use of GLP-1s - thealabamabaptist.org",
+      "title": "Latest news: Bigfoot, faith and the unknown; Christians using AI more than others?; closer look at the use of GLP-1s - The Alabama Baptist",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblBzWmJoUjAzU1JLVGlRMUp1OTB4czZTVHFuUmVPTi1oMFlIVHRQSER2c1Ezb085RW9ERklnRmZEc1I0b2V6WVhsUVNJTDQ5c1RRVVoySjQwX3E5d1pYOFc5Qk8wMGt4T2Y3NGNoOUdUSmptUlFmZXg3UE9rSDRwOFAwN1J4azI2SG5LZ0p5ZkV4WHgtRERWMkZlMWtOV2ZIQzhkMmdYQzl0aXR4TDNaWWU1M21qaVYyVXZVaUE4YjRfblNMdV9jcmktUVZxRDB6WUE1TFhPSXpvdw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
@@ -61,13 +66,8 @@
       "title": "Subnautica 2 Hits 5M Sales as $250M Bonus Suit Ends [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YYkNpc0NIVkpuMGlEbmlmLTdGN1dGQ19rRk5LcU9RLXlUeURxdEpQbUhpRE9aS084azRSeDNGQU1EdlExZVRIUzJ3YVFvWlNWM042ZEcycVBLVGxPUHc3dGJGQ1BBVlhfcnotVjJFdkc?oc=5",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790557907080,
+  "fetchedAt": 1790578655795,
   "errors": []
 }
