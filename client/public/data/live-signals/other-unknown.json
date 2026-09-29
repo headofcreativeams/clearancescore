@@ -1,31 +1,6 @@
 {
   "query": "Other / unknown",
-  "caseLaw": [
-    {
-      "caseName": "CASPER v. COMCAST CORPORATION",
-      "court": "M.D.N.C.",
-      "dateFiled": "2017-09-15",
-      "docketNumber": "1:17-cv-00826",
-      "cause": "15:1125 Trademark Infringement (Lanham Act)",
-      "url": "https://www.courtlistener.com/docket/6259133/casper-v-comcast-corporation/"
-    },
-    {
-      "caseName": "Disney Enterprises, Inc. v. Hotfile Corp.",
-      "court": "S.D. Fla.",
-      "dateFiled": "2011-02-08",
-      "docketNumber": "1:11-cv-20427",
-      "cause": "17:0101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/4233563/disney-enterprises-inc-v-hotfile-corp/"
-    },
-    {
-      "caseName": "On the Cheap, LLC v. Does 1-5011",
-      "court": "N.D. Cal.",
-      "dateFiled": "2010-10-04",
-      "docketNumber": "3:10-cv-04472",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/4177578/on-the-cheap-llc-v-does-1-5011/"
-    }
-  ],
+  "caseLaw": [],
   "news": [
     {
       "title": "ChatGPT maker OpenAI says its AI technology acted on its own in an 'unprecedented' hack of Hugging Face - ABC7 Los Angeles",
@@ -68,6 +43,11 @@
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790689671365,
-  "errors": []
+  "fetchedAt": 1790708966499,
+  "errors": [
+    {
+      "source": "CourtListener",
+      "message": "This operation was aborted"
+    }
+  ]
 }
