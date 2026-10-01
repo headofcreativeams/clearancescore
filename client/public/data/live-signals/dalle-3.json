@@ -73,32 +73,32 @@
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2FYaVg3LWpVSEduVDY0ZVhIZGlpQTJ1WjdZVTNhQ2FndUgwbE1WaE9icVRvQkM0amszWWFVbWhEZjFBUmxRUENJU1hST2FUbHZLZFowb21SeUlKTWFxUEZsMW5mVkx4dzFjb05Ha0FKUjB5SUF1Y19nQzBhNDRqcUFTLTRlMWMyazZPemhmaEtkTGRWXzNXUmZIaTA4MndVVFJKNTZaY0Zkb0E4VU9QaWpwajI4WDdQWk9MckMxM0FTQVBRdUU2OTlsck9MVmQxZzF4R2cwQ3hsMHhfTWFBWXVlbGMzSkozM0lHVUNqdjgxTHVtWkx1b3BR?oc=5",
       "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "Bing Image Creator AI: Free DALL-E 3 Generator Guide - plisio.net",
+      "title": "Bing Image Creator AI: Free DALL-E 3 Generator Guide - Plisio",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0N1WlcxVDJybVVrSEotanY1ckZBLVBwdUdzNThKcEFRcl9qTFg3Qm52QnFjUTYyQjR5eTFaWk5ETk02djdiLUVGUU1Kc0pnZ3c?oc=5",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - transparencycoalition.ai",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "DALL-E’s New Guardrails: Fast, Furious, and Far from Airtight - garymarcus.substack.com",
+      "title": "DALL-E’s New Guardrails: Fast, Furious, and Far from Airtight - Marcus on AI | Substack",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTy1vWTV2REFaVWhoTjBkX29aZTM5WlFyVTV1ajRxOTJEVm96TnA3R3ZIazlOSGF1RXNuWHNCSjVfaVBRYk1KN1FPZk02R1Z5UTBJLUVhRHJ1UFNxeklkZTJ6aF91eTJtQkE3THVxUFNLRWlSeW04WA?oc=5",
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
+      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - sciencefocus.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
+      "title": "Generative AI Has a Visual Plagiarism Problem - spectrum.ieee.org",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790821649918,
+  "fetchedAt": 1790846390680,
   "errors": []
 }

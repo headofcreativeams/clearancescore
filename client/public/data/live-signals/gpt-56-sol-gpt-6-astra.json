@@ -68,9 +68,9 @@
   ],
   "news": [
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "title": "Introducing GPT-6 Sol and Luna - openai.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
@@ -83,14 +83,14 @@
       "pubDate": "Tue, 29 Sep 2026 07:27:59 GMT"
     },
     {
-      "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjNYNXFwSmVLQUlNVG4ydko4OWZySVpTSGhTXzNIczE2dFhPYlc4amQyVFBHSEpnbEU3NGgxT3AyZ1Z6aEdvX1F4cDV6REVodlFFdW5TRmhfREE3bzh1bDBfcHh6Tkp3Y0pmVG05ZkRXTTBOc1AwOXp1cWdVMmZPRm1xMGYwdTZlOG13a0N3M1hRYUVEaXRiTHl3?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 20:59:36 GMT"
-    },
-    {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjNYNXFwSmVLQUlNVG4ydko4OWZySVpTSGhTXzNIczE2dFhPYlc4amQyVFBHSEpnbEU3NGgxT3AyZ1Z6aEdvX1F4cDV6REVodlFFdW5TRmhfREE3bzh1bDBfcHh6Tkp3Y0pmVG05ZkRXTTBOc1AwOXp1cWdVMmZPRm1xMGYwdTZlOG13a0N3M1hRYUVEaXRiTHl3?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 20:59:36 GMT"
     },
     {
       "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns - The Register",
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 11:13:51 GMT"
     }
   ],
-  "fetchedAt": 1790821656461,
+  "fetchedAt": 1790846398653,
   "errors": []
 }
