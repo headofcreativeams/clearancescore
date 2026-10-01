@@ -1,11 +1,76 @@
 {
   "query": "GPT-5.6 Sol / GPT-6 Astra",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Sullivan v. OpenAI Foundation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-14",
+      "docketNumber": "1:26-cv-06966",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/"
+    },
+    {
+      "caseName": "The Seattle Times Company v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-09-04",
+      "docketNumber": "1:26-cv-07644",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+    },
+    {
+      "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+      "court": "E.D. Tex.",
+      "dateFiled": "2026-08-31",
+      "docketNumber": "2:26-cv-00774",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "TRINIDAD v. OPENAI INC",
+      "court": "N.D. Fla.",
+      "dateFiled": "2025-07-03",
+      "docketNumber": "4:25-cv-00284",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Erickson v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-02-12",
+      "docketNumber": "3:26-cv-01303",
+      "cause": "28:1338 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
       "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
@@ -13,7 +78,7 @@
       "pubDate": "Tue, 29 Sep 2026 11:41:50 GMT"
     },
     {
-      "title": "GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch - securityaffairs.com",
+      "title": "GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch - Security Affairs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjV2LVFiUjh0Rm00OU1ucjh0UlVWb2l2WGc5NS12amlVeHByQ1haRWI3UWVXSDR0aHM1V0VVVC1yckNIeTBmSDAyS19wc2lFOGpnNWhFT2wwMzhCX0FXZ05wSFh2SFVxZVAwcVVfQVh3LXAwZW1JTEJGVTRVc0RsMkZoRUZKTUlpZjEtRDBndmt1SzNiU2FTcUFlQjc4X21uWk5HcEN3emttbkHSAbABQVVfeXFMUEd2bk1kNEVYMjUtUGVLVEtGODZNUGptbDc1bF9IbndHVTU1NzhRVG9qUklpMHV0S0t6aXlaalhuNV9WRWJ1eEc5aU96SFEtWUR0TU55RVAxYmJUdXktUDV2dnhkZldGblRsdjE4SVc2YnVDWjNBVkN4Y2Q2aUJWOHdxVndwdDdQVFpJSUI1SW4xQTB4MGJuUGxaWkk5dDFMR0ZaRkNuNkpubzlyQmx5a0Q?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:27:59 GMT"
     },
@@ -38,16 +103,11 @@
       "pubDate": "Tue, 29 Sep 2026 12:38:20 GMT"
     },
     {
-      "title": "AISI: GPT-6 Astra Hit 29.2% Supply-Chain Attack Rate With Safeguards Off - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2YzUWtWeTI2QjNhb0tIR25UdVdYX1g1b0lKdjJjZlo2aHVSOUZwTV9RLWhsczQ1M2JMTElBbFRGRzFwTjJfN0U1VUVBcmpSSzd0dV9pVFQ1VWtHSGVLWjNzaTk5VThJdU5tckpKMGRLa2Vob2RWM01XTDkzV29xbjd0dTNzOGZmSWFsaWlDWWUzVFZjMTZn?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 16:33:01 GMT"
+      "title": "OpenAI cuts GPT-6 Sol and Luna API prices by 50% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0RpV1NkOHd2cGFfbHJmOTBDdEVFdC04TXZ4dVZsOTFXaEE4VHBsMzhUZTdwZ3F2TnRiMEdlWkRQUHZ4SEdlLXB3R1E4VXJ4U1dRSFhMQTltNmQtclJLUG9FXzhORmUxbFBmVmhHX2tzbW9RdkxFRHE3d3Nrbm15c2M3RzBiaDlkRlFMQl93?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 11:13:51 GMT"
     }
   ],
-  "fetchedAt": 1790811083345,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "HTTP 429"
-    }
-  ]
+  "fetchedAt": 1790821656461,
+  "errors": []
 }
