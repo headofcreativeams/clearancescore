@@ -68,7 +68,7 @@
   ],
   "news": [
     {
-      "title": "Introducing GPT-6 Sol and Luna - openai.com",
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 11:13:51 GMT"
     }
   ],
-  "fetchedAt": 1790846398653,
+  "fetchedAt": 1790872743804,
   "errors": []
 }

@@ -50,25 +50,25 @@
       "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
     },
     {
-      "caseName": "Bartz v. Anthropic PBC",
-      "court": "N.D. Cal.",
-      "dateFiled": "2024-08-19",
-      "docketNumber": "4:24-cv-05417",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
-    },
-    {
       "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
       "court": "N.D. Ohio",
       "dateFiled": "2025-11-19",
       "docketNumber": "1:25-cv-02520",
       "cause": "15:1114 Trademark Infringement",
       "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "Bartz v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-08-19",
+      "docketNumber": "4:24-cv-05417",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
     }
   ],
   "news": [
     {
-      "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - CNET",
+      "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More - cnet.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
@@ -93,21 +93,21 @@
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - sciencefocus.com",
+      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - spectrum.ieee.org",
+      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - Business Insider",
+      "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - businessinsider.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWktWOWZDQkFyOWZLZV91M0hrdGR4ZTRpSzBvOEpoWEFUeFAyTU1xbnFRWHA3aC1fM25tY1drU0dQREN2WjcteEhZcUVaVW5GcGxpODFXcGd2Ykdtd1RpM0liTWJSRXhEZUJaQzdKcGc4MDVSeXN4UVNRelYyM0ZBU1hVSVRXckFKSy1GTw?oc=5",
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1790846390680,
+  "fetchedAt": 1790872741075,
   "errors": []
 }
