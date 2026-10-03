@@ -8,11 +8,6 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Google Veo 3.1 will generate social-ready vertical videos in Gemini - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5V0Rud0ZqYVk1d29CRXBfby02amV1Qm9oTl91Vy1BSmNTMTdwT3VlQ3BUOFJwRGVzZVZzbGFpZlFfaXpVVWNYMmpmS2tCcXRMQjRkdzJDZHIzOHQxZllxb0YtSFg2Uk9ZV29zMldTcng?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 16:24:24 GMT"
-    },
-    {
       "title": "Google Veo 3.1 Updates Promise Even More Realistic AI-Generated Video - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0QtV1Ixc1l1d1hVS18tcThObGw4QTROcUdYY2NDVlpkRHpyUmZ0bHJVNW54LU84N0hyTGlydHpJQzA3YVdYVVdOTGJNYUktWDQ3NnZHeU1maHR4TUYwQmRCbVJnSU1iMHVDdkoyQjFvVlk5UDNMbWhRb25SV1pRNmYyTVlxTTF3M0d2MXdZeFRueG9jOFI5QU9rV1FJLW92bVQ0QWl3?oc=5",
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
@@ -38,12 +33,17 @@
       "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output - The Indian Express",
+      "title": "Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output - indianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmIzcEcyaEY1UDdZX2FzdXBvT1JYeWZRRk1Sc3cyZmR2OVVMMFdkMmktMEZjSndkXzQtN2hEal9LTlpYSDlXMUJqUTBkcFFySFFLZVBER3pZSUlQNE00Ri0wYVc3XzZQb19wLWlraFpETWMxTHlYM1JQRUVxdDVTTzlQbmZaS19wMDBDa05jUU1RWGxvQzlWODN1WFJkT3ZuS0JvaFJpaEM2YXNncXAxVWFnc3JEVUJJZ29rSGRtWk1xQdIByAFBVV95cUxQUU5hX3VfMDZNWjhaUnBmU3gtWXZodUQ2U1FTajFHdFFWZUMwYjA0UDBBemExenVJcDd2X2RzMU9oV3A5VW12Tlg5RkdjMi13Rno3S2g0QzJraVJITHhCMEdPbThORlFvZC1fOXh6c25qZjZlRzExOWdvbjQwUEJCQ2o1a1RlZnBodnN3eUJraW9zb29rWVcyLWFwSnpOT3FCY0lnTlpfNjZIT056YUU1bWFPN1FneEVDQk1iZzliQWZpenlYS185eQ?oc=5",
       "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google releases new AI video model Veo 3.1 in Flow and API: what it means for enterprises - venturebeat.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzZ0YUN1X0ZVUkhTZlloVGVLaUNnTTJpbS1MZzRmb292azVQNDdYWHlJekJtSFRUWjRDcUFXYnZscVhkeVZCQ1pFVF9feGZsYUZVZTlGUTcxVHlfQzQxSmhsY3VjNFhkVktwVTdTdVJ1WTNiV2VnUE10LWFXa0VZdDhycFNtVm1mczdxMldZQmVLdFF0QUdaOUt2V2doX1g4RFJBLS1kakxWbl9qLUhxTw?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791031504035,
+  "fetchedAt": 1791046002841,
   "errors": [
     {
       "source": "CourtListener",
