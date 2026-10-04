@@ -1,42 +1,9 @@
 {
   "query": "Adobe Firefly",
-  "caseLaw": [
-    {
-      "caseName": "The Foundry Visionmongers Ltd. v. Adobe Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2026-03-11",
-      "docketNumber": "5:26-cv-02121",
-      "cause": "15:1121 Trademark Infringement",
-      "url": "https://www.courtlistener.com/docket/72421124/the-foundry-visionmongers-ltd-v-adobe-inc/"
-    },
-    {
-      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
-      "court": "M.D. Tenn.",
-      "dateFiled": "2023-10-18",
-      "docketNumber": "3:23-cv-01092",
-      "cause": "17:0101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/67894459/concord-music-group-inc-v-anthropic-pbc/"
-    },
-    {
-      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
-      "court": "N.D. Cal.",
-      "dateFiled": "2024-06-26",
-      "docketNumber": "5:24-cv-03811",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
-    },
-    {
-      "caseName": "Strike 3 Holdings, LLC v. Meta Platforms, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2025-07-23",
-      "docketNumber": "5:25-cv-06213",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/70899478/strike-3-holdings-llc-v-meta-platforms-inc/"
-    }
-  ],
+  "caseLaw": [],
   "news": [
     {
-      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
+      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
     },
@@ -56,9 +23,14 @@
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe Firefly sells the one thing Suno cannot - thenextweb.com",
+      "title": "Adobe Firefly sells the one thing Suno cannot - The Next Web",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuamdvVjZyUDZ6N0xkNUdQVDRWVW9ralIwV0gtVlAyejNJVldsT1IzYkRDMDgzLWl3eGRjZzVFYy1yZXJVQ3pzWDA1Yy0yVHV1OEJvajMxNS1MRGFwM0tKUHI1Wk1YczlrNGYyRkh1SUhIYzg2OVZKMllqTmE5MEU?oc=5",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe’s Firefly Foundry AI Offering Draws Support From Talent Agencies, Filmmakers, VFX Houses & Others - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vYnVjc3VHeTJZSjlZbFJUZ1hWNGN5dUJjTURQOVpHSS00bmpxUVNMV0ZXZHFOTVVlLXM4dFBLS0FwTTVSTDVfYldaUG1FMUEzd2gwZ3RqRXBHNXRURlc5SkRSWWFNb1NlZzlhaHpndm1wN3F6RFVqQktDWkpHdw?oc=5",
+      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "AI Image Generation Statistics 2026: Market Size, Adoption & Risks - SQ Magazine",
@@ -66,16 +38,16 @@
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe Firefly Updates Provide Insight into Adobe’s AI-Native Platform - forbes.com.au",
+      "title": "Adobe Firefly Updates Provide Insight into Adobe’s AI-Native Platform - Forbes Australia",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1VZTElVSlZnMGU0ZldMMTUyS1pINDVFcXJvSnItd2VrRHM2VFQ0RklkZmNUZmFBQmFrb0JQVEdNTGU0Y2ZKMGwxZ3BGa2N6RHBpd09KdHd3MDdXOTktUW9VeUVDVFZOLUFzVUFLOGJoVW5RbFdzbldIanJ1RU9BLXR5azREa3pVekxJNnI5Z0xfdHluN3Vn?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Adobe’s new Firefly can create ‘custom, fully-licensed’ AI soundtracks for video - musicbusinessworldwide.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmp2MGxTVExiOWxWdlhCMkVubDFhQ2FXVlNMem1QZmg3VVBzZ0NSUkJTRUdkTjB5T1dvMDVMOTAtNHkzT1VhdWx2VXFHMDJPV2dXdlhvcDN4c3VTNk9sMnRoWE1NUWUwR01Eb3duY0pXNTMwOEhVT1lPVEUtN09EalFqUEdrTjlrdzdnSW5EUUFOSzE4aDcxSFlLLThCYmRWZDBleGZIVmdfaHloQVpKUFZyNU82Zms?oc=5",
-      "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791066402587,
-  "errors": []
+  "fetchedAt": 1791078870615,
+  "errors": [
+    {
+      "source": "CourtListener",
+      "message": "HTTP 429"
+    }
+  ]
 }
