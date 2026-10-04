@@ -1,9 +1,42 @@
 {
   "query": "Adobe Firefly",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "The Foundry Visionmongers Ltd. v. Adobe Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-03-11",
+      "docketNumber": "5:26-cv-02121",
+      "cause": "15:1121 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/72421124/the-foundry-visionmongers-ltd-v-adobe-inc/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "M.D. Tenn.",
+      "dateFiled": "2023-10-18",
+      "docketNumber": "3:23-cv-01092",
+      "cause": "17:0101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67894459/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-06-26",
+      "docketNumber": "5:24-cv-03811",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "Strike 3 Holdings, LLC v. Meta Platforms, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-07-23",
+      "docketNumber": "5:25-cv-06213",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70899478/strike-3-holdings-llc-v-meta-platforms-inc/"
+    }
+  ],
   "news": [
     {
-      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - reuters.com",
+      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
     },
@@ -23,7 +56,7 @@
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Adobe Firefly sells the one thing Suno cannot - The Next Web",
+      "title": "Adobe Firefly sells the one thing Suno cannot - thenextweb.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuamdvVjZyUDZ6N0xkNUdQVDRWVW9ralIwV0gtVlAyejNJVldsT1IzYkRDMDgzLWl3eGRjZzVFYy1yZXJVQ3pzWDA1Yy0yVHV1OEJvajMxNS1MRGFwM0tKUHI1Wk1YczlrNGYyRkh1SUhIYzg2OVZKMllqTmE5MEU?oc=5",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
@@ -43,11 +76,6 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791078870615,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "HTTP 429"
-    }
-  ]
+  "fetchedAt": 1791100204016,
+  "errors": []
 }
