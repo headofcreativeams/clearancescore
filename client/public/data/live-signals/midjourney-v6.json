@@ -68,7 +68,7 @@
   ],
   "news": [
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - spectrum.ieee.org",
+      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
@@ -83,19 +83,9 @@
       "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
     },
     {
-      "title": "Disney's Big AI Lawsuit Includes Some Very Damning Images - Aftermath",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRE1xeGptRzRjNWJHc1hvRXdQRXBZaWFBQUNDMmhYVDRMbGxKZzN2WGJhOWJCZGtlbUJNckVOM3NaSGpFRWRHOVpBUE53amNNd3B3a1lNMXp4QUxvVGJ5eTMzR28tbHpSZXgyRENFMGpSREI4VmhjTmk4TDdzMnNMRTRjSQ?oc=5",
-      "pubDate": "Thu, 12 Jun 2025 07:00:00 GMT"
-    },
-    {
       "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
-    },
-    {
-      "title": "Why the Studios’ Midjourney Lawsuit Is Different - Copyright Lately",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZERfSDFkV1dzUlphOFBzQVNjYUduVFp0UEJPRjZLY0g2RVNSSDNRbVdkMU5Gb0hVUFdId1hCdzlTd09jS1BpbGlmYW9Nb3FQWVAzNGg0WXpTbEltRU1wOVpib2xqRmdTZjdQUGItZklUb0tGcWNKZmhKRjI4eTRaOFZ3?oc=5",
-      "pubDate": "Sun, 15 Jun 2025 07:00:00 GMT"
     },
     {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
@@ -106,8 +96,18 @@
       "title": "AI Image Generators Are Spitting Out Copyrighted Characters, Raising Possibility of Catastrophic Lawsuit - Futurism",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZElsVEIwcmNoaTB2bHpUUWVjeXlfWXFzanlnMmJRb25YSTE1T3pxSDBoQ3poU2FhZFgtZ3dHZnZ2RkZjQ1pDbkdPM1EwWGhPU2U2a2RmaGhKUGRKV0w3dG0yRVhidDNUeWs4M04ySGc?oc=5",
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Midjourney’s V6 Brings New Era of AI Image Generation - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWjV5cTZPNURyb3BmLUU5WWd1SU0tY2k4UFdJS0J6VUtPeWQ5bllPNHBMUUNhazJyMGFhc3BaQTlPWndjYVIzTUJyOF9tWGlka3RaQ0liY1pfZWx3andaMHA3V1FwUzdJZXpOQVpoWXdnUF92dGIzbzBCb2UxNXc?oc=5",
+      "pubDate": "Fri, 22 Dec 2023 08:00:00 GMT"
+    },
+    {
+      "title": "Midjourney Blocks All Stability AI Employees After Alleged Data Theft Attempt - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXY0aTNyLTBWMGg3S0Q2XzFIRGkydGNtZDB6WklQdDl6SXdZWk5va1JtQmlMUjRaaXdPbHhTZ18zNnBiR21KZGU1UmF6YjFlWk9ZQXF4RkktbHFjZlhHeFZQTW1MVEdpekRUcGp5ZF9jN3paT1VHbkdJQ2psM2h3OUg2azY5eHY2RF9hZWRpWVFDczg1MEZObnhRUDZNRlhJc2tyRUtJbFpCNG01RV85Vg?oc=5",
+      "pubDate": "Fri, 08 Mar 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791229585145,
+  "fetchedAt": 1791248962457,
   "errors": []
 }
