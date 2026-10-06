@@ -93,14 +93,14 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "GPT-6 Astra ran simulated supply-chain attacks in UK government tests - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFgzbDRXVXZxTTc1b21EeGhwbnBxdnloSk1nV251YnlOdkw0dVc1WTk5NHJjWmpCNmwyWjBaVGpWV0EyQnpYTjVYWmtzMUVKc1VFZDFtWElsbm93dzY3X0R0T1FILWxWRmViNTBqeEEycUltUktaalUtcEpqVndzLXhXNHdncXM?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 12:38:20 GMT"
-    },
-    {
       "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns - The Register",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXFNWVFwS1pNWDkxLUtGczFuMkloOFVPT1ZfR2NqaXNqTVpSTHo2UDNuNkItMi1rVENxbHAtNXAtTDhjQmhaTVRLLXFkVG00cFQ4OGNLSklrcF9LdHVYcVVuUm83ZDFFdG9VZEViZ2hBTHBjdU9qSk5zRy03djl5ZnoxMFkzMVRkUkF3NDlkV1poMDlaYzlaakNQOU10SGd5cXhGTDVBbkFlZ194bkJ1SE00YzFIaGdqZ0ZVMmY4YzJKQQ?oc=5",
       "pubDate": "Mon, 28 Sep 2026 19:44:34 GMT"
+    },
+    {
+      "title": "AISI: GPT-6 Astra Hit 29.2% Supply-Chain Attack Rate With Safeguards Off - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2YzUWtWeTI2QjNhb0tIR25UdVdYX1g1b0lKdjJjZlo2aHVSOUZwTV9RLWhsczQ1M2JMTElBbFRGRzFwTjJfN0U1VUVBcmpSSzd0dV9pVFQ1VWtHSGVLWjNzaTk5VThJdU5tckpKMGRLa2Vob2RWM01XTDkzV29xbjd0dTNzOGZmSWFsaWlDWWUzVFZjMTZn?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 16:33:01 GMT"
     },
     {
       "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6 - gHacks",
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791272129463,
+  "fetchedAt": 1791296935467,
   "errors": []
 }
