@@ -78,14 +78,14 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 11:41:50 GMT"
-    },
-    {
       "title": "OpenAI cuts GPT-6 Sol and Luna API prices by 50% - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0RpV1NkOHd2cGFfbHJmOTBDdEVFdC04TXZ4dVZsOTFXaEE4VHBsMzhUZTdwZ3F2TnRiMEdlWkRQUHZ4SEdlLXB3R1E4VXJ4U1dRSFhMQTltNmQtclJLUG9FXzhORmUxbFBmVmhHX2tzbW9RdkxFRHE3d3Nrbm15c2M3RzBiaDlkRlFMQl93?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:41:50 GMT"
     },
     {
       "title": "Introducing Claude Opus 5.5 - Anthropic",
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791248970228,
+  "fetchedAt": 1791272129463,
   "errors": []
 }

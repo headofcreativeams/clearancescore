@@ -3,14 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "NVIDIA Researchers Introduce Physis-Lang: Self-Evolving Physical Language That Lifts Cosmos 3 Past Veo 3.1 on Physics Benchmarks - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOalMzZjRKSmt1dGlWT0toNGx1SG9BbTEwckp6eHMwZFgzUGxORUxQWHZNemJpZS1yYWNKaFlvei1COTc1VndKMGxDSTRzcU5DaUdrcDkwaDE4T1lFQU9wYWlTU0s5bUdDUzdkTjlzV2llS003RWVpVHlJUzI2alhETEFwUnJMMktvNEhBS1RBemN3QkRxVWFHc1lpOFQyZ193M3pVckllNmc1V1hLRng3bmxpRHpxYlZocjhYaWN3bUNXZXZFenJSYUdRdHhRRE0waGVIbjI2cWUyekZ0OEI0SmNDYkUwaXVJaTZsaWc4THc0b3VPanJraXJPeV_SAfwBQVVfeXFMTmpTM2Y0SkprdXRpVk9LaDRsdUhvQW0xMHJKenhzMGRYM1BsTkVMUFh2TXpiaWUtcmFjSmhZb3otQjk3NVZ3SjBsQ0k0c3FOQ2lHa3A5MGgxOE9ZRUFPcGFpU1NLOW1HQ1M3ZE45c1dpZUtNN0VlaVR5SVMyNmpYRExBcFJyTDJLbzRIQUtUQXpjd0JEcVVhR3NZaThUMmdfdzN6VXJJZTZnNVdYS0Z4N25saUR6cWJWaHI4WGljd21DV2V2RXpyUmFHUXR4UURNMGhlSG4yNnFlMnpGdDhCNEpjQ2JFMGl1SWk2bGlnOEx3NG91T2pya2lyT3lf?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 07:32:34 GMT"
-    },
-    {
       "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model - blog.google",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iX3B4dVdXVG5GTXczWVo3cUJkZWpvVnI3WEhZWFdVQWFONjVtdkJTSUlnbVpHSmhIYjBRdVB3ME9kWVUwWUtPckRhNlRROTI3dUtCN3BKRm1zc0NlT0FCaE1CWC1NeVVfRElvV252dl9iY00?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Researchers Introduce Physis-Lang: Self-Evolving Physical Language That Lifts Cosmos 3 Past Veo 3.1 on Physics Benchmarks - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOalMzZjRKSmt1dGlWT0toNGx1SG9BbTEwckp6eHMwZFgzUGxORUxQWHZNemJpZS1yYWNKaFlvei1COTc1VndKMGxDSTRzcU5DaUdrcDkwaDE4T1lFQU9wYWlTU0s5bUdDUzdkTjlzV2llS003RWVpVHlJUzI2alhETEFwUnJMMktvNEhBS1RBemN3QkRxVWFHc1lpOFQyZ193M3pVckllNmc1V1hLRng3bmxpRHpxYlZocjhYaWN3bUNXZXZFenJSYUdRdHhRRE0waGVIbjI2cWUyekZ0OEI0SmNDYkUwaXVJaTZsaWc4THc0b3VPanJraXJPeV_SAfwBQVVfeXFMTmpTM2Y0SkprdXRpVk9LaDRsdUhvQW0xMHJKenhzMGRYM1BsTkVMUFh2TXpiaWUtcmFjSmhZb3otQjk3NVZ3SjBsQ0k0c3FOQ2lHa3A5MGgxOE9ZRUFPcGFpU1NLOW1HQ1M3ZE45c1dpZUtNN0VlaVR5SVMyNmpYRExBcFJyTDJLbzRIQUtUQXpjd0JEcVVhR3NZaThUMmdfdzN6VXJJZTZnNVdYS0Z4N25saUR6cWJWaHI4WGljd21DV2V2RXpyUmFHUXR4UURNMGhlSG4yNnFlMnpGdDhCNEpjQ2JFMGl1SWk2bGlnOEx3NG91T2pya2lyT3lf?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 07:32:34 GMT"
     },
     {
       "title": "Google unveils its most cost-effective AI video model Veo 3.1 Lite - Seeking Alpha",
@@ -43,7 +43,7 @@
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791248970515,
+  "fetchedAt": 1791272129807,
   "errors": [
     {
       "source": "CourtListener",
