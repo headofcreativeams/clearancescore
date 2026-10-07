@@ -73,14 +73,14 @@
       "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
-      "title": "AI agents driving test: GPT-6 Astra finished the course - NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3ctMjloMXY0YXNuMjlvNFRwSjZ0NnZVek5FdlpGTWVKN0dxRnZHaURJSFRSeEJpcUZVV0NoVDlFTFJrV2NsVlNRa3ZQOG9MWVJTdmNudkFPSzk1a09mRUlCdU5hRjJjVi1Lb05TdVBNYzA1WkpaV2RtdFdvdl9HbDFhTlB0Z1dETC1pWElkOUV3ZzhlMFZXVl9rZmx4MjdIWE9HZg?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 18:37:09 GMT"
-    },
-    {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI agents driving test: GPT-6 Astra finished the course - NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3ctMjloMXY0YXNuMjlvNFRwSjZ0NnZVek5FdlpGTWVKN0dxRnZHaURJSFRSeEJpcUZVV0NoVDlFTFJrV2NsVlNRa3ZQOG9MWVJTdmNudkFPSzk1a09mRUlCdU5hRjJjVi1Lb05TdVBNYzA1WkpaV2RtdFdvdl9HbDFhTlB0Z1dETC1pWElkOUV3ZzhlMFZXVl9rZmx4MjdIWE9HZg?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 18:37:09 GMT"
     },
     {
       "title": "OpenAI cuts GPT-6 Sol and Luna API prices by 50% - Yahoo Finance",
@@ -108,6 +108,6 @@
       "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791340934305,
+  "fetchedAt": 1791364805483,
   "errors": []
 }
