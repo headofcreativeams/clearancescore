@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "gnews-publicity-ai-1-aHR0cHM6Ly9uZXdz",
+      "title": "Who owns a voice? Navigating the global risks of AI cloning - Lexology",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2pRM3d1akFSQ1pFUTdHakVSYU9uUDJ5cGM5YUpPTWVFaFl1TEFlNVNTTmFDbms4ZTU2TFppcjZzblFkMXRCaWw3NGFJLUNxZGgteHl5WmZwQjFYXzNRZThTS1MwQWl2cWtvYnhkcWNnTkVsUkt4WmNOZHVrUFdyT2c2NnhUN1loTDBQZFM4WjlxNDlYb2k4eQ?oc=5",
+      "sourceLabel": "Google News — AI right of publicity",
+      "sourceId": "gnews-publicity-ai",
+      "pubDate": "Wed, 07 Oct 2026 15:42:14 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-1-aHR0cHM6Ly9uZXdz",
+      "title": "Does AI need its own insurance market? Brokers are already finding out - Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWS1aLU11Nl9SOHpmdGJwaVRuaTBKcHF3TUw0YjFRdUs1OGpEZHltMWtTc3BJaVBuSHcwd0RwM0U3M2xSbHlvekZSVDZQQThDeUpwVWZ0WnNteG9rSkV5UHQybGtVMEFNMXRwbUZEbEIwOVE0eG4yY2NXRnZWd0tUeUk0VUJxYVh0OE5jdWFXbFdhS0dObzV1ZXNSdktvdzFGSGd2N01fa3o0aEI0VnRUTWRFcjUwZjdaeVZHSjd0ZWFBSTdVdzkzSUpmejg?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Wed, 07 Oct 2026 13:53:45 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-3-aHR0cHM6Ly9uZXdz",
+      "title": "Insurance leaders in Rochester highlight common business coverage gaps - Rochester Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlhGR0Ixc0l4R1ZxYmFLTVBHQlhUdWhRQVRqbjg4aWdTNW1hRVNkNVBqc3VWRkxNN0MwVEVIcllFT01HaWJwNFZLeUNrRW1US3A5bFk0aGFXaEdlbWF6RnJ2d1lERGhyY2t3OFB1dDEzZm1VWVlUS1NSV0RVanBMWW9zeEtvVUVYSHZWMXN3?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Wed, 07 Oct 2026 12:00:32 GMT"
+    },
+    {
       "id": "gnews-ai-insurance-0-aHR0cHM6Ly9uZXdz",
       "title": "Insurance Gaps Mean Tech Acquisitions Can Inherit AI Liabilities - Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1VJYVhUcUYzMGRscjdUYzhSQUttYUFHYUo4UXRUMU9WTTFmeERfclpUYWRDZ1l4dVhKQmFrWV9DNElGRlVkZzZmckR6YV9Ld3pobEVodWFTTjJ2RjE2TE9RQmdHZXlYaEZ3WmRtQUZCVDBKcGUtWVFEM2I1OFBwMkJUUHZzamVsZVM1ZndaWkdUU2xJV0ZfNi1xTVl2WWhHb0RIS3VKTU5ZV2V2ZjdhdTYwSU9TSmhEcnNLZkl2Rm1vMGM3SEg3VFlINGdrdw?oc=5",
@@ -25,7 +49,15 @@
       "pubDate": "Tue, 06 Oct 2026 19:55:52 GMT"
     },
     {
-      "id": "gnews-ai-insurance-3-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-0-aHR0cHM6Ly9uZXdz",
+      "title": "Court Finds That Using Copyrighted Material as AI Training Data Is Not Fair Use - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVC1HVURQQUwyakdxWkJEdWtDTTYxUzBnMm5qRDhWQjYtS2huOUVIb2NOaURZbVotdE0wUkY0eW5uaFpXVllwU1pVVmNVRllyZnVjQXc3am1hSEs1Njhib2tONktFcWZGX3ZUX3hlU1JKblpYUG9rcVFkV0xiZU9Wdlh4M3l5QkVnaDZOQm41Z1plTEIwTFBRQ1NMVmg0MTRfV2c?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Tue, 06 Oct 2026 14:58:51 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-8-aHR0cHM6Ly9uZXdz",
       "title": "California’s new AI restrictions raise fresh questions for EPLI - Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV19MMVFvc2VnMHFoZkJxaHk3cDFqNHIwb0M3SUxmelJGU2twcllMTk5QZXhEYTJ1SVhaUWowTWtKa2l1SUVaVEJWRFQxWjlTN2dIaEIyb3QzWV9WWm45MGxuUm15MzYxQ3FhcUlyeUhhVUhyUVNSYWszNHVZTEhpRWlucnEzUC1xdXNsdkFmdXE3WlBqM3h3NzZjX2RPZ09xSE9QbFZuRXlMRTBEclZfRXRGa2lLUzdTS19jeEQtOV9wOVlOeENIdHQzX0hZTXB4N0xvWnBFWFFZdw?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -33,7 +65,7 @@
       "pubDate": "Tue, 06 Oct 2026 12:53:37 GMT"
     },
     {
-      "id": "gnews-ai-insurance-1-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-2-aHR0cHM6Ly9uZXdz",
       "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -41,20 +73,20 @@
       "pubDate": "Tue, 06 Oct 2026 04:36:23 GMT"
     },
     {
-      "id": "gnews-publicity-ai-5-aHR0cHM6Ly9uZXdz",
-      "title": "Japan Actors Union Responds to Kenjiro Tsuda TikTok Ruling, Calls Recognition of Voice Publicity Rights a “Major Achievement” - Japan Anime News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSGNuZkN2emtlME82LWNXaERtQTBvVWZuNG9XSkZrNFRJSTFDdnYydTFlaDlKR2RBM3hmOVRVV3d0bXJ5T3ZGN20zbEdxZzg?oc=5",
-      "sourceLabel": "Google News — AI right of publicity",
-      "sourceId": "gnews-publicity-ai",
-      "pubDate": "Tue, 06 Oct 2026 01:50:00 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-7-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-6-aHR0cHM6Ly9uZXdz",
       "title": "How AI is reshaping lawyers' professional liability risk - PropertyCasualty360",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG8xcDlybmxWSElOMGtRNFUyZThROHVTajR4YkZndjV6Z3hqbEpPUVFFa0ViTkd0U1I1SFg1enhlc09oMTdXaEVuSTUySThpZVJrcExDQWVyTHY1SXFMcENiOGNSS1p2Z0w4WnN6ZG5QbjZqNU15NEg4bjlsTXpDZzZpOVo5eTJ5aXgwWFhwalBhUlI3aUpyLWtzTmNjMDY0TW02ajBB?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
       "sourceId": "gnews-ai-insurance",
       "pubDate": "Tue, 06 Oct 2026 00:09:57 GMT"
+    },
+    {
+      "id": "gnews-ai-copyright-2-aHR0cHM6Ly9uZXdz",
+      "title": "Audible’s New AI Stories Test The Boundaries Of Copyright Law - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWVXbnZBWFFBVWQ3a1hsd1FPZk1CRG1rUHVVMWt5TVBHcjF3dWRMNmN5VXhrZXhVTm9OT2lpYVZjamJVUU5vWkxiNFp0SjktY1ZzRTlxeHFSYllEWUVKODBNR1A4ZUhQYVhBMjVESEF2RDBSR1E3SUVwQndOX1BNamJ0dWw4a2RtVE1COUF3LXlpT0hXYW1ZOVFNVV9NOUh4Y0UtSTJBdjBaaXlqb0pIZFlBZGk5UjFsTU1TRGF1b0RtbGpPLUE?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Mon, 05 Oct 2026 14:45:12 GMT"
     },
     {
       "id": "gnews-ai-insurance-4-aHR0cHM6Ly9uZXdz",
@@ -73,6 +105,14 @@
       "pubDate": "Mon, 05 Oct 2026 03:54:44 GMT"
     },
     {
+      "id": "gnews-publicity-ai-6-aHR0cHM6Ly9uZXdz",
+      "title": "Tokyo Court Recognizes Voice Rights in Landmark AI Ruling - News On Japan",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wYnVUUDcxaUtmelU4Z29TZjJBU1Z5U2FzeVJ2bVI3U21ZWVF1VjY0bkF1ZTZCTWFzVXlxVGh5ZnFJdnBhVmoybzlFa01MTV9INlFYSA?oc=5",
+      "sourceLabel": "Google News — AI right of publicity",
+      "sourceId": "gnews-publicity-ai",
+      "pubDate": "Mon, 05 Oct 2026 01:28:23 GMT"
+    },
+    {
       "id": "gnews-genai-litigation-3-aHR0cHM6Ly9uZXdz",
       "title": "Third Circuit Rejects Fair Use Defense in Landmark AI Legal Research Copyright Case - FindLaw",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVo1YTBHT2lnWXBoUVp6S1JDYnR4ZkFmaDJoMWViSWNSMWxwRFJvemV0X0l3c2lzdjNLMHBIWEMzOXk0aHV1WnlkS2w3RkdBZ1NiZ2ZGazYtbm5IRmNHaFAtdzlzZkxxWWVIZDNXYWJBLTYyMlhRekRMV2ljVC1GcUEzTDZRLTdTaTZGbmh1QTE4TUVFMUVSNEdmLWpkR0o1ek1uLU4zc05xYUJGTzgzRjBsOEpWMDEycnBBTERmMkdQNzgtREtKLV8xb05CQQ?oc=5",
@@ -89,31 +129,7 @@
       "pubDate": "Fri, 02 Oct 2026 18:28:01 GMT"
     },
     {
-      "id": "gnews-ai-copyright-9-aHR0cHM6Ly9uZXdz",
-      "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case - Publishers Weekly",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSURfTFRLMWpnbVRWNC1LZmFzNVoyYkRlTHFpb2Z2US00dG5wSC04R1dBLWhFeXViVFNFX1d5VWJZMFdkQUNwNTNpM3BtenFyNlBiWHJHTTdsUXlRZ01hempvVG05djZuZlNCOE9qenMzVmNTUjhNZm91NFJPLUxERXAzelFQdWpfakJIc1lYUmZEeklORXI0a2I5aTF5MUN2bXV5bEpmcnlmT3hPMXc2QW02Y2RDLXByUHlXZWRyVW9sRWJ5SlpJNGM4LTB6X0NsOE1ZTzVjakNBSmRKQmVGMVVUX1BhSXdS?oc=5",
-      "sourceLabel": "Google News — AI copyright lawsuits",
-      "sourceId": "gnews-ai-copyright",
-      "pubDate": "Fri, 02 Oct 2026 15:57:57 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-2-aHR0cHM6Ly9uZXdz",
-      "title": "Rethinking Insurance and Legal Responsibility for AI-Enabled Biology - The Nuclear Threat Initiative",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzVxRHNfZHRWb3lRZFkxc1gxN3ZYVnlBZ1o0THpraUNaQlRIOG5jU01VNjNURzYyWThDQVJSLVBqa2V4RmRiUDRMZktfaXE2NDBmUEh1aUJteUpTTEZKWGxQM0RjODJteDdVZXR0SmdVQTBBR1NZbkk5MkJZN20tSHJtclJUTWpGQl9vOXJoTEhuT1BrR2thZ0FpOGtyMnNYSzZMNGhEdw?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Fri, 02 Oct 2026 13:49:29 GMT"
-    },
-    {
       "id": "gnews-publicity-ai-7-aHR0cHM6Ly9uZXdz",
-      "title": "Tokyo court rules voices may be protected by publicity rights - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95a0U4Ukl6a0NpVVZORk1xNF82Ty0wWXR1V2c0LVBRUXRXVGRYX0ZBWDN1X1hMR3Znc3pYNzZudnI2aHJxdVBPSjFEc09YbFV0dkVfTWY3MWhid2ZvS3JrcTQwVDdiZU9STURlNFBxajZ3bVk?oc=5",
-      "sourceLabel": "Google News — AI right of publicity",
-      "sourceId": "gnews-publicity-ai",
-      "pubDate": "Thu, 01 Oct 2026 08:38:46 GMT"
-    },
-    {
-      "id": "gnews-publicity-ai-3-aHR0cHM6Ly9uZXdz",
       "title": "Landmark ruling backs protection of human voices in AI cloning age - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UEE0eER3QnZ6WVNrV29XQ2JoNmMtaWZFbnh6RUZPMUQzc2pYNzd5OF9jZHZSODcyRGxWM1M2MFk4T20tcnNnZTRPLS1OYXJvVUYtWXRR?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
@@ -121,28 +137,12 @@
       "pubDate": "Thu, 01 Oct 2026 07:56:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-6-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-5-aHR0cHM6Ly9uZXdz",
       "title": "Insurance When AI Agents Are the Decision-Makers - The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObkRwbnJmeG85Mk00YjFjTXBfMzRZWXRFZTJwd241ekQ3eC16R2VUZnJfaWNTSGNfckU5b2pyekpmN3FrN1BhXzgxVlpmRmlyanBmcGNscUNHclk2cnItSUdOcVNENnVtc0VpTFNqQUZ4UEx0Q28zYTQwelZBR0xuWjRPUdIBiAFBVV95cUxOenM2R2xTdEszQXdIamhKcU1tdU82akgtbHpVWFd0U0VsUld4aFNLOElHOEdnem9QMnVfQ1piMkg2NjVMZHF6NDBkSi1vT0tmZnpNVEhXcTJKNWFuRE1WSmVWX25JWU5OM1lScXJrSnV6VzVQTDBfWGpDU2RQbWNtZU56UDhBRGg3?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
       "sourceId": "gnews-ai-insurance",
       "pubDate": "Wed, 30 Sep 2026 22:24:02 GMT"
-    },
-    {
-      "id": "gnews-ai-copyright-0-aHR0cHM6Ly9uZXdz",
-      "title": "Federal appeals court upholds Thomson Reuters’ landmark AI copyright win - Nieman Journalism Lab",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzI5T2I1UGhHYkRFek1ER3VKVjE0VklxMkdaVk5FbkVyR2FSc2RwanZFWWtWWHU5c1RvV1pyQlNJWmdBUHBLakRyamk3ZmFvZWNmeWN5cXRHa0dVVTlLQlBhNjVuZkg2Ymx0VFF0UEdpVXRkRTZpVkFwWHVlVTIyaVZfSFk2ODdFWnlCaGZjSmh3SDBTUVJ5dlplTGxhb3R0STRKTVlnQzZhZw?oc=5",
-      "sourceLabel": "Google News — AI copyright lawsuits",
-      "sourceId": "gnews-ai-copyright",
-      "pubDate": "Wed, 30 Sep 2026 21:22:48 GMT"
-    },
-    {
-      "id": "gnews-ai-copyright-11-aHR0cHM6Ly9uZXdz",
-      "title": "Thomson Reuters Wins AI Copyright Battle - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVpMZ0QzSWcycUlGLUIyZF9kUVg1NHExX1ZqTlpHV0w4bXdUd3poS1hjVDE1aEJfcENTTUZLaFF0Z180eUt5Q0NtNlMtbFh1cm5xbUE5aHlxaFpVbkJuQXV6Rks2ckFia3N0VTNnOWktbjFPWjA3emY1dnluMnFMcg?oc=5",
-      "sourceLabel": "Google News — AI copyright lawsuits",
-      "sourceId": "gnews-ai-copyright",
-      "pubDate": "Tue, 29 Sep 2026 21:59:20 GMT"
     },
     {
       "id": "gnews-ai-copyright-1-aHR0cHM6Ly9uZXdz",
@@ -153,23 +153,31 @@
       "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-genai-litigation-4-aHR0cHM6Ly9uZXdz",
-      "title": "Generative AI Becomes the New Standard for Legal Work in Just Four Years, Putting the Billable Hour Under Pressure, Everlaw Report Finds - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZVhFZEwxbHNycWlKNkE2TXZtZGxWRlhiNDhZelZ3Z1VoWUZXVV95SVhFVUhHTWhCcnZnN1pDNmhHTHYtTkdxZV9EWkQtUDV0Qk5FY0NINFhVSFdWTmxnQXZ5bFRUT0l1dTFCNWxOTGhMaHhmc3cxSzl5NzF4dlloZTJINXdWNFZ4cEhUNGhWUHZxNDdUS0s3N1kxcDZXMENEbWp4cjZsNk9veWFEekhzUXNWbVM2d1F4elRfMTJveVdZZVFSNTNJUENuRHVGWXRjRGJjb1VJUXp6M1FJODkyXzF2TWZLcFFmSmdJSUVQZ182NHRGSWhCWVNYeUs5YlJvNmc1bGFweDdhb3pxVVRrc184QlJyNTVzTDlZUHZRSnRVQQ?oc=5",
-      "sourceLabel": "Google News — Generative AI litigation",
-      "sourceId": "gnews-genai-litigation",
-      "pubDate": "Thu, 24 Sep 2026 15:30:00 GMT"
+      "id": "gnews-ai-insurance-10-aHR0cHM6Ly9uZXdz",
+      "title": "Rogue AI agents leave insurers facing dilemma over liability - The Observer",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkt1TXNQM0RJYUwyUi1scjdvbllWcWcxa2NGT3FOWDZodHA0bFBCLWFUNmVVdy1lRzdHTnhTa0V6ekh2WHpOR19SZzNqdGJRVkc0WWhHLVBFU3hJejN6MkNkcHctRTNYam80YWd1QWw3QnFHN0p5M0d2Zk1CanZmVHJsLTRrYnB1WG5hOERQWFR1bWdfQWJQY2NIVTJmOG9meDJZaFRtVHA?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Sun, 27 Sep 2026 08:54:07 GMT"
     },
     {
-      "id": "gnews-genai-litigation-5-aHR0cHM6Ly9uZXdz",
-      "title": "Generative AI Becomes the New Standard for Legal Work in Just Four Years, Putting the Billable Hour Under Pressure, Everlaw Report Finds - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORFdDaUZVeEc3U0tITVN6aFBRelZzTXhDYmxfTUxGejJKZ0lHMkdrR1hZRXozNE93WmQzNjdJVmN6QXFDWWdGUUZaSVZ5TDF0UW43VFJGY2Z1V3VvNkxhaGJJSDZ2NUdUbXdXMGhpVW9iaXJfUDE5aWpBYTlQdmhqUml0dm94S2ZJZmxMLTRUYUpDY3A5bkl6X3lYUGs1V3RmamNqT1RYZEhpTkg0NGVGX2p0TjhnM2h4T1JEckF0ZFNoa1AtbmNrRGRjWDJfQnBIQUhLaXV6Q3VKUHhpVk1NVHhITEtLckVmZ0NqeUZtcEk1TGRhd0hoUGk1X0F5MTRfandjZW5jMXkyMlp5dzFVRXFZQ1NwVS1iOXB3?oc=5",
-      "sourceLabel": "Google News — Generative AI litigation",
-      "sourceId": "gnews-genai-litigation",
-      "pubDate": "Thu, 24 Sep 2026 15:30:00 GMT"
+      "id": "gnews-ai-insurance-9-aHR0cHM6Ly9uZXdz",
+      "title": "Insurers Split Over AI Coverage As Misinformation And Deepfakes Drive Most Reported Harms - Risk & Insurance",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHk5c0E0dlY0b2hQN0R3VnczemIwdlJwZ1kyZEVGQXpDVmlLTWVELWdzaGFfa1hhcUhVM0RwNVR0QTZVamdVc29WTnV0WEpWMEVCanpaV2cwd3hVNzhkUjZlbTd0a2dVLUR3NU5aczJZYy1lQ0xPdmhScFNCbWhYN1FNQVl0R2ZrZmxyZERFSWQxVUEybmcySkFPMEMwX0ZFbkVLa1NzTUVJTU9zbzRONkF2YnpJSHFQbEpn?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Thu, 24 Sep 2026 19:52:58 GMT"
     },
     {
-      "id": "gnews-publicity-ai-1-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-9-aHR0cHM6Ly9uZXdz",
+      "title": "Why The Austin Chronicle Has Joined the Copyright Lawsuit Against OpenAI and Microsoft - The Austin Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTkVEdEJub3JzeFRHa2tNWHFrRzhVaU1VX1R2eUIzZS12LVhmcG9YMVY0TFJBcHlhMUwtWnlOLUVPT3M2a3ZEbF81LS13UThxSXp5UFlfclJmdl82OXo5N3pNdkVqWmQ2MUtGa3p0RTFCSVlYakt6X3BETmk3cDR3QTJDS1hITFVhbGFpX3QtNUhXMzl2cjBCVjRpRlhja3U1dGFwQlh4eWN2QkxZOV95QjRGRGd2LUVoNmMtTmV2Q0Q1cWRlX2VjcHJkRkczWTFkRzhCOEFGUWJocS1l?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Thu, 24 Sep 2026 05:00:00 GMT"
+    },
+    {
+      "id": "gnews-publicity-ai-2-aHR0cHM6Ly9uZXdz",
       "title": "Moore to pursue right of publicity statute as part of state AI framework - Maryland Daily Record",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkt1X01RX096NTZhYTNYSXY2NjMtVlI4VmRLSHpPUVhtSktXVG1DNEV6UnRUYUNFcE1yZE1mamh3c2FNeU5PV3pIdURnNE40Slkza1V1WHU4d0RuNDJTdFlzTjBtTUhIWnVoT2hzb2ZaYXFMVGJiZXFrVGkyMFM0STR0elVMRVVuOWJ3c1ZMTDhNV3Y1V2U2SW14VUFXbHlZY1E?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
@@ -177,7 +185,7 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-copyright-6-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-3-aHR0cHM6Ly9uZXdz",
       "title": "UMG, Sony Hit Suno With New Copyright Lawsuit Days After AI Model Launch - Law Commentary",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENpelhHd1JhT1BwU1dwX29vcHg5RURtN1Z3REgtcXp2aGlETktRVFVyNGJIU0dkaHNreU96U2thNEFReXpFbFp5OHZOT2FIdEZTcG9FSzJpNU5qanJUWHhTc2kyOTRCRjFwRndwd0xzSWQyOXFSSUdXeUJuUnRxaHVn?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -185,7 +193,23 @@
       "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-publicity-ai-2-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-11-aHR0cHM6Ly9uZXdz",
+      "title": "Beazley Says AI Risks Covered By Cyber, Liability Insurance - Law360",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWtqTERDSGV3ZGtmc0VSUXlfU1BtXzZscHFkbWxNcHppM2NvMXJfaS1LVXB6Y0h0b1VWMkh5MVliOVU5dEJaYUUtaTRfaVBNdXlaYUx5MUFXWnBMVnF3anQ4NFdTbGd4cEV6clFXMkJSQXF1VjNsT3MyYk04b3E5U2oxQnh1TzNXZHpEcEZHZVREbmVqZXhKRTFteXFKTW_SAVZBVV95cUxOMmQ0bUxyTmwtaHhncDlORDdjRXkyWUhaODh4anhENnVjTWpHNGZXVmVyVmJJSDlJeUpxY2VSQVJMMnBzVnNOd05fdFdXMHozQ3EzT1hxdw?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Fri, 18 Sep 2026 13:37:00 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-7-aHR0cHM6Ly9uZXdz",
+      "title": "The A.I. Industry’s New Worry: ‘Liability Exposure’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "gnews-publicity-ai-3-aHR0cHM6Ly9uZXdz",
       "title": "Learning from Hollywood? Why the US right of publicity can only serve as a partial model for Europe’s deepfake regulation - Wolters Kluwer",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMGtCUlJnUmFTeHFnTEVyMU5ldkJtN243cENtYi1BWGtiWlJLLWROTElrdE1sVTVsWEkzZnFyOFQxOXcxV3pjdTJfMi1hWW9kelpRMDkwRzYxYzY4NWNVYXNQR3Fma0hFT2kwUjA2NmJZOFJIQkFpQk1XRHNmTzgtODZpdHRsTF9BTW9hXzk2NHlvQmxCVGZNdjhYMnhCZ3ZmMEZyZVQxN1dGU0pyaVpMb0ZfWGgxQlE3OGVhTVJyczg4dHI2UXhGLUozUTlJMEpVTkRLSE1OcXMzSDJ5cEp4emIxYlNfTGNjQWk2NTh6UFhtUTJuTmFrRDg3Q292T2pkRUE?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
@@ -193,23 +217,23 @@
       "pubDate": "Thu, 17 Sep 2026 09:57:54 GMT"
     },
     {
-      "id": "gnews-genai-litigation-10-aHR0cHM6Ly9uZXdz",
-      "title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
-      "sourceLabel": "Google News — Generative AI litigation",
-      "sourceId": "gnews-genai-litigation",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
+      "id": "gnews-ai-copyright-7-aHR0cHM6Ly9uZXdz",
+      "title": "Copyright Lawsuit Against OpenAI and Microsoft Grows to More Than 550 Publications - Insider NJ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3o3bXIzTzNydlN1VWtoTEVpTVh1cWRfWUpIU1oxdmxGUm9CaUllT3FuSFZrMXlhc3RsdlVJclB1NUdTcHB1MWg5dFROOXh0Vy1lVTZxaVoyVzNvMW96Sm9CZ1MxM2JCSGJ6ZktFSjgxRWx2eGJCbjRNeUpEa3JMLTZWS0lJZ2dQdE03OUIwM05XQmpYMkF3dXptVndzMURJTWhHS2xra3NLcUlYaEE?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-publicity-ai-11-aHR0cHM6Ly9uZXdz",
-      "title": "Jason Isbell, Musicians Sue Suno Over Alleged AI Use of Artists’ Names and Voices - Law Commentary",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ29wWENjTXFUc0R3c2VEOUlSOG1PcEN4ZExsWDFQSFpqV25icUUzaHE5SGpwWEIyM19IdFJfblBLMGQybkotQ3g5OWtuanc0dmZMMmtxZUQ1S3hJTXlnbHBRYlNwRE9sTVI1MVlINXFDaVZhS1cyQ3JDQy1sUFBpVG45TFY4cjZoRFdDN3pBTDFrQQ?oc=5",
-      "sourceLabel": "Google News — AI right of publicity",
-      "sourceId": "gnews-publicity-ai",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
+      "id": "gnews-ai-copyright-6-aHR0cHM6Ly9uZXdz",
+      "title": "AI music lawsuits raise questions about American companies and Canadian arts - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcF9SRWJxdTlXSVp1M1BUc1Z6dEt1YjR2VHVwUTVWRUhIVGlQVDN5SUI2Rmc0bktMSE5mdFFRaXpmVFpXUkY1MUN1WEpxN2JKSU0zWlo2VkVIeXA0WHJZQ2ZIRnBiYk1iVEZHM2tfYUNMLUY4ZVFuTC0zeUo4bkdKbVBPNHllNlZRX0Q3Q0pGM2dlX1FvUkROdFhPaVFDcV84ZV9qcTNqdENnbi1SamVoTw?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-genai-litigation-8-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-genai-litigation-7-aHR0cHM6Ly9uZXdz",
       "title": "As AI hallucinations hit court filings, new tech tools aim to keep lawyers out of trouble - Maryland Daily Record",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUmhkX2gwb1I2SHFCYUQyOUhTRGJ4VUlGX1JVVVluSG5HaUhJazdta0paZ1Q1ZkNHYV9zQmJaUGRESTFFN0J0T0psWUFnVk55T1hsMlhpejdUSWdUY0FfRW95U2R1YlJtbXdOUktjVEFGWFBE?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
@@ -217,15 +241,15 @@
       "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-publicity-ai-10-aHR0cHM6Ly9uZXdz",
-      "title": "Japan Issues Guidelines on AI-Generated Imitations of Voice Actors - JAPAN Forward",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmdvQ0ZiRWFPZXZhOExwVEVsSmt5OXhBTDlYbjZZNkJSeXdyUnNydEZWOGNmd1hKSFZUZ2o0Vmtlb05wenBNLUVTYk11b1FnVmRuRkIwMVk5Sl81UEQ3SzdEWTZDeUZTWEJ1clJ4Vk9XTVNsUm1UdEV0UWxQQ2tRaDNkdWQ5Rms?oc=5",
-      "sourceLabel": "Google News — AI right of publicity",
-      "sourceId": "gnews-publicity-ai",
-      "pubDate": "Wed, 19 Aug 2026 01:36:23 GMT"
+      "id": "gnews-ai-copyright-11-aHR0cHM6Ly9uZXdz",
+      "title": "German Court Decides U.S. Copyright Claims - Transnational Litigation Blog",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JM1k4WmpiZUY3N0NkU1R6M3l5UWxEa21DWnpvc0pPOVdlT3hQZWxRYjdpbjVNQlRxd2ttVU02bzBYWTRidGQ5clZWcmNRdGFnVVNHZzM1cVlBMWszU25ncWZiSG5ISDdnd29GcTRB?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-genai-litigation-11-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-genai-litigation-10-aHR0cHM6Ly9uZXdz",
       "title": "AI and the Courts: New Frontiers in Legal Writing and Research for New York Judges and Litigators - New York State Bar Association",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlRxZERMSU52eGk3dHpwWnRZWi1yYWRzcHZ6OUpjaXRoMGkydmlmZ2RjVmhEX0FuU3Biam5sMXM4WkxqTm5IT1NkN21GVkotYWtYVXo3ZHNnTWF5TFhPMVd5bUcteGZEQ0hZZDduQmpza2lFUE8wTXFpYWswNTJxdFVNTnBXNTh0cF9JNUsxOURlcFp6djN0ZFBBSkRMRjkzYlVwVWdZaVBndjExdHlFVnlxOWhndw?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
@@ -233,7 +257,7 @@
       "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-genai-litigation-6-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-genai-litigation-4-aHR0cHM6Ly9uZXdz",
       "title": "AI on Trial: Data Privacy, Copyright, and Cybersecurity Litigation - Husch Blackwell",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUdsMmdNem1UOEsxSFExbHhyV2RsR2kyZkRBVWhZR19iWVowS3d2ZENYTk13ZXR0cFFMM0t6QWNKS3g2dWFFa0UyVml4cVk2MWdBNUp2OHlrcjlQUG1sU1dtdW5PaUhqWUxmYzBrNDZiNDE0S1lZRkQ4dEs2N1lhT2VTWktMUUVrZkRVdmFncDl4cXVfY0ZjQmhYQ24wNWNTNnc?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
@@ -241,23 +265,7 @@
       "pubDate": "Mon, 10 Aug 2026 19:44:30 GMT"
     },
     {
-      "id": "gnews-ai-copyright-4-aHR0cHM6Ly9uZXdz",
-      "title": "Suno Loses Copyright Lawsuit To GEMA—AI Music Companies Should Worry - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1FDRnFFcnNOT3ctaTZadGZGT3F4SjhNSkROTEF3bHYwRzVuZkM0R0twWFlWMlpPelUwZkxnZm1kTWRXNkI0QmZFLVM5dTQxQUdkS1lhdldOVVFGUzhzejBtSnpLako0YjJtSV84SjI2N200aHV0eWtaRjZ2aE1NTnZ3MjVvRVpiZVhoOG5faFZmeFB3M1BrZ000NWFoOXJlUW9NR0tPMmVOWm1seElmczBic0xVN1hEYWpMRg?oc=5",
-      "sourceLabel": "Google News — AI copyright lawsuits",
-      "sourceId": "gnews-ai-copyright",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-10-aHR0cHM6Ly9uZXdz",
-      "title": "Industry Survey Results: AI’s Impact on D&O Liability and Insurance - The D&O Diary",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbk1MZmlaTDc4NTlOZUR4NXZqNFMzTHJZX1ZjeHk0cVJodFpDWFNqbTVJejN5WnV1cExlaExoNElId2dXOTVmMXJ1elIzaktLS1BNdHhVOFJ1SFRhU0tCT0xKOXI1SFFwOXBtbWdnRTJFeFlTMG92c2dkZ3lvMExzQW1GTFUzVFN0eEZnN1V3eDRWRkJaZ09XRm9XMUFaZ3FOUDRPel9BV1VOUHRZZk1nd0lLeE8xaU0xaFVvVE1xc3JhNG1NNzFpVzlzMWVFZw?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-genai-litigation-7-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-genai-litigation-6-aHR0cHM6Ly9uZXdz",
       "title": "When AI-Generated Letters, Complaints, and Claims Become Litigation Pressure: What Businesses Should Know - Davis Wright Tremaine",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXhhQ3FKWVMyNFdZU0M5MmtZYmttSVY0QXZaNVF2d2VoS0VIX3Zya2M5bndyV295RTBrRkJIU3o4dm9IVFVNbHFKNnhpcmRFeWlfc2JtRGI5cnQzWURndk1kaDNkd0dEVFpHUzh2bHRUcWU3NXVLVzR6Q0dlVjlVUWZYRXJRc09vbHZn?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
@@ -265,15 +273,7 @@
       "pubDate": "Mon, 03 Aug 2026 13:32:01 GMT"
     },
     {
-      "id": "gnews-ai-insurance-11-aHR0cHM6Ly9uZXdz",
-      "title": "New insurance products cover damages caused by AI - Marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllVUmxBQ0Ezb0M3MXE1YmxRQ3dMVmpWZTN0Rlk0RWZreWdLWk9kMkw3bkwwMmdxQ1pnZS04eHZ3d0Z3UXg0Qzg2X2l6SmpQTGU0Y0U5b25aVGZ4R2NaM01lak8tbk9VT1JONk9GZWFUaGg0R1pGZWkwUW5oNWVOa3pqeEQ0UEV2MmVzUW1OVnh4MGdBNVpzbFNB?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-ai-copyright-3-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-4-aHR0cHM6Ly9uZXdz",
       "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -281,7 +281,7 @@
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-publicity-ai-8-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-publicity-ai-11-aHR0cHM6Ly9uZXdz",
       "title": "PUBLICITY RIGHTS—N.D. Cal.: Federal... - VitalLaw.com",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeFNjYi02c1BnRkxoVTFNVndLLTJDb3FIWjJyRktTaDdaTkdTT0kyNG1qUDRfeXNtWGR5WWRwd19zdGxMZTY3WTVYUzR0YTExRHg3WUZUY1RxSTByemN4TXBra3lBVnluUXp5Yy0zX3VYT21NeC1MOUV1UTBqNmRnWkpRRGtlOEo5YzJuTWJ2cnY4NjBVbWVETzgwMTBVdU80dHlXaDA1el9JeFVzRXVCMFN2cmFhcVgtNXBjdV9Fajh1clVvLUhuclJjMTVuOWQwa2ZLMnYwc1VCaWNjMVQ3Y0JkbWg1bUZWV1dOUjR4TzBHc2pXSXhCYW9lQmNUS0J6aUgwemoyY2Q1OVlBT3VoemNER1VfRHFDRjAyd3V5LXdOcHNEV1E?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
@@ -289,7 +289,7 @@
       "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-copyright-2-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-5-aHR0cHM6Ly9uZXdz",
       "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -297,7 +297,7 @@
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-genai-litigation-9-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-genai-litigation-5-aHR0cHM6Ly9uZXdz",
       "title": "Old Rules, New Tools: N.D. Cal. Applies Traditional TAR Principles to Generative AI Discovery - WilmerHale",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVhyaUVKRERiQ0VaX2N4VHhTRjVfYjVJRkhKV0RMeF9uT19SRnZ6WkNBSlFQQmx2NHJORURmX1ZUcEJGVk9ocTJEaTZFSXVMQ3VjTzdmUnJycDlIU2NIRldGVlQzcGZjb3dxWi1DY0hkWmFOOWQxZk1yNFBxSmlpTzdXOFZ0NGYx?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
@@ -305,7 +305,7 @@
       "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-copyright-7-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-8-aHR0cHM6Ly9uZXdz",
       "title": "Authors, publishers sue Google over alleged AI copyright infringement - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzc3WjVyYVBkM2dreUpSMjdhWUZXZWk5V0ZYQ3BqdHNCTnp0QktVQ1U1YjR6RXgwcmwtZ1lqd1BoWWktaVJwd0Q5OWpuc0pJRjJHU1hhOEJWSG9KTnZpWWRza25abXZkZUNhZ0ZwWURNQU5aVklvTEJzTUlXRUpxUWdCU2M3djl4TmUxM19TTnZtdGI0c2E2cW5HNXNIbUM2b1ZFbWNKX2dYUjRTZmgyRVBn0gG3AUFVX3lxTFBBcVU0OEptQ2RwaHFYMF9Fa0k1aFdtSkZzV3Z3cU9fMldFMHFLNk5fR05QclRTWnZhSEg5d2phRTNCekFnb1pBWjAyRWVEeHJHb3NVdm51d3dQZVRXbXl1RW1TQ25ZM3FFaWhSOThsVTFSbnRyb0t6cENnTUZtb1UycFB4U1RDeFVyUldHaFpwQ0ZOSHJwQjJiZVlIN0J5SVVhWnVJRG1PWlIyakdjQ2pzcmNpMU5ZTQ?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -314,14 +314,14 @@
     },
     {
       "id": "gnews-ai-copyright-10-aHR0cHM6Ly9uZXdz",
-      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5",
+      "title": "Book publishers sue Google for copyright infringement over Gemini AI training - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkZyRVZyWFVMaWczcVgyVE5LSmh3R2psVGt2WmN5UXpMaFJTV25xbnFNU3h4S2tKU1I5SDZBbjNmUUFKYnhZeWNGazZtTFRpcW9sNm8zd2s0VmxmdThscW5UdENCd0R1aWxEYXR0WUJQbDVUdklhanMxVDZTWGtNMHZadXMtUVV6NzNGS3V6dw?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
       "sourceId": "gnews-ai-copyright",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791364791057,
+  "fetchedAt": 1791391678987,
   "errors": [],
   "sources": [
     {
