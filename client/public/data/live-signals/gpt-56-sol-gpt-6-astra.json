@@ -34,14 +34,6 @@
       "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
     },
     {
-      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2026-08-21",
-      "docketNumber": "1:26-cv-07171",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
-    },
-    {
       "caseName": "TRINIDAD v. OPENAI INC",
       "court": "N.D. Fla.",
       "dateFiled": "2025-07-03",
@@ -56,6 +48,14 @@
       "docketNumber": "1:26-cv-02097",
       "cause": "17:101 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
     },
     {
       "caseName": "Erickson v. OpenAI, Inc.",
@@ -108,6 +108,6 @@
       "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791446451382,
+  "fetchedAt": 1791473878543,
   "errors": []
 }

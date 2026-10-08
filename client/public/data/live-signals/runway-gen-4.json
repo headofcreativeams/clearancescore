@@ -3,11 +3,6 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Best AI Video Generators of 2026: We Put All the Big Models to the Test - CNET",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcDI4MU1MSHFzME9mSXo3aG02am9ELUJKWFFrc1lucllaN3BwdXV0ZG9pZzBCSF9RN1hmR2tQZDZ3Z3JjclU1NUZoX05KNUhRTWRqMllxcDZZZ2VlcFFxc3RJVGNxTzM1b2xGcWl3Q1ZrQmYxUXhkaHNJUzdrUQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "Runway AI Review: Models, Pricing, and Rivals 2026 - Plisio",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ERXA5TDF2VnhYY1I0cF9hMFVvTTlKTEhYUUlqODZDclo0MGt5dnNaeDdtOTZlbDl4RDJVM1dpWlRuQQ?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Netflix using startup Runway AI’s video tools for production - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUU81bXgzMTh4THBFT3pTVm1TZHJoeVVPbjFmZXFIUkF6NkhqaGpSQ0daTy1SNDVJeDJFeUN3VXU0ejlka3I0c2tSenJvWXBHeW5zeDFKM3ViU0gxZFlfYjJjeGZSUzdPOUNLRWhJN04xNmpjbTAwMVZrVG54UDNrQjJUcEppUHo2OWotenl4aDI5VXJNVTZPZmRobEtXdHd1N1piNjNueTdZcE5YOUE?oc=5",
       "pubDate": "Tue, 22 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "AI companies lose bid to dismiss parts of visual artists' copyright case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXVFbndKT3QxRmF5dXprMlp6aDlzbE4xZUtVcEZ0dGk2LWtvcEtvRU8xeUR4TEVEQnYtUzJYbnM0Vy1xUjdKSmNDZGM5WTM2RmpNLV9RNEhXR3dTUHhsQ1l4bHoxMGhEMUt2MDVETVdWQTdxd3pXY3VqTjdOYmZMTnVZMTFISVNEMjhXaVUzdFRncUg4dEh6Yms0MlJFdkRXaDJiNVgyRGE5d2RrMlpCcUFQVUZXZU15YVE?oc=5",
+      "pubDate": "Tue, 13 Aug 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1791446452091,
+  "fetchedAt": 1791473879338,
   "errors": [
     {
       "source": "CourtListener",
