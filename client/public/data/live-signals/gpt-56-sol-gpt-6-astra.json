@@ -70,7 +70,7 @@
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+      "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -88,11 +88,6 @@
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Introducing Claude Opus 5.5 - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "AI agents driving test: GPT-6 Astra finished the course - NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3ctMjloMXY0YXNuMjlvNFRwSjZ0NnZVek5FdlpGTWVKN0dxRnZHaURJSFRSeEJpcUZVV0NoVDlFTFJrV2NsVlNRa3ZQOG9MWVJTdmNudkFPSzk1a09mRUlCdU5hRjJjVi1Lb05TdVBNYzA1WkpaV2RtdFdvdl9HbDFhTlB0Z1dETC1pWElkOUV3ZzhlMFZXVl9rZmx4MjdIWE9HZg?oc=5",
       "pubDate": "Tue, 06 Oct 2026 18:37:09 GMT"
@@ -103,11 +98,16 @@
       "pubDate": "Tue, 22 Sep 2026 19:26:02 GMT"
     },
     {
+      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlY9IBswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlYw?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "GPT-6 Astra ran simulated supply-chain attacks in UK government tests - The Next Web",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFgzbDRXVXZxTTc1b21EeGhwbnBxdnloSk1nV251YnlOdkw0dVc1WTk5NHJjWmpCNmwyWjBaVGpWV0EyQnpYTjVYWmtzMUVKc1VFZDFtWElsbm93dzY3X0R0T1FILWxWRmViNTBqeEEycUltUktaalUtcEpqVndzLXhXNHdncXM?oc=5",
       "pubDate": "Tue, 29 Sep 2026 12:38:20 GMT"
     }
   ],
-  "fetchedAt": 1791607108152,
+  "fetchedAt": 1791629367235,
   "errors": []
 }
