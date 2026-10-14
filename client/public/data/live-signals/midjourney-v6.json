@@ -42,20 +42,20 @@
       "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
     },
     {
-      "caseName": "Silverman v. OpenAI, Inc.",
-      "court": "N.D. Cal.",
-      "dateFiled": "2023-07-07",
-      "docketNumber": "3:23-cv-03416",
-      "cause": "17:504 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
-    },
-    {
       "caseName": "Tremblay v. OpenAI, Inc.",
       "court": "N.D. Cal.",
       "dateFiled": "2023-06-28",
       "docketNumber": "4:23-cv-03223",
       "cause": "17:504 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
     },
     {
       "caseName": "Hendrix v. Apple Inc",
@@ -108,6 +108,6 @@
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792006565993,
+  "fetchedAt": 1792017573354,
   "errors": []
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "gnews-ai-copyright-3-aHR0cHM6Ly9uZXdz",
+      "title": "Canadian news publishers sue Anthropic over AI copyright infringement - Broadcast Dialogue",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2ZyMXN4TTQ0VGlpNmYwQjhOT1ZKN3FTeG5Rbk1vbHp3ZHdWRW05WFExSl9DUmpiM0t6LWZkVDlWQ09oYzhoN1R4cDdHTUxVSDdEa0lvUzh5TktwVEstckc3WThoYnA3UnZuc3dVSXF5ZHFHblBOcnNySFUzeHBKX0d5YUdmMkh1Rk5XMkhBTENGNHdwNy1HbTdHa3RERk0xM0E?oc=5",
+      "sourceLabel": "Google News — AI copyright lawsuits",
+      "sourceId": "gnews-ai-copyright",
+      "pubDate": "Wed, 14 Oct 2026 19:17:05 GMT"
+    },
+    {
+      "id": "ipwatchdog-0-aHR0cHM6Ly9pcHdh",
+      "title": "CAFC Affirms Win for Hulu Due to Ineligibility of Digital Ad Tech Claims",
+      "link": "https://ipwatchdog.com/2026/10/14/cafc-affirms-win-for-hulu-due-to-ineligibility-of-digital-ad-tech-claims/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Wed, 14 Oct 2026 19:15:20 +0000"
+    },
+    {
+      "id": "ipwatchdog-1-aHR0cHM6Ly9pcHdh",
+      "title": "Ending Self-Collision in Continuation-In-Part Patent Applications",
+      "link": "https://ipwatchdog.com/2026/10/14/ending-self-collision-in-continuation-in-part-patent-applications/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Wed, 14 Oct 2026 18:32:15 +0000"
+    },
+    {
       "id": "gnews-ai-copyright-0-aHR0cHM6Ly9uZXdz",
       "title": "Midjourney: Report Claims AI Model Is Worst Offender For Flouting Hollywood Copyright - Deadline",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHhSWFJRUWlhZFhjWEM5OHBCaFRsN0Y3eURKV3BkX2lUU3VvZ0hEQ3lQdkkxaU9NekpvVVJfZ25BQ1g2TXVzNkV4Z25UM21yNmpCTW5SSHdMaFNUQUNZcGpOWXlwNjE3T0RadHYwZDlPODk1dEVldVZlV09UaTJyekgyX0tBU2wxQjJ3Z3Q0VEtvQ1BrLVRuWEcxNA?oc=5",
@@ -9,12 +33,44 @@
       "pubDate": "Wed, 14 Oct 2026 16:48:00 GMT"
     },
     {
+      "id": "ipwatchdog-2-aHR0cHM6Ly9pcHdh",
+      "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
+      "link": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Wed, 14 Oct 2026 15:15:09 +0000"
+    },
+    {
       "id": "gnews-publicity-ai-0-aHR0cHM6Ly9uZXdz",
       "title": "[Webinar] AI, Litigation, and the Competition: The New Battlegrounds for Advertising Disputes - JD Supra",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2V0xGc1Z1Q2Yyajh3NWZpczlsRFptazZzVkRQUHRCUUkycTNiaDEzMnEzMmdMSGpmX1pTUmdQXzB2MmxteXBsYnUxUzFkR2xwbWNjdHk3dkViUGJvTVF1cHZ1Q0d1ZE1jUTBtQlJTNGNYVkJlY2RaNTc4dWw?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
       "sourceId": "gnews-publicity-ai",
-      "pubDate": "Wed, 14 Oct 2026 14:13:04 GMT"
+      "pubDate": "Wed, 14 Oct 2026 14:12:04 GMT"
+    },
+    {
+      "id": "ipwatchdog-3-aHR0cHM6Ly9pcHdh",
+      "title": "Studebaker Brackett PLLC is Seeking a Patent Attorney or Agent",
+      "link": "https://ipwatchdog.com/2026/10/14/studebaker-brackett-pllc-is-seeking-a-patent-attorney-or-agent/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Wed, 14 Oct 2026 09:15:50 +0000"
+    },
+    {
+      "id": "ipwatchdog-4-aHR0cHM6Ly9pcHdh",
+      "title": "UK Government to Explore ‘Court-Anchored’ FRAND Determination Proceedings for SEP Infringement Cases",
+      "link": "https://ipwatchdog.com/2026/10/13/uk-government-explore-court-anchored-frand-determination-proceedings-sep-infringement-cases/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Tue, 13 Oct 2026 20:51:26 +0000"
+    },
+    {
+      "id": "ipwatchdog-5-aHR0cHM6Ly9pcHdh",
+      "title": "The Intangible Investor: IP Knowledge is Not Required to Graduate at Any Top 20 MBA Program, Report Finds",
+      "link": "https://ipwatchdog.com/2026/10/13/intangible-investor-ip-knowledge-is-not-required-graduate-any-top-20-mba-program-report-finds/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Tue, 13 Oct 2026 16:57:44 +0000"
     },
     {
       "id": "gnews-ai-insurance-5-aHR0cHM6Ly9uZXdz",
@@ -25,7 +81,15 @@
       "pubDate": "Tue, 13 Oct 2026 14:31:36 GMT"
     },
     {
-      "id": "gnews-ai-copyright-3-aHR0cHM6Ly9uZXdz",
+      "id": "ipwatchdog-6-aHR0cHM6Ly9pcHdh",
+      "title": "From Patent Bar to Patent Litigator: Carving Your Own Path in IP &#124; IPWatchdog Unleashed",
+      "link": "https://ipwatchdog.com/2026/10/13/patent-bar-patent-litigator/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Tue, 13 Oct 2026 13:32:34 +0000"
+    },
+    {
+      "id": "gnews-ai-copyright-4-aHR0cHM6Ly9uZXdz",
       "title": "Universal Music appoints first AI director amid copyright lawsuits - The Ticker",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVkwYzBMeU9pblF1TkZQbE01Nzd1dzhIeWNVQU5wclZCTWpnMGxXU081WnFKR09XSmFTWEVGZVFDd2tlUWhrXzVHRUJXbExlcTZTRndEWnBaMmN2eVE2ZFJHYkhLcE1CY19HVV9xOGsxUzRkRklhSlJUM0pLMWw2TDB1Z0dmTENlUk1VWENTMFNmdEN3QzVSUEtqcDFpN3BQQ1IzX0xfZw?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -49,12 +113,36 @@
       "pubDate": "Tue, 13 Oct 2026 09:46:41 GMT"
     },
     {
+      "id": "gnews-genai-litigation-3-aHR0cHM6Ly9uZXdz",
+      "title": "\"AI Has No Moral Code\": What the BC Court of Appeal Wants You to Know About Generative AI - McMillan LLP",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckpzMGh5Z1ZiTHlET0ZVUEhpeXY0M1NqZmRoTmdvaHY4aUwxdE55Q1BTMXBtYlc0SmpFaFVGLTZXZ3Jqd3IwdWJoWGdSOGF6S3JWN01JS2xZbmZhQ1I4dENvN1ZselBiQ24yN01mYUstQ0JCdzc5VzFwOE5TRHdJYlAyMFBPTXBvbUtmZE1JbzAxUmZlZ25NVkZobUZGd25ILWhwU1dkQUxpTkcwbmZiTVlqUElKYjl5elFCS0xGcmZhZFZyN01qNQ?oc=5",
+      "sourceLabel": "Google News — Generative AI litigation",
+      "sourceId": "gnews-genai-litigation",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "ipwatchdog-7-aHR0cHM6Ly9pcHdh",
+      "title": "Bad Patents, Patent Trolls, and the PR Campaign Created to Excuse Infringement",
+      "link": "https://ipwatchdog.com/2026/10/12/bad-patents-patent-trolls-pr-campaign-created-to-excuse-infringement/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Mon, 12 Oct 2026 19:32:21 +0000"
+    },
+    {
       "id": "gnews-ai-copyright-1-aHR0cHM6Ly9uZXdz",
       "title": "USA Today Hits OpenAI With $250 Million-Plus Copyright Lawsuit Over ChatGPT - Law Commentary",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEVVS0diVy04eUZDYXg1Qm12ME9CMm5Na3REa3dKbWRyNzNJVWxwOExrVHpMc3NwQ2xrbFBSSE1RVjJDS0VlZEluQVVaM3lXSzRhR285VklhTGxES2FHcV9hLVZ6NWI5elg3VklVaE1tODBzOUo4ajUtOGM2RkhiS2xSV2V0RUliQXVmVEVRQ0F4ZzNNdHhJZg?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
       "sourceId": "gnews-ai-copyright",
       "pubDate": "Mon, 12 Oct 2026 19:05:49 GMT"
+    },
+    {
+      "id": "ipwatchdog-8-aHR0cHM6Ly9pcHdh",
+      "title": "Beyond Takedowns: Disrupting the Business of Counterfeiting",
+      "link": "https://ipwatchdog.com/2026/10/12/beyond-takedowns-disrupting-the-business-of-counterfeiting/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Mon, 12 Oct 2026 18:41:11 +0000"
     },
     {
       "id": "gnews-genai-litigation-0-aHR0cHM6Ly9uZXdz",
@@ -81,12 +169,36 @@
       "pubDate": "Mon, 12 Oct 2026 07:00:00 GMT"
     },
     {
+      "id": "ipwatchdog-9-aHR0cHM6Ly9pcHdh",
+      "title": "Apparel and Footwear Association Urges USTR to Add U.S. Platforms to 2026 Notorious Markets Report",
+      "link": "https://ipwatchdog.com/2026/10/11/apparel-footwear-association-urges-ustr-list-us-platforms-2026-notorious-markets-report/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Sun, 11 Oct 2026 23:52:01 +0000"
+    },
+    {
       "id": "gnews-publicity-ai-1-aHR0cHM6Ly9uZXdz",
       "title": "Explaining right of publicity - PPC Land",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVXUxU3pvRDJaUUp1WGhkbElDTEt4R0RjX3VuVXVKOEZRRTdtazhaaFdqRWZLVzZ3ZHp6T2FtZmE1VEpaR2dQNF9wRE0?oc=5",
       "sourceLabel": "Google News — AI right of publicity",
       "sourceId": "gnews-publicity-ai",
       "pubDate": "Sat, 10 Oct 2026 09:12:34 GMT"
+    },
+    {
+      "id": "ipwatchdog-10-aHR0cHM6Ly9pcHdh",
+      "title": "Other Barks &#038; Bites for Friday, October 9: Korean Trademark Probe Shows Royalties Up 69% Since 2018; AAFA Urges USTR to Add Meta to Notorious Markets List; Ninth Circuit Finds Refusal to Deal in Invisalign Antitrust Case",
+      "link": "https://ipwatchdog.com/2026/10/09/bites-barks-aafa-urges-ustr-to-add-meta-to-notorious-markets-list-ninth-circuit-finds-refusal-to-deal-in-invisa/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Fri, 09 Oct 2026 18:15:37 +0000"
+    },
+    {
+      "id": "ipwatchdog-11-aHR0cHM6Ly9pcHdh",
+      "title": "Postcards from WIPO: What’s Ahead for IP in Geneva This Fall",
+      "link": "https://ipwatchdog.com/2026/10/08/postcards-from-wipo-whats-ahead-for-ip-in-geneva-this-fall/",
+      "sourceLabel": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "pubDate": "Thu, 08 Oct 2026 16:14:36 +0000"
     },
     {
       "id": "gnews-ai-insurance-0-aHR0cHM6Ly9uZXdz",
@@ -105,30 +217,6 @@
       "pubDate": "Wed, 07 Oct 2026 19:37:06 GMT"
     },
     {
-      "id": "ipwatchdog-0-aHR0cHM6Ly9pcHdh",
-      "title": "After Three Years, Chief Justice Transfers Newman’s Case to Eleventh Circuit Judicial Council",
-      "link": "https://ipwatchdog.com/2026/10/07/after-three-years-chief-justice-transfers-newmans-case-to-eleventh-circuit-judicial-council/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Wed, 07 Oct 2026 15:15:38 +0000"
-    },
-    {
-      "id": "ipwatchdog-1-aHR0cHM6Ly9pcHdh",
-      "title": "Federal Circuit Grants Google Mandamus Petition, Directs Transfer of Patent Case to Northern District of California",
-      "link": "https://ipwatchdog.com/2026/10/07/federal-circuit-grants-google-mandamus-petition-directs-transfer-of-patent-case-to-northern-district-of-california/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Wed, 07 Oct 2026 14:00:51 +0000"
-    },
-    {
-      "id": "ipwatchdog-2-aHR0cHM6Ly9pcHdh",
-      "title": "Taiyo, Nakajima &#038; Kato is Seeking a U.S. Patent Attorney (Tokyo, JAPAN)",
-      "link": "https://ipwatchdog.com/2026/10/07/taiyo-nakajima-kato-is-seeking-a-u-s-patent-attorney-tokyo-japan/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Wed, 07 Oct 2026 09:15:00 +0000"
-    },
-    {
       "id": "gnews-genai-litigation-1-aHR0cHM6Ly9uZXdz",
       "title": "Lawyer’s Ethical Obligations and the Use of Generative AI in Legal Practice – Video Recording - Williams Mullen",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW5VZ2N2LWtjdktybEVKR3hPaGgwb05MN3hpT2FNYmJBazV6NGsySW81YzBjRFJRWHA0QkNXRmZTY2MzWHBtMW1reGttcHBmVXB2MzZEVU8xOV9wY2ZBeUN3ZXdXSHVNNVN2ejMxOFlCNXRkOFViWUtrdGFFbENGUDJQcTZzZ3owa0VUUFBsXzJZcDdPaElpczJHRXBCOXU1bVVTWnBGUF9rc0J5OXYyS0F4S3J4a2l3Sktia2xwNEU0NWlK?oc=5",
@@ -137,60 +225,12 @@
       "pubDate": "Tue, 06 Oct 2026 20:51:37 GMT"
     },
     {
-      "id": "ipwatchdog-3-aHR0cHM6Ly9pcHdh",
-      "title": "Building Business and Careers Starts with Listening &#124; IPWatchdog Unleashed",
-      "link": "https://ipwatchdog.com/2026/10/06/building-business-careers-start-listening/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Tue, 06 Oct 2026 19:15:55 +0000"
-    },
-    {
-      "id": "ipwatchdog-4-aHR0cHM6Ly9pcHdh",
-      "title": "SCOTUS Nixes Petitions Challenging CAFC Apportionment Requirements, Claim Preclusion Rulings",
-      "link": "https://ipwatchdog.com/2026/10/06/scotus-nixes-petitions-challenging-cafc-apportionment-requirements-claim-preclusion-rulings/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Tue, 06 Oct 2026 16:15:43 +0000"
-    },
-    {
       "id": "gnews-genai-litigation-5-aHR0cHM6Ly9uZXdz",
       "title": "Court Finds That Using Copyrighted Material as AI Training Data Is Not Fair Use - Futurism",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVC1HVURQQUwyakdxWkJEdWtDTTYxUzBnMm5qRDhWQjYtS2huOUVIb2NOaURZbVotdE0wUkY0eW5uaFpXVllwU1pVVmNVRllyZnVjQXc3am1hSEs1Njhib2tONktFcWZGX3ZUX3hlU1JKblpYUG9rcVFkV0xiZU9Wdlh4M3l5QkVnaDZOQm41Z1plTEIwTFBRQ1NMVmg0MTRfV2c?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
       "sourceId": "gnews-genai-litigation",
-      "pubDate": "Tue, 06 Oct 2026 14:58:51 GMT"
-    },
-    {
-      "id": "ipwatchdog-5-aHR0cHM6Ly9pcHdh",
-      "title": "A Proposal for Addressing the AI Memory Supply Shortage",
-      "link": "https://ipwatchdog.com/2026/10/06/proposal-addressing-ai-memory-supply-shortage/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Tue, 06 Oct 2026 12:15:05 +0000"
-    },
-    {
-      "id": "gnews-ai-insurance-1-aHR0cHM6Ly9uZXdz",
-      "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
       "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "ipwatchdog-6-aHR0cHM6Ly9pcHdh",
-      "title": "Pro Se Inventor Asks CAFC to Rehear Decision Invalidating Remote Device Finder Claims",
-      "link": "https://ipwatchdog.com/2026/10/05/pro-se-inventor-asks-cafc-rehear-decision-invalidating-remote-device-finder-claims/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Mon, 05 Oct 2026 20:35:27 +0000"
-    },
-    {
-      "id": "ipwatchdog-7-aHR0cHM6Ly9pcHdh",
-      "title": "Federal Circuit Issues Mixed Ruling on Infringement of Powered Cover Plate Patents",
-      "link": "https://ipwatchdog.com/2026/10/05/federal-circuit-issues-mixed-ruling-on-infringement-powered-cover-plate-patents/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Mon, 05 Oct 2026 18:15:59 +0000"
     },
     {
       "id": "gnews-ai-insurance-4-aHR0cHM6Ly9uZXdz",
@@ -201,28 +241,12 @@
       "pubDate": "Mon, 05 Oct 2026 15:21:56 GMT"
     },
     {
-      "id": "ipwatchdog-8-aHR0cHM6Ly9pcHdh",
-      "title": "In Memoriam: John F. Witherspoon",
-      "link": "https://ipwatchdog.com/2026/10/05/in-memoriam-john-f-witherspoon/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Mon, 05 Oct 2026 15:15:10 +0000"
-    },
-    {
-      "id": "ipwatchdog-9-aHR0cHM6Ly9pcHdh",
-      "title": "Federal Circuit Upholds PTAB Enablement Finding Against Dual Herbicide-Degrading Enzyme Patent",
-      "link": "https://ipwatchdog.com/2026/10/05/federal-circuit-upholds-ptab-enablement-finding-against-dual-herbicide-degrading-enzyme-patent/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Mon, 05 Oct 2026 13:15:53 +0000"
-    },
-    {
-      "id": "ipwatchdog-10-aHR0cHM6Ly9pcHdh",
-      "title": "When Did Medical Innovation Become a Bad Thing?",
-      "link": "https://ipwatchdog.com/2026/10/04/when-did-medical-innovation-become-bad-thing/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Sun, 04 Oct 2026 16:15:12 +0000"
+      "id": "gnews-ai-insurance-1-aHR0cHM6Ly9uZXdz",
+      "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "gnews-genai-litigation-7-aHR0cHM6Ly9uZXdz",
@@ -241,14 +265,6 @@
       "pubDate": "Fri, 02 Oct 2026 18:28:01 GMT"
     },
     {
-      "id": "ipwatchdog-11-aHR0cHM6Ly9pcHdh",
-      "title": "Other Barks &#038; Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement",
-      "link": "https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/",
-      "sourceLabel": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "pubDate": "Fri, 02 Oct 2026 18:15:17 +0000"
-    },
-    {
       "id": "gnews-publicity-ai-4-aHR0cHM6Ly9uZXdz",
       "title": "Lights, Camera, AI: Technology is changing how Hollywood replaces actors—and testing the limits of publicity law - ABA Journal",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRVA2aDhZU1RuOS16czRWbGhFem9UcTdPUlg1bTZQYzBLa3lLREFCSWp2RTRHWVlqaV9jdC1SVE52QjBNMF94YVNDajM4b1A2NE1SYldDcUxTT1N3dS1XcU1HaTNaM1pUSktOZURFcFlPTk1Ba0NfVW5Lak9Ka0dja2hJamtUUUFRclI1dWhSTEIzRmpsd0VOaTF3OHh2ZXZZM25wcEFVWktqQmtrYzdWTUVHVW9xYWh3cVBNRmhlUGEzemdLUDhObkRLOEZzR3Q4ZEJncXdTZHkzSFZ1cU42bHVkNzFBczg?oc=5",
@@ -263,14 +279,6 @@
       "sourceLabel": "Google News — AI right of publicity",
       "sourceId": "gnews-publicity-ai",
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-genai-litigation-3-aHR0cHM6Ly9uZXdz",
-      "title": "Blog | From Expert Systems to Generative AI: The Evolution of AI in the Legal Industry - Consilio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzJlNUdQSmY5ZGJ5SFE0WEswN1p0TjVCOEdtWXZlVU9iUGdDTUhpMUtVNjBSb1FSZnd5c0F4T3U0emh4MVpFQW5SbGRYXzVodkN1OHRzRkZ5UGpMNzJ6T0twNlQtRjFfUDUzcEx0M012VWl4NnN0bE50M2ZsbEZlekF1VHJ0ZGtMTnBtUjBtbEIwTVRPTU9QakZOXzByWjVsOXNSdVdRN0lsTnRn?oc=5",
-      "sourceLabel": "Google News — Generative AI litigation",
-      "sourceId": "gnews-genai-litigation",
-      "pubDate": "Wed, 30 Sep 2026 12:27:31 GMT"
     },
     {
       "id": "gnews-publicity-ai-10-aHR0cHM6Ly9uZXdz",
@@ -289,7 +297,7 @@
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-9-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-8-aHR0cHM6Ly9uZXdz",
       "title": "Rogue AI agents leave insurers facing dilemma over liability - The Observer",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkt1TXNQM0RJYUwyUi1scjdvbllWcWcxa2NGT3FOWDZodHA0bFBCLWFUNmVVdy1lRzdHTnhTa0V6ekh2WHpOR19SZzNqdGJRVkc0WWhHLVBFU3hJejN6MkNkcHctRTNYam80YWd1QWw3QnFHN0p5M0d2Zk1CanZmVHJsLTRrYnB1WG5hOERQWFR1bWdfQWJQY2NIVTJmOG9meDJZaFRtVHA?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -311,17 +319,9 @@
       "sourceLabel": "Google News — AI liability insurance",
       "sourceId": "gnews-ai-insurance",
       "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-10-aHR0cHM6Ly9uZXdz",
-      "title": "Armilla AI expands standalone AI liability cover to $25 mn limits - Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGhORm1ud2c0aTBfeUU0cHROUkJKdURkVFNKbzRRU2ZOcUJfb0w4YUhXU3dWd2R2R2NiTUFla2tfLUlLTjBhamd3T3VmX3owMmY1eHlZU0FQOXJZZE4wUVVZZVU4aEdzY0RJRG1ZVFVMZW9YdjlSWkVkYUZGVk9FUUZNc0pjcE1rVnc?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792006553844,
+  "fetchedAt": 1792017568079,
   "errors": [],
   "sources": [
     {
