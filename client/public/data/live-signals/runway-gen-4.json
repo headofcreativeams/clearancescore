@@ -3,9 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Generative AI Startup Runway Releases Gen-4.5 Video Model - AI Business",
+      "title": "Baseten Adds Runway’s Gen-4.5 and Aleph 2.0 to Dedicated Inference - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF0VEdHdThGUVMybXU0OVBCb1EwTGhfWjdjR0FJN1JRa3pnbk5oSnJ6U1hVRzhQWUlCLVNrNWw5ZXRjM0VaWWtpdktqYThLVWFVV19oaFRYcUZPN2l0eGt6TEhPcDBNSlZLSVFENG54Z0lTczhWS21vXzJ0dkVqYTNBeEowQlZfZDVRWFBVaUo?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 13:43:13 GMT"
+    },
+    {
+      "title": "Runway Releases Gen-4.5 Video Model - AI Business",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wZzBNNExEOHR5eTFBTTl1a1daRFNoQWRIRENKM2FlSm5xbXI0eGJoNV9jZWI1ZlFSdzZRWlo4bGZJeDRDZlh3WVpnZWFfV3dPYzdBRFNnQlBhODdfeEFOY0lKT1FQbWFnbHFIbVhxQlplR2VBb1BqWk5uUlo?oc=5",
-      "pubDate": "Mon, 01 Dec 2025 22:23:21 GMT"
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "Runway AI Review: Models, Pricing, and Rivals 2026 - Plisio",
@@ -36,14 +41,9 @@
       "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Netflix using startup Runway AI’s video tools for production - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUU81bXgzMTh4THBFT3pTVm1TZHJoeVVPbjFmZXFIUkF6NkhqaGpSQ0daTy1SNDVJeDJFeUN3VXU0ejlka3I0c2tSenJvWXBHeW5zeDFKM3ViU0gxZFlfYjJjeGZSUzdPOUNLRWhJN04xNmpjbTAwMVZrVG54UDNrQjJUcEppUHo2OWotenl4aDI5VXJNVTZPZmRobEtXdHd1N1piNjNueTdZcE5YOUE?oc=5",
-      "pubDate": "Tue, 22 Jul 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792110913618,
+  "fetchedAt": 1792126999092,
   "errors": [
     {
       "source": "CourtListener",

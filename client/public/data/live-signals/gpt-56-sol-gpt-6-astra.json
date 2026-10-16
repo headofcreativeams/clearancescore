@@ -42,20 +42,20 @@
       "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
     },
     {
-      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2026-03-13",
-      "docketNumber": "1:26-cv-02097",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
-    },
-    {
       "caseName": "TRINIDAD v. OPENAI INC",
       "court": "N.D. Fla.",
       "dateFiled": "2025-07-03",
       "docketNumber": "4:25-cv-00284",
       "cause": "17:101 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
     },
     {
       "caseName": "Erickson v. OpenAI, Inc.",
@@ -68,9 +68,9 @@
   ],
   "news": [
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -103,11 +103,11 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlY9IBswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlYw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     }
   ],
-  "fetchedAt": 1792110912947,
+  "fetchedAt": 1792126998287,
   "errors": []
 }
