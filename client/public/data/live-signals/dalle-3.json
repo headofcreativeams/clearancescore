@@ -88,11 +88,6 @@
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "OpenAI unveils DALL-E 3, allows artists to opt out of training - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHJsbmFtMnRsMzhfbzhtU0U1RUxVWmNuRkxUU1NoZWRhWWxLNlQzWUZWalVfcWNNel9uMkQ5OVVaZzFhb0VTM2ZZdjJhay1fSUFIS2p5alFuLVMya2JGYjVaejU3d2g2XzYxS2xpWnZ0cnNBNTF3eUpOOGZHWnQzQ2Rpc3QydGswanNWQzNQd0ZNampjSTV5Qm9sZ3M?oc=5",
-      "pubDate": "Wed, 20 Sep 2023 07:00:00 GMT"
-    },
-    {
       "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
@@ -106,8 +101,13 @@
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI unveils DALL-E 3, allows artists to opt out of training - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHJsbmFtMnRsMzhfbzhtU0U1RUxVWmNuRkxUU1NoZWRhWWxLNlQzWUZWalVfcWNNel9uMkQ5OVVaZzFhb0VTM2ZZdjJhay1fSUFIS2p5alFuLVMya2JGYjVaejU3d2g2XzYxS2xpWnZ0cnNBNTF3eUpOOGZHWnQzQ2Rpc3QydGswanNWQzNQd0ZNampjSTV5Qm9sZ3M?oc=5",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792161310612,
+  "fetchedAt": 1792175020847,
   "errors": []
 }
