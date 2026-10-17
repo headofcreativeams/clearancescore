@@ -73,11 +73,6 @@
       "pubDate": "Thu, 15 Oct 2026 19:32:00 GMT"
     },
     {
-      "title": "What Is DALL-E? How It Worked and What Replaced It in 2026 - Shopify",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RbUxtU3ptYzZ2Zk5xc01WV0Q5TmFSQXduZW16UEdHMW16Q3BHXzEwRmd4ZTdVUm9KT1N4MEtUb0JSXzNRaGRJcU8zaw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "Bing Image Creator AI: Free DALL-E 3 Generator Guide - Plisio",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0N1WlcxVDJybVVrSEotanY1ckZBLVBwdUdzNThKcEFRcl9qTFg3Qm52QnFjUTYyQjR5eTFaWk5ETk02djdiLUVGUU1Kc0pnZ3c?oc=5",
       "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
@@ -98,16 +93,21 @@
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
+      "title": "OpenAI is working on a tool to detect DALL-E 3 AI-generated images - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFM5MXpfdmRHNUZMR1k5ZmZ4X056QkJNSG53azlCVFJwX3poZk1xc1JKanI0QXM5TXFyQ3VQcHJnQUxfcHFOMWlmbG5lSHdfc0VPUUg3R0lyUGdxN0ZyVkpWSzlWT0IwNFIzRXkzWlNYRURLMlVIZVJTVndHemd0ZzJTUQ?oc=5",
+      "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT"
+    },
+    {
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
     },
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
-      "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
+      "title": "DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZc283d24xbFJ2R1F5dzgwa2JHWkpOZTJSUVdxOElaNkZ4UjlZaXp0azJyX2Q5alI4QjZ5SC1qdFo0dm1ITTE0eS1jVmp5bmZmd0dZ?oc=5",
+      "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792238814998,
+  "fetchedAt": 1792251315824,
   "errors": []
 }
