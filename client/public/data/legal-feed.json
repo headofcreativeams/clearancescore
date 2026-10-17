@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "id": "gnews-ai-copyright-11-aHR0cHM6Ly9uZXdz",
-      "title": "Works by Han Kang and Hwang Sok-yong also included in Anthropic copyright lawsuit ... 21 books by Korean authors eligible for compensation - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SM0pSdGRudlNkSWJ4b25QYW9ZRmhSYnhKRW9tczY1aFMybU9qX2lYSVN5eHFGVU1kbUVOU19qREhCdk4xeVJMUWdvSkpaZGdUZ0E?oc=5",
-      "sourceLabel": "Google News — AI copyright lawsuits",
-      "sourceId": "gnews-ai-copyright",
-      "pubDate": "Sat, 17 Oct 2026 02:01:21 GMT"
-    },
-    {
       "id": "gnews-ai-copyright-1-aHR0cHM6Ly9uZXdz",
       "title": "Universal and Sony Seek to Force DistroKid to Reveal Scale of AI Music Uploads - Law Commentary",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDBIRGZyQV9qQkItOHNFRExYNnhVazlaazl1YXJyVW80Sm1SOUZtZXdSUVpzOUpkc3VEVW5vQi1VSWRnMTZXM2phMFZVc2JSS2tXZFNtZmdhNG5mVGJ1N2hEUXg3US03d0xzV1NNVThMSlFJcnlYcUdiaHZLb0xPWWc4YWs0TWhUWTBSSEM0WmtQS3FM?oc=5",
@@ -113,7 +105,7 @@
       "pubDate": "Wed, 14 Oct 2026 18:32:15 +0000"
     },
     {
-      "id": "gnews-ai-insurance-3-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-4-aHR0cHM6Ly9uZXdz",
       "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue - Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ibUNROFpmVWVjMFY3RU5TUjJxLTlqLWFsaVZnMHFyRm1WN3FjSHlkOXJ5M1Z4MnZEU2tOcERFTW9ULVNnSUZabXQybWhMRGhqcWNHUDhCTnhLUWo3WUU0UUhHVWszaGJHZ0dYZmEyd0luVjFpWlVB?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -217,6 +209,14 @@
       "pubDate": "Mon, 12 Oct 2026 17:36:12 GMT"
     },
     {
+      "id": "gnews-ai-insurance-9-aHR0cHM6Ly9uZXdz",
+      "title": "Capital Stress and A.I. Uncertainty Fuel Management Liability Risk for Private Companies - Risk & Insurance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObms5MHdxSXJzOXdvT3BtbFIya0phUHU1SEVkMmdfNlN3YWhEQ1FYclA3Z08wV0MxN3VnZ2cxRTBpT01kdXBIRUdkdE0zT2g1eGR2QU1OdnNxdUMtN2EyTXBLQUJWRmhnODVCUk1PRkVrTVBaR0NxRndQb1FOT2FEUjNBdWg4NnZzOHhNWmVmcHpiT3lYTl90UHN2TFhjZUlnS253MUdRbmNuN2Z1Qk9vemNSeW1PR2lJ?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Mon, 12 Oct 2026 11:07:15 GMT"
+    },
+    {
       "id": "gnews-publicity-ai-3-aHR0cHM6Ly9uZXdz",
       "title": "Explaining right of publicity - PPC Land",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVXUxU3pvRDJaUUp1WGhkbElDTEt4R0RjX3VuVXVKOEZRRTdtazhaaFdqRWZLVzZ3ZHp6T2FtZmE1VEpaR2dQNF9wRE0?oc=5",
@@ -273,7 +273,7 @@
       "pubDate": "Mon, 05 Oct 2026 15:21:56 GMT"
     },
     {
-      "id": "gnews-ai-insurance-4-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-3-aHR0cHM6Ly9uZXdz",
       "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -305,23 +305,23 @@
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-publicity-ai-11-aHR0cHM6Ly9uZXdz",
-      "title": "Landmark ruling backs protection of human voices in AI cloning age - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UEE0eER3QnZ6WVNrV29XQ2JoNmMtaWZFbnh6RUZPMUQzc2pYNzd5OF9jZHZSODcyRGxWM1M2MFk4T20tcnNnZTRPLS1OYXJvVUYtWXRR?oc=5",
-      "sourceLabel": "Google News — AI right of publicity",
-      "sourceId": "gnews-publicity-ai",
-      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
       "id": "gnews-genai-litigation-6-aHR0cHM6Ly9uZXdz",
       "title": "Generative AI Becomes the New Standard for Legal Work in Just Four Years, Putting the Billable Hour Under Pressure, Everlaw Report Finds - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXhjNEtjOXo4RVJpRTJWR0tFY0I1WDJlYlZFRmlNT1NfN0ljUHViM3JvaE5rY2lxTVBTTGhPeTFiVnlEU0twYngyREFMeG50dkUtMGdqVVpXR2xnUlVXM1VXUTRJVnMyWjZVYmdZZ2pRVmQyaW1uQlRtc2hOU25XY3ZoN3ZYT1NkakF6dzI2RXROclZObGFLcWlwM3V5c3plVHc?oc=5",
       "sourceLabel": "Google News — Generative AI litigation",
       "sourceId": "gnews-genai-litigation",
       "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "gnews-genai-litigation-8-aHR0cHM6Ly9uZXdz",
+      "title": "Generative AI Becomes the New Standard for Legal Work in Just Four Years, Putting the Billable Hour Under Pressure, Everlaw Report Finds - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORFdDaUZVeEc3U0tITVN6aFBRelZzTXhDYmxfTUxGejJKZ0lHMkdrR1hZRXozNE93WmQzNjdJVmN6QXFDWWdGUUZaSVZ5TDF0UW43VFJGY2Z1V3VvNkxhaGJJSDZ2NUdUbXdXMGhpVW9iaXJfUDE5aWpBYTlQdmhqUml0dm94S2ZJZmxMLTRUYUpDY3A5bkl6X3lYUGs1V3RmamNqT1RYZEhpTkg0NGVGX2p0TjhnM2h4T1JEckF0ZFNoa1AtbmNrRGRjWDJfQnBIQUhLaXV6Q3VKUHhpVk1NVHhITEtLckVmZ0NqeUZtcEk1TGRhd0hoUGk1X0F5MTRfandjZW5jMXkyMlp5dzFVRXFZQ1NwVS1iOXB3?oc=5",
+      "sourceLabel": "Google News — Generative AI litigation",
+      "sourceId": "gnews-genai-litigation",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792259776331,
+  "fetchedAt": 1792268308108,
   "errors": [],
   "sources": [
     {
