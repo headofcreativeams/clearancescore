@@ -68,11 +68,6 @@
   ],
   "news": [
     {
-      "title": "Best AI Design Tools in 2026: Tested and Ranked by Use Case - Memeburn",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jczdCd1ItSXllS3lhYjM0ejFOTEcwLUhRX1BHVURDd1NZMEE4QnpkeXBMUm1QUExKcy1FeDItcWFUd2VkS09JblFjWVhMUGYtS25STg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 04:05:56 GMT"
-    },
-    {
       "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
@@ -106,8 +101,13 @@
       "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpDaVM5azZJbGZVamJIV0M3dUJORnBHMUQ2WHZzV3RETHkxN2o1Tkg0cVdrVDJPSFJVQ1JWZDU4MndWWkg0YnppemNDc1pUaVZITFZlY0lIbWRxekhncXQ0R3BsbnIwVlhfQm9oQnRMcFNWdjVkWEZQVlB1TFVGbURZYjZQQW55UXBxY0tyMWlrQU5YTUpuMHhmanJpcF91amI3YnFKQjR5WUd1UFpZRzFHWGxSRnVfT0VDWmVB?oc=5",
+      "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792299384258,
+  "fetchedAt": 1792315387540,
   "errors": []
 }
