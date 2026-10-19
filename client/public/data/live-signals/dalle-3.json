@@ -50,20 +50,20 @@
       "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
     },
     {
-      "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
-      "court": "N.D. Ohio",
-      "dateFiled": "2025-11-19",
-      "docketNumber": "1:25-cv-02520",
-      "cause": "15:1114 Trademark Infringement",
-      "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
-    },
-    {
       "caseName": "Bartz v. Anthropic PBC",
       "court": "N.D. Cal.",
       "dateFiled": "2024-08-19",
       "docketNumber": "4:24-cv-05417",
       "cause": "17:501 Copyright Infringement",
       "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
+      "court": "N.D. Ohio",
+      "dateFiled": "2025-11-19",
+      "docketNumber": "1:25-cv-02520",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
     }
   ],
   "news": [
@@ -71,11 +71,6 @@
       "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools - CNET",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
       "pubDate": "Thu, 15 Oct 2026 19:32:00 GMT"
-    },
-    {
-      "title": "Generative AI Has a Visual Plagiarism Problem - Transparency Coalition",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkQ1ZklmdS1CdHVtbWZWa1RCTE5tbm5xcy1Qb0lNYkxsTkpFbmUxY3FYNHdnYXlmdFdxU2FLRVc2bHk2clBJQm5vMVg3cEt3cmJKYXJUMVcwQkVOOFgwdFB1RFNSaU54MFlDMG9OV25veGZpajJrNDh1VE1SNXAzSjF1RzlzV0EwR1FoY2FFWnA?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
@@ -98,16 +93,21 @@
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
+      "title": "OpenAI is working on a tool to detect DALL-E 3 AI-generated images - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFM5MXpfdmRHNUZMR1k5ZmZ4X056QkJNSG53azlCVFJwX3poZk1xc1JKanI0QXM5TXFyQ3VQcHJnQUxfcHFOMWlmbG5lSHdfc0VPUUg3R0lyUGdxN0ZyVkpWSzlWT0IwNFIzRXkzWlNYRURLMlVIZVJTVndHemd0ZzJTUQ?oc=5",
+      "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT"
+    },
+    {
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
     },
     {
-      "title": "OpenAI is working on a tool to detect DALL-E 3 AI-generated images - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFM5MXpfdmRHNUZMR1k5ZmZ4X056QkJNSG53azlCVFJwX3poZk1xc1JKanI0QXM5TXFyQ3VQcHJnQUxfcHFOMWlmbG5lSHdfc0VPUUg3R0lyUGdxN0ZyVkpWSzlWT0IwNFIzRXkzWlNYRURLMlVIZVJTVndHemd0ZzJTUQ?oc=5",
-      "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT"
+      "title": "DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZc283d24xbFJ2R1F5dzgwa2JHWkpOZTJSUVdxOElaNkZ4UjlZaXp0azJyX2Q5alI4QjZ5SC1qdFo0dm1ITTE0eS1jVmp5bmZmd0dZ?oc=5",
+      "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792420010454,
+  "fetchedAt": 1792440402881,
   "errors": []
 }
