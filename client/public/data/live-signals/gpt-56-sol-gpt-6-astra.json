@@ -66,12 +66,48 @@
       "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
     }
   ],
-  "news": [],
-  "fetchedAt": 1792366348376,
-  "errors": [
+  "news": [
     {
-      "source": "Google News",
-      "message": "HTTP 503"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI cuts GPT-6 Sol and Luna API prices by 50% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0RpV1NkOHd2cGFfbHJmOTBDdEVFdC04TXZ4dVZsOTFXaEE4VHBsMzhUZTdwZ3F2TnRiMEdlWkRQUHZ4SEdlLXB3R1E4VXJ4U1dRSFhMQTltNmQtclJLUG9FXzhORmUxbFBmVmhHX2tzbW9RdkxFRHE3d3Nrbm15c2M3RzBiaDlkRlFMQl93?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI releases new model that it says triggered internal security measures - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXFNWVFwS1pNWDkxLUtGczFuMkloOFVPT1ZfR2NqaXNqTVpSTHo2UDNuNkItMi1rVENxbHAtNXAtTDhjQmhaTVRLLXFkVG00cFQ4OGNLSklrcF9LdHVYcVVuUm83ZDFFdG9VZEViZ2hBTHBjdU9qSk5zRy03djl5ZnoxMFkzMVRkUkF3NDlkV1poMDlaYzlaakNQOU10SGd5cXhGTDVBbkFlZ194bkJ1SE00YzFIaGdqZ0ZVMmY4YzJKQQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
-  ]
+  ],
+  "fetchedAt": 1792374269651,
+  "errors": []
 }
