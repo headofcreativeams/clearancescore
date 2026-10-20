@@ -18,14 +18,14 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
-    },
-    {
       "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
       "title": "OpenAI releases new model that it says triggered internal security measures - NBC News",
@@ -43,7 +43,7 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792501314507,
+  "fetchedAt": 1792519175589,
   "errors": [
     {
       "source": "CourtListener",

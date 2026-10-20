@@ -1,6 +1,71 @@
 {
   "query": "DALL·E 3",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2024-06-24",
+      "docketNumber": "1:24-cv-04777",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
+    },
+    {
+      "caseName": "Authors Guild v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2023-09-19",
+      "docketNumber": "1:23-cv-08292",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/"
+    },
+    {
+      "caseName": "STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.53.113.192",
+      "court": "D.N.J.",
+      "dateFiled": "2024-10-25",
+      "docketNumber": "2:24-cv-10059",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69310052/strike-3-holdings-llc-v-john-doe-subscriber-assigned-ip-address/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-06-26",
+      "docketNumber": "5:24-cv-03811",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "The New York Times Company v. Microsoft Corporation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2023-12-27",
+      "docketNumber": "1:23-cv-11195",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
+    },
+    {
+      "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
+      "court": "N.D. Ohio",
+      "dateFiled": "2025-11-19",
+      "docketNumber": "1:25-cv-02520",
+      "cause": "15:1114 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "Bartz v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-08-19",
+      "docketNumber": "4:24-cv-05417",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
+    }
+  ],
   "news": [
     {
       "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools - CNET",
@@ -13,14 +78,14 @@
       "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
+      "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2FYaVg3LWpVSEduVDY0ZVhIZGlpQTJ1WjdZVTNhQ2FndUgwbE1WaE9icVRvQkM0amszWWFVbWhEZjFBUmxRUENJU1hST2FUbHZLZFowb21SeUlKTWFxUEZsMW5mVkx4dzFjb05Ha0FKUjB5SUF1Y19nQzBhNDRqcUFTLTRlMWMyazZPemhmaEtkTGRWXzNXUmZIaTA4MndVVFJKNTZaY0Zkb0E4VU9QaWpwajI4WDdQWk9MckMxM0FTQVBRdUU2OTlsck9MVmQxZzF4R2cwQ3hsMHhfTWFBWXVlbGMzSkozM0lHVUNqdjgxTHVtWkx1b3BR?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
-      "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
       "title": "DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum",
@@ -33,21 +98,16 @@
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "Q&A: Is It Legal to Remove AI Watermarks (DALL-E 3, Midjourney) for Commercial Use? - herald-dispatch.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2FYaVg3LWpVSEduVDY0ZVhIZGlpQTJ1WjdZVTNhQ2FndUgwbE1WaE9icVRvQkM0amszWWFVbWhEZjFBUmxRUENJU1hST2FUbHZLZFowb21SeUlKTWFxUEZsMW5mVkx4dzFjb05Ha0FKUjB5SUF1Y19nQzBhNDRqcUFTLTRlMWMyazZPemhmaEtkTGRWXzNXUmZIaTA4MndVVFJKNTZaY0Zkb0E4VU9QaWpwajI4WDdQWk9MckMxM0FTQVBRdUU2OTlsck9MVmQxZzF4R2cwQ3hsMHhfTWFBWXVlbGMzSkozM0lHVUNqdjgxTHVtWkx1b3BR?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "OpenAI unveils DALL-E 3, allows artists to opt out of training - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHJsbmFtMnRsMzhfbzhtU0U1RUxVWmNuRkxUU1NoZWRhWWxLNlQzWUZWalVfcWNNel9uMkQ5OVVaZzFhb0VTM2ZZdjJhay1fSUFIS2p5alFuLVMya2JGYjVaejU3d2g2XzYxS2xpWnZ0cnNBNTF3eUpOOGZHWnQzQ2Rpc3QydGswanNWQzNQd0ZNampjSTV5Qm9sZ3M?oc=5",
       "pubDate": "Wed, 20 Sep 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Here's how to use DALL·E 3 the RIGHT way - Creative Bloq",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3X1VrVXV2NU1CSTJvY1RCWkxIUlg1YU1VZjFJa3JUekJDOGxPVU8yeUkxWk1NWm01SVhqTl9jRE5uLXRwcU1YMmp3ZEdtcUl2WnA0V2VMSmtRTGd6UlV5dw?oc=5",
+      "pubDate": "Fri, 30 May 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792501293386,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "HTTP 502"
-    }
-  ]
+  "fetchedAt": 1792519144974,
+  "errors": []
 }

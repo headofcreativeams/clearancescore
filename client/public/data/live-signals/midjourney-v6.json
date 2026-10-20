@@ -1,6 +1,71 @@
 {
   "query": "Midjourney v6",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "EVOX Productions LLC v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2026-07-30",
+      "docketNumber": "2:26-cv-08408",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/73698332/evox-productions-llc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Warner Bros. Entertainment Inc. v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-09-04",
+      "docketNumber": "2:25-cv-08376",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71271014/warner-bros-entertainment-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Disney Enterprises Inc. v. Midjourney Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-06-11",
+      "docketNumber": "2:25-cv-05275",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Midjourney, Inc. v. Fantastic Labs Sp. z o. o.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2022-10-25",
+      "docketNumber": "3:22-cv-06499",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/65634498/midjourney-inc-v-fantastic-labs-sp-z-o-o/"
+    },
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Tremblay v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-06-28",
+      "docketNumber": "4:23-cv-03223",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
+    },
+    {
+      "caseName": "Hendrix v. Apple Inc",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-09-05",
+      "docketNumber": "4:25-cv-07558",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71279155/hendrix-v-apple-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
@@ -18,6 +83,11 @@
       "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
     },
     {
+      "title": "Disney's Big AI Lawsuit Includes Some Very Damning Images - Aftermath",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRE1xeGptRzRjNWJHc1hvRXdQRXBZaWFBQUNDMmhYVDRMbGxKZzN2WGJhOWJCZGtlbUJNckVOM3NaSGpFRWRHOVpBUE53amNNd3B3a1lNMXp4QUxvVGJ5eTMzR28tbHpSZXgyRENFMGpSREI4VmhjTmk4TDdzMnNMRTRjSQ?oc=5",
+      "pubDate": "Thu, 12 Jun 2025 07:00:00 GMT"
+    },
+    {
       "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
@@ -28,26 +98,16 @@
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
     },
     {
+      "title": "Why the Studios’ Midjourney Lawsuit Is Different - Copyright Lately",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZERfSDFkV1dzUlphOFBzQVNjYUduVFp0UEJPRjZLY0g2RVNSSDNRbVdkMU5Gb0hVUFdId1hCdzlTd09jS1BpbGlmYW9Nb3FQWVAzNGg0WXpTbEltRU1wOVpib2xqRmdTZjdQUGItZklUb0tGcWNKZmhKRjI4eTRaOFZ3?oc=5",
+      "pubDate": "Sun, 15 Jun 2025 07:00:00 GMT"
+    },
+    {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpDaVM5azZJbGZVamJIV0M3dUJORnBHMUQ2WHZzV3RETHkxN2o1Tkg0cVdrVDJPSFJVQ1JWZDU4MndWWkg0YnppemNDc1pUaVZITFZlY0lIbWRxekhncXQ0R3BsbnIwVlhfQm9oQnRMcFNWdjVkWEZQVlB1TFVGbURZYjZQQW55UXBxY0tyMWlrQU5YTUpuMHhmanJpcF91amI3YnFKQjR5WUd1UFpZRzFHWGxSRnVfT0VDWmVB?oc=5",
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
-    },
-    {
-      "title": "Midjourney Blocks All Stability AI Employees After Alleged Data Theft Attempt - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXY0aTNyLTBWMGg3S0Q2XzFIRGkydGNtZDB6WklQdDl6SXdZWk5va1JtQmlMUjRaaXdPbHhTZ18zNnBiR21KZGU1UmF6YjFlWk9ZQXF4RkktbHFjZlhHeFZQTW1MVEdpekRUcGp5ZF9jN3paT1VHbkdJQ2psM2h3OUg2azY5eHY2RF9hZWRpWVFDczg1MEZObnhRUDZNRlhJc2tyRUtJbFpCNG01RV85Vg?oc=5",
-      "pubDate": "Fri, 08 Mar 2024 08:00:00 GMT"
-    },
-    {
-      "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTOExNdFQ3N0tsR3R4cC11RVVOeU1SdFhsRkw0UE5zc1NLQ2JKUS1rM3YwemVBYllCcjM1Q2xoUFdPWW5DY3ViWDJ6SGxjNVVjUkN1QXpZM3A4RmVLZ242a1FyYw?oc=5",
-      "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792501282209,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1792519140566,
+  "errors": []
 }
