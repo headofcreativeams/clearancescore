@@ -8,11 +8,6 @@
       "pubDate": "Thu, 15 Oct 2026 19:32:00 GMT"
     },
     {
-      "title": "What is Adobe Firefly? Key Insights into Adobe's AI-Native Platform - Daily Pioneer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUF2bThFazFJUUFQWnRRUnl3SmlTaWYxMVk2NGpYU2VJNGF1REFadFZxTzJtX0lmMDN2S3k3Yl96MHNPM2w4OE5iLThSNTNwcU5UaFAxdmE1SkRHVWFVc0JxaEo5a1lsajQ0TkZEd1k4UzE2YWloeUc2UEwzN2pTSC1OeDY5S1hqdWlwYVBLMkFoUjR6YVUtNTNndnh5a1NTZ3B3azJ1dTREX1V40gGsAUFVX3lxTE5FQXZtOEVrMUlRQVBadFFSeXdKaVNpZjExWTY0alhTZUk0YXVEQVp0VnFPMm1fSWYwM3ZLeTdiX3owc08zbDg4TmItOFI1M3BxTlRoUDF2YTVKREdVYVVzQnFoSjlrWWxqNDRORkR3WThTMTZhaWh5RzZQTDM3alNILU54NjlLWGp1aXBhUEsyQWhSNHphVS01M2d2eHlrU1NncHdrMnV1NERfVXg?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:26:26 GMT"
-    },
-    {
       "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
@@ -41,13 +36,18 @@
       "title": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkZDakI5WEZ2SUR1dU5WMm9MRkxybzd6ZkRTQWpVemRJVS02dnFlajhvTGRtQ2UwdTJfR0ZWYm8tTUpHN25mZjhHMTZvaTFkVFlnZ2RQMXFuUF95bmM4d1VSakRYd0dacklUcGdKZ1RsZmdyVXhFTFd1WW8xNTFjdWhiOTJuR2RpaXVBUHZGVEFsQ1BDQ3RKbG9nSnZHVTRFZGFtUGVkVEUxX2t5c2NRRFB6VEJlRll6WWJiN21n?oc=5",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe Firefly Launches AI Music, Voiceover and Sound Effects Generators - RouteNote",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0ltNXZONlp2S201THUzVExHSHk1eEFUaWwxX2xCNms0M0JlS3JHTTl5bG5DNklFbUFNUFliZkFuVmJZMVBkV3l0a1lIRTMtQ0ZNYjRSamU4cC1lQXBqekxoVDVvVTh6X3REallwOE5COWYwYWcwaFVJVUFtYkxJdzE3OUduRS0wVVE1Z1Y5S2dQQXFLcVJ0aGhGUTJuQnpn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792481724378,
+  "fetchedAt": 1792501313387,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 429"
+      "message": "This operation was aborted"
     }
   ]
 }

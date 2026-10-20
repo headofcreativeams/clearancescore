@@ -3,9 +3,9 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
+      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -18,9 +18,9 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
       "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
@@ -43,7 +43,7 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792481725287,
+  "fetchedAt": 1792501314507,
   "errors": [
     {
       "source": "CourtListener",
