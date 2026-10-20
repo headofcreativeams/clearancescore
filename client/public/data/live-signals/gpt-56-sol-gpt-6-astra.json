@@ -1,6 +1,71 @@
 {
   "query": "GPT-5.6 Sol / GPT-6 Astra",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Sullivan v. OpenAI Foundation",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-14",
+      "docketNumber": "1:26-cv-06966",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74652896/sullivan-v-openai-foundation/"
+    },
+    {
+      "caseName": "The Seattle Times Company v. OpenAI Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-09-04",
+      "docketNumber": "1:26-cv-07644",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74754553/the-seattle-times-company-v-openai-inc/"
+    },
+    {
+      "caseName": "Many Worlds 2T Innovations LLC v. OpenAI OpCo, LLC",
+      "court": "E.D. Tex.",
+      "dateFiled": "2026-08-31",
+      "docketNumber": "2:26-cv-00774",
+      "cause": "35:271 Patent Infringement",
+      "url": "https://www.courtlistener.com/docket/74727267/many-worlds-2t-innovations-llc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "wikiHow, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-08-21",
+      "docketNumber": "1:26-cv-07171",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/74687027/wikihow-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "Encyclopaedia Britannica, Inc. v. OpenAI, Inc.",
+      "court": "S.D.N.Y.",
+      "dateFiled": "2026-03-13",
+      "docketNumber": "1:26-cv-02097",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72492986/encyclopaedia-britannica-inc-v-openai-inc/"
+    },
+    {
+      "caseName": "TRINIDAD v. OPENAI INC",
+      "court": "N.D. Fla.",
+      "dateFiled": "2025-07-03",
+      "docketNumber": "4:25-cv-00284",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70730632/trinidad-v-openai-inc/"
+    },
+    {
+      "caseName": "Erickson v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-02-12",
+      "docketNumber": "3:26-cv-01303",
+      "cause": "28:1338 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/72279840/erickson-v-openai-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
@@ -28,6 +93,11 @@
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "OpenAI releases new model that it says triggered internal security measures - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
       "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
@@ -36,18 +106,8 @@
       "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns - The Register",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXFNWVFwS1pNWDkxLUtGczFuMkloOFVPT1ZfR2NqaXNqTVpSTHo2UDNuNkItMi1rVENxbHAtNXAtTDhjQmhaTVRLLXFkVG00cFQ4OGNLSklrcF9LdHVYcVVuUm83ZDFFdG9VZEViZ2hBTHBjdU9qSk5zRy03djl5ZnoxMFkzMVRkUkF3NDlkV1poMDlaYzlaakNQOU10SGd5cXhGTDVBbkFlZ194bkJ1SE00YzFIaGdqZ0ZVMmY4YzJKQQ?oc=5",
       "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlY9IBswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlYw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792453383390,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "HTTP 429"
-    }
-  ]
+  "fetchedAt": 1792462088746,
+  "errors": []
 }

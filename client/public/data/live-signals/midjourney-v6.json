@@ -1,6 +1,71 @@
 {
   "query": "Midjourney v6",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "EVOX Productions LLC v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2026-07-30",
+      "docketNumber": "2:26-cv-08408",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/73698332/evox-productions-llc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Warner Bros. Entertainment Inc. v. Midjourney, Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-09-04",
+      "docketNumber": "2:25-cv-08376",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71271014/warner-bros-entertainment-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Disney Enterprises Inc. v. Midjourney Inc.",
+      "court": "C.D. Cal.",
+      "dateFiled": "2025-06-11",
+      "docketNumber": "2:25-cv-05275",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/"
+    },
+    {
+      "caseName": "Midjourney, Inc. v. Fantastic Labs Sp. z o. o.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2022-10-25",
+      "docketNumber": "3:22-cv-06499",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/65634498/midjourney-inc-v-fantastic-labs-sp-z-o-o/"
+    },
+    {
+      "caseName": "OpenAI, Inc. v. Open Artificial Intelligence, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-08-04",
+      "docketNumber": "4:23-cv-03918",
+      "cause": "15:1125 Trademark Infringement (Lanham Act)",
+      "url": "https://www.courtlistener.com/docket/67666723/openai-inc-v-open-artificial-intelligence-inc/"
+    },
+    {
+      "caseName": "Tremblay v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-06-28",
+      "docketNumber": "4:23-cv-03223",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67538258/tremblay-v-openai-inc/"
+    },
+    {
+      "caseName": "Silverman v. OpenAI, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2023-07-07",
+      "docketNumber": "3:23-cv-03416",
+      "cause": "17:504 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
+    },
+    {
+      "caseName": "Hendrix v. Apple Inc",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-09-05",
+      "docketNumber": "4:25-cv-07558",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71279155/hendrix-v-apple-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
@@ -43,11 +108,6 @@
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792453373753,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1792462083380,
+  "errors": []
 }
