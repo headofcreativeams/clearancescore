@@ -18,14 +18,14 @@
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance - Incrypted",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idjhUQlhtRUxxek9UZTdZTVd6dllJVXY4WUJOY2V1SEIycnV6MGs3Um1ESm8wZFRWV3p3d2JHWlJPS0ZLd1lhUEhreE1FUEFLV2xDNUw5ejVGRUpidUVMNg?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - The Decoder",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXQ1dHVrUndEU090eERLaTFmbGJLbDhENEgzV0FyT284dVB5VXRyOTFScXhJcXVKaDRRZVhpNEdsd1pxaV9XbnBzYzQybGt3dmtxNDJKOEd4OEZkM2Y4SmFiODJLaG5LWEJxelZpSmx0MWdVRThNTlRWVjBrbHNpYmJXUUdDWVRlYWtfa09UX2tHSENQbHc?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Google Veo 3.1 will generate social-ready vertical videos in Gemini - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5V0Rud0ZqYVk1d29CRXBfby02amV1Qm9oTl91Vy1BSmNTMTdwT3VlQ3BUOFJwRGVzZVZzbGFpZlFfaXpVVWNYMmpmS2tCcXRMQjRkdzJDZHIzOHQxZllxb0YtSFg2Uk9ZV29zMldTcng?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 16:24:24 GMT"
     },
     {
       "title": "Google Veo 3.1 Updates Promise Even More Realistic AI-Generated Video - PetaPixel",
@@ -43,7 +43,7 @@
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792531903782,
+  "fetchedAt": 1792541348003,
   "errors": [
     {
       "source": "CourtListener",
