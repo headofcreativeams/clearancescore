@@ -3,19 +3,9 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs - The Yale Review",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdkRSeUgzQzNjNTE0TnBtakRzWUtLNGJtTnRQQ1dQYUJVRmJZeVBEc3RUeHN6MVVNM0NTalF0SVhsMnhJUFRTYURpNkhDX0xSU2lqanBvRTh0WHpLclJuY21hSTFKUWRleTFicW5reXVqQVNqY1E?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNE8xSmF6XzBFMjVCTGhUak5SakJNYktTYTV0NF9Kd1R1aGdzdVFlcXlNWWNlb214ZE1uMEc0c2ZVSlV2dXdObEtNVnBsM3dMYW1LdzJzS19nTGtTOVhfU2xXMFdXS3N6UmpBY0NMTUw2WHNRQU5vSC1XaDh1RHRqTV9CUU9MZm9xdFRtTU4zcWw2WmtZcGdQeFBCM3BUZDgxYWJjTFIydE1PYmJvNEpwZlV6cGMxRDV2N1o2bWh6R0owMllTaFhZX19rN0nSAcwBQVVfeXFMTTRPMUphel8wRTI1QkxoVGpOUmpCTWJLU2E1dDRfSndUdWhnc3VRZXF5TVljZW9teGRNbjBHNHNmVUpVdnV3TmxLTVZwbDN3TGFtS3cyc0tfZ0xrUzlYX1NsVzBXV0tzelJqQWNDTE1MNlhzUUFOb0gtV2g4dUR0ak1fQlFPTGZvcXRUbU1OM3FsNlprWXBnUHhQQjNwVGQ4MWFiY0xSMnRNT2JibzRKcGZVenBjMUQ1djdaNm1oekdKMDJZU2hYWV9fazdJ?oc=5",
       "pubDate": "Tue, 20 Oct 2026 18:50:00 GMT"
-    },
-    {
-      "title": "AI Bots Stole My Music - Philadelphia Magazine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83amtXVXl2eFlBT25XaFJ4ak1wR2cwS1ZHVm93bDVTVW8tZU1oVHhoM2phZWV5QThMVm9UaFhMbllOZ251a3dwOXVyVHk1dE1tcDVtMGJiZnJwdFdsRnMweGxLT0pPanFhYWNRNWkzeTMtcUFfVzIyOElfWDl2dUk?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "ChatGPT maker OpenAI says its AI technology acted on its own in an 'unprecedented' hack of Hugging Face - ABC7 New York",
@@ -23,9 +13,19 @@
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "Melanie Mitchell: The Dangerous Unknowns at the Heart of LLMs - The Yale Review",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdkRSeUgzQzNjNTE0TnBtakRzWUtLNGJtTnRQQ1dQYUJVRmJZeVBEc3RUeHN6MVVNM0NTalF0SVhsMnhJUFRTYURpNkhDX0xSU2lqanBvRTh0WHpLclJuY21hSTFKUWRleTFicW5reXVqQVNqY1E?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI Bots Stole My Music - Philadelphia Magazine",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83amtXVXl2eFlBT25XaFJ4ak1wR2cwS1ZHVm93bDVTVW8tZU1oVHhoM2phZWV5QThMVm9UaFhMbllOZ251a3dwOXVyVHk1dE1tcDVtMGJiZnJwdFdsRnMweGxLT0pPanFhYWNRNWkzeTMtcUFfVzIyOElfWDl2dUk?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Why is Anthropic destroying books? | Kathryn James - The Guardian",
@@ -33,17 +33,17 @@
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "US court rules against S Korean gaming company and its AI-hatched takeover plan - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekZYMHNvcGZxaEdLVEtrakdBazR4LU9jempGV3NJVDVXUEc4aUZaQjZxQUlncGhYYU5lMWJfQU9lTWJBNTFoQzZYaTQ2cjdKRlVrUVZ1ZE1ISTZ3QktSLWtWbUlPakptaGxTS3Y2R3hnVXFmanF4RHUtUWkwX19jSWhUVlMxODd6b3pUeUFUNllfLU0tZlpKRlozVXpvR0x4ZHd6dzZDTVRUd3A1OVhrUG9BdHJfb1ZHTDBQWWhEdlU4c1V2SEww?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "Subnautica 2 Hits 5M Sales as $250M Bonus Suit Ends [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YYkNpc0NIVkpuMGlEbmlmLTdGN1dGQ19rRk5LcU9RLXlUeURxdEpQbUhpRE9aS084azRSeDNGQU1EdlExZVRIUzJ3YVFvWlNWM042ZEcycVBLVGxPUHc3dGJGQ1BBVlhfcnotVjJFdkc?oc=5",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Bombay High Court: Union minister Nitin Gadkari can sue Meta, Google and others over deepfakes - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQN2hGOUpFd0FhVG02cW9NNTEyWjNvaUlFUUxWbTIwNkhONll1STJqMUFwQnIzVS1DOUpKbGotamdyR0lSNDhNYjJkbnd1Q2pVZjJodVBmT3VXbkV0N3BVR1I3SlB6WXZyaUlXTWZWaDhjTF84QXRDSWVQYm95QTdZOTdDSHJMYVJHQVdFZU1kSWdoQVVEWjB1NDhTbzVBZFlwRGhOd2gwQURaSFBVdm5YWDU0bFFsV0tyZnhrNHY3V1JQNkdiQldhZ21sUENZa19rZlZSQjZmdmluUWRFamI3R1hMSGpJVGstX3d6c3UzTHhHMGRzWmU2Y1c2Ql9HemVjVHhRRmJB0gGLAkFVX3lxTE5HY3RMWTZJLTVPY0dDSkhBUlJhZkFmZUJXODd2STc3YWtmb3YzYTBPLXdNTjlhMVpDSWJEQ0k2MTZOUE5HLTRpaGRuZzE2eE5Ba0FJTzd4Vmprc1M1OHA1OXhVZnRuU2otdTNsc1RJdXRvcHZ0eE5nMmZhZHh4VEd1bWd6NldTNk1pSGs1WE93UDJMQ1o5enNtNk9qdFVaaFE1OHpaSEFaTDI4S2pjX2dUc19SeW9ZM2dtZzZ2OWx3U1V0b3pMVDFvYW5UQTdvTVhaTU5tNEhMQXp4TE5nSGpyWVlPNHI1OGlTUkdQdzI1SjY5eGhCc2NtNHd1TFBKdGFoMGtEM190VUtINA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792609720521,
+  "fetchedAt": 1792621365399,
   "errors": [
     {
       "source": "CourtListener",
