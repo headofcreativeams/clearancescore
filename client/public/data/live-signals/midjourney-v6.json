@@ -58,12 +58,12 @@
       "url": "https://www.courtlistener.com/docket/67569254/silverman-v-openai-inc/"
     },
     {
-      "caseName": "UMG Recordings, Inc. v. Uncharted Labs, Inc.",
-      "court": "S.D.N.Y.",
-      "dateFiled": "2024-06-24",
-      "docketNumber": "1:24-cv-04777",
-      "cause": "17:101 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
+      "caseName": "Hendrix v. Apple Inc",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-09-05",
+      "docketNumber": "4:25-cv-07558",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/71279155/hendrix-v-apple-inc/"
     }
   ],
   "news": [
@@ -108,6 +108,6 @@
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792576276894,
+  "fetchedAt": 1792594416805,
   "errors": []
 }
