@@ -1,6 +1,39 @@
 {
   "query": "Adobe Firefly",
-  "caseLaw": [],
+  "caseLaw": [
+    {
+      "caseName": "The Foundry Visionmongers Ltd. v. Adobe Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2026-03-11",
+      "docketNumber": "5:26-cv-02121",
+      "cause": "15:1121 Trademark Infringement",
+      "url": "https://www.courtlistener.com/docket/72421124/the-foundry-visionmongers-ltd-v-adobe-inc/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "M.D. Tenn.",
+      "dateFiled": "2023-10-18",
+      "docketNumber": "3:23-cv-01092",
+      "cause": "17:0101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/67894459/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "Concord Music Group, Inc. v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-06-26",
+      "docketNumber": "5:24-cv-03811",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
+    },
+    {
+      "caseName": "Strike 3 Holdings, LLC v. Meta Platforms, Inc.",
+      "court": "N.D. Cal.",
+      "dateFiled": "2025-07-23",
+      "docketNumber": "5:25-cv-06213",
+      "cause": "17:101 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/70899478/strike-3-holdings-llc-v-meta-platforms-inc/"
+    }
+  ],
   "news": [
     {
       "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
@@ -43,11 +76,6 @@
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792698811783,
-  "errors": [
-    {
-      "source": "CourtListener",
-      "message": "This operation was aborted"
-    }
-  ]
+  "fetchedAt": 1792709984384,
+  "errors": []
 }
