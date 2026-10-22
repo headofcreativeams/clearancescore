@@ -18,12 +18,7 @@
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance - Incrypted",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idjhUQlhtRUxxek9UZTdZTVd6dllJVXY4WUJOY2V1SEIycnV6MGs3Um1ESm8wZFRWV3p3d2JHWlJPS0ZLd1lhUEhreE1FUEFLV2xDNUw5ejVGRUpidUVMNg?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - The Decoder",
+      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - the-decoder.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXQ1dHVrUndEU090eERLaTFmbGJLbDhENEgzV0FyT284dVB5VXRyOTFScXhJcXVKaDRRZVhpNEdsd1pxaV9XbnBzYzQybGt3dmtxNDJKOEd4OEZkM2Y4SmFiODJLaG5LWEJxelZpSmx0MWdVRThNTlRWVjBrbHNpYmJXUUdDWVRlYWtfa09UX2tHSENQbHc?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
@@ -41,9 +36,14 @@
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gHfAUFVX3lxTFAyelNQOERMU3RjeWZ2c0RibXBwaG14UEtNcWZqR3AzeDJ2bXRsa1NLTWlzTm9waXFOdXdqUm94UG5jamlscjlhVno0SlYxbjFnT1VKbnU5R2o0MnBxZkRVM3VCeV9TYzR4d1l3R0tBVEhtUnBzV1k3MEZXWEEyQ2E4X2tMeUNrQXVFUjFTOWJzLTRkZTM0T0tRSFRubUFQSXFNUC10MDBpVmIxZ3VmeVl4bG1xUWJrMlZtc0x2bHg3Sm9sTzlwRlI3OU8wNHdlNHVJSndJTms0S1NlR0YwekU?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792630148260,
+  "fetchedAt": 1792648116577,
   "errors": [
     {
       "source": "CourtListener",
