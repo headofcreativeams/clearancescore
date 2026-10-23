@@ -50,20 +50,20 @@
       "url": "https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/"
     },
     {
-      "caseName": "Bartz v. Anthropic PBC",
-      "court": "N.D. Cal.",
-      "dateFiled": "2024-08-19",
-      "docketNumber": "4:24-cv-05417",
-      "cause": "17:501 Copyright Infringement",
-      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
-    },
-    {
       "caseName": "OverDrive, Inc. v. OpenAI OpCo, LLC",
       "court": "N.D. Ohio",
       "dateFiled": "2025-11-19",
       "docketNumber": "1:25-cv-02520",
       "cause": "15:1114 Trademark Infringement",
       "url": "https://www.courtlistener.com/docket/71932115/overdrive-inc-v-openai-opco-llc/"
+    },
+    {
+      "caseName": "Bartz v. Anthropic PBC",
+      "court": "N.D. Cal.",
+      "dateFiled": "2024-08-19",
+      "docketNumber": "4:24-cv-05417",
+      "cause": "17:501 Copyright Infringement",
+      "url": "https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/"
     }
   ],
   "news": [
@@ -98,16 +98,16 @@
       "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
     },
     {
+      "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
+      "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
+    },
+    {
       "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWktWOWZDQkFyOWZLZV91M0hrdGR4ZTRpSzBvOEpoWEFUeFAyTU1xbnFRWHA3aC1fM25tY1drU0dQREN2WjcteEhZcUVaVW5GcGxpODFXcGd2Ykdtd1RpM0liTWJSRXhEZUJaQzdKcGc4MDVSeXN4UVNRelYyM0ZBU1hVSVRXckFKSy1GTw?oc=5",
       "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
-    },
-    {
-      "title": "New OpenAI Art Program Does NOT Claim Copyright for AI - mindmatters.ai",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEdWZFNCb2FDbmEyRXExbjcwV3NVM3JTN2JUVDl5d1E5VHNscFVJUFhoLUJmMWJ5QmZtNW01WlA5N25aZ0NYLThjYThsblRlYXVCUURRclFBbUVlbjNHQkZYRkxBUDdGWjRWaW1HMzl3UEg3TGFaQVZsVWRub0pkOGdKU1pPRnlSSDVXU2wydw?oc=5",
-      "pubDate": "Fri, 22 Jul 2022 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792718658977,
+  "fetchedAt": 1792736361314,
   "errors": []
 }
