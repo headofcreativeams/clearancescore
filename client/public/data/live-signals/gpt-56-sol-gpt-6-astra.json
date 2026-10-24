@@ -68,12 +68,12 @@
   ],
   "news": [
     {
-      "title": "GPT-6 and Intelligent UI for everyone - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
-      "title": "How to Use GPT-6 Sol & Luna: 13 Steps, $2/M Tokens [2026] - tech-insider.org",
+      "title": "How to Use GPT-6 Sol & Luna: Setup Guide [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRGUwdDZVYlNzNkw1dE5iN1dCTjNfUEVoQ2lGM2YwZllueDd2MWl5VjRDclRCbWdiSVB6NzNGTk01WHFLM0RZZklVZm1STFF3UW52OWRKclVGREF4UGJRa1RtakdJSGJtdmpv?oc=5",
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
@@ -108,6 +108,6 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792823385213,
+  "fetchedAt": 1792841382311,
   "errors": []
 }
