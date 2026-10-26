@@ -3,11 +3,6 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Seedance 2.5 AI vs Kling 4.0 vs Veo 3.1: Choosing a Model for Ads, Stories and Stylized Shorts - Breaking AC News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc1RnRmNsUlZUemdYOHpDOTlNYll2VlpkRjNNbWpqQm5jemQ0Ml9lamZSYlAxbDZjZ2hJR2R1Q3VDSlUyMm5ERU5BRFp4VDdwTXBRTWxiUlByVUxESlUwR09kSnJTN1A2bmN1bjh6VVZmNU1oTjU0ZHZCTUVVMVc1NGpkVTNuMG9yV18wN2lqWElvZk9qWTV2UjByaGVnRmZ3bHY2UG1pYl9CMFdFMTR6R1lPbW1RaVVnVXVpOE5CUHZmM29lLTRVWmZsdkIxOHRmcTF0aTF3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 01:16:18 GMT"
-    },
-    {
       "title": "Adobe's Firefly Audio Tools Exit Beta - The AI Economy | Ken Yeung",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5",
       "pubDate": "Sat, 22 Aug 2026 07:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Google Veo 3.1’s Now Makes Creating Vertical AI Videos Easy - Times Of AI",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak9uTmlBSl9DVDVLZGJZSnBZd0M0RVVSRVNpa2RoY1dqeFRuOXNLZHQ4N1dtd0JTX05WYWRRMVRGTldTeTVWdE96T09wbXJIeVo3STFfMzdXazU5SmpCbnpYRFhSaDl0MHFCNTZfUjQxTnF0Z1R2LWF3Z2hvMWdqVlFpMA?oc=5",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmIzcEcyaEY1UDdZX2FzdXBvT1JYeWZRRk1Sc3cyZmR2OVVMMFdkMmktMEZjSndkXzQtN2hEal9LTlpYSDlXMUJqUTBkcFFySFFLZVBER3pZSUlQNE00Ri0wYVc3XzZQb19wLWlraFpETWMxTHlYM1JQRUVxdDVTTzlQbmZaS19wMDBDa05jUU1RWGxvQzlWODN1WFJkT3ZuS0JvaFJpaEM2YXNncXAxVWFnc3JEVUJJZ29rSGRtWk1xQdIByAFBVV95cUxQUU5hX3VfMDZNWjhaUnBmU3gtWXZodUQ2U1FTajFHdFFWZUMwYjA0UDBBemExenVJcDd2X2RzMU9oV3A5VW12Tlg5RkdjMi13Rno3S2g0QzJraVJITHhCMEdPbThORlFvZC1fOXh6c25qZjZlRzExOWdvbjQwUEJCQ2o1a1RlZnBodnN3eUJraW9zb29rWVcyLWFwSnpOT3FCY0lnTlpfNjZIT056YUU1bWFPN1FneEVDQk1iZzliQWZpenlYS185eQ?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1792993727349,
+  "fetchedAt": 1793017415763,
   "errors": [
     {
       "source": "CourtListener",
