@@ -3,24 +3,9 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gHfAUFVX3lxTFAyelNQOERMU3RjeWZ2c0RibXBwaG14UEtNcWZqR3AzeDJ2bXRsa1NLTWlzTm9waXFOdXdqUm94UG5jamlscjlhVno0SlYxbjFnT1VKbnU5R2o0MnBxZkRVM3VCeV9TYzR4d1l3R0tBVEhtUnBzV1k3MEZXWEEyQ2E4X2tMeUNrQXVFUjFTOWJzLTRkZTM0T0tRSFRubUFQSXFNUC10MDBpVmIxZ3VmeVl4bG1xUWJrMlZtc0x2bHg3Sm9sTzlwRlI3OU8wNHdlNHVJSndJTms0S1NlR0YwekU?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Google Announces New Veo 3 AI Video Model Amid Sora Hype - CNET",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTI4T2dBbHE5Z2xILTVBRU9jUVBEdHNFUTFQWDBCbkFIWXNiS2dYX3NKM2Jic1lBMGpUaVJPU3gxVGR3ZXZkTzdIX2oyZ3FnR1ZJT3pVMUhab0pOTmYyYXdoSUlDM0RjaTNRbDk1QlhFb3B3TklEcWlGci16OWRoQ2dIV1AwdEdDQzV2UWNEd1praDNhSEhNVTNYaUtyU1NqLXZjQlI1dGU?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "The Best AI Video Generators of 2025: A Comparison of Sora 2, Veo 3.1, PixVerse, Hailuo, and Grok - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU01HWXphQVVUa0lmNmhPSkJTZXlnZGtwd05XVDZaSzI5VmJCREkxMmw5dnNYb3BtWk1rYXpod2t4bUpYYXpOS0d2TjcwaDJ3ZXJKSWNib2Y3Z0N2c1lqeDM5N2JWajdldG1Dd1lfTzNjZ3ZUVGFtQkhINDU5RGQzNE5HelE5Sklra3hJRWZQM0ZzMlA3WVJZczZlWXlEbkJLRlZTTklqWHVFRnhSVVItWg?oc=5",
-      "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
-    },
-    {
-      "title": "Google releases new AI video model Veo 3.1 in Flow and API: what it means for enterprises - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzZ0YUN1X0ZVUkhTZlloVGVLaUNnTTJpbS1MZzRmb292azVQNDdYWHlJekJtSFRUWjRDcUFXYnZscVhkeVZCQ1pFVF9feGZsYUZVZTlGUTcxVHlfQzQxSmhsY3VjNFhkVktwVTdTdVJ1WTNiV2VnUE10LWFXa0VZdDhycFNtVm1mczdxMldZQmVLdFF0QUdaOUt2V2doX1g4RFJBLS1kakxWbl9qLUhxTw?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+      "title": "ByteDance’s Seedance Tops AI Video Quality Rankings - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCaXVqY0FFSVh4SjNQVi1xNmhoemE3dEN2ZUJNQUhkR3NWdEFxdGpsLUM3X2VzaFYwUml0dVhNZkFjRV95eGd0Tlpfc0FxZjhNbGJUZzUwWlo4WkVZUFVsbGhua2pUTnFVU3VUNjU3NEtkY1lCMC1mLWdXcHFyRk0?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 12:04:37 GMT"
     },
     {
       "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - The Decoder",
@@ -33,17 +18,32 @@
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "Google's New Veo 3.1 AI Video Model Can Blend Images into Clips - Android Headlines",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURHaGcydkFic2lUcE9SRzZDMzYyYUc5ZG5xcWxsaUJLb1RyQzBxS1NabGhzdmtzYjg2dlNXUnJkQU9vdG1Tc1hEeUhjb0pHd0lmRDhhVVNHazVEOFZER3pRamZWRUQ5aDdPOGxrQnI3emVkM3daTDZ0M3MydERCVlFYTTd4dWxtb0ttTlBOcldDaVN2UnZqOWtubDZKQk9HRWtNa2wwSQ?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+      "title": "Google launches Veo 3.1 Lite, Gemini executive ‘makes fun’ of OpenAI shutting Sora - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZEtPY0JlZlJNV05fOXVoVnpSaG5Ecm5XSG5kVF91LXRsUUx4YTRUaUJGdlBIZWhHa3g2bjNTWkJFa3Q0QUdOTUZpeGQ0ZGVuclFSUHp6Q1dRZGJLNDJqbnJPZ21rMUN4dHY0QUZoV1hRRkFyS2k5MWVQREUybDNOQUR4a1RUU3RNdDZBZ0FvZENDemNvWnFpajUybUVDMmpnXy1XWTJrSl9pVE91ODNlQlg4Q3oxczdlZkJhMDZXRHNGd1dsc3k1a2x1SzhNTnhjVGRjWUp5M3g4cHdVTjB4TjFOVERsMEpJUzUzSUcwV0g5MmdJ0gH6AUFVX3lxTE03eVhlWUI3OGpiOFVCNkRLSnBVYnlFal9QSkYwUjNVTG1GSGpSS1R5dWFoWjdFWXA1UjhYOXlIaXpjbmNEeUMwQndVTV9yX05BSVJ3TWtnS0Yyb2xkVFg3M0VuRWpMVlE4bW9jSHJmT2Y5Wm5hY21CSnlsOTdiVFZwZnRHZEhYMmJPbVpIS3FQQWxGalF2WFVOMmt4RHpYRVVNZUVfdEpNN0pYemlJdVctdWpPME5vS1ZReW9pQjZ1VDNwRV9QM193YjY4My1ySVNMMXl4TDZyNm4zcmNMenQ0VmNkZkdnZWpULUZGalc2MEc4SmZDMF91Tnc?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Google Veo 3.1’s Now Makes Creating Vertical AI Videos Easy - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak9uTmlBSl9DVDVLZGJZSnBZd0M0RVVSRVNpa2RoY1dqeFRuOXNLZHQ4N1dtd0JTX05WYWRRMVRGTldTeTVWdE96T09wbXJIeVo3STFfMzdXazU5SmpCbnpYRFhSaDl0MHFCNTZfUjQxTnF0Z1R2LWF3Z2hvMWdqVlFpMA?oc=5",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmIzcEcyaEY1UDdZX2FzdXBvT1JYeWZRRk1Sc3cyZmR2OVVMMFdkMmktMEZjSndkXzQtN2hEal9LTlpYSDlXMUJqUTBkcFFySFFLZVBER3pZSUlQNE00Ri0wYVc3XzZQb19wLWlraFpETWMxTHlYM1JQRUVxdDVTTzlQbmZaS19wMDBDa05jUU1RWGxvQzlWODN1WFJkT3ZuS0JvaFJpaEM2YXNncXAxVWFnc3JEVUJJZ29rSGRtWk1xQdIByAFBVV95cUxQUU5hX3VfMDZNWjhaUnBmU3gtWXZodUQ2U1FTajFHdFFWZUMwYjA0UDBBemExenVJcDd2X2RzMU9oV3A5VW12Tlg5RkdjMi13Rno3S2g0QzJraVJITHhCMEdPbThORlFvZC1fOXh6c25qZjZlRzExOWdvbjQwUEJCQ2o1a1RlZnBodnN3eUJraW9zb29rWVcyLWFwSnpOT3FCY0lnTlpfNjZIT056YUU1bWFPN1FneEVDQk1iZzliQWZpenlYS185eQ?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gHfAUFVX3lxTFAyelNQOERMU3RjeWZ2c0RibXBwaG14UEtNcWZqR3AzeDJ2bXRsa1NLTWlzTm9waXFOdXdqUm94UG5jamlscjlhVno0SlYxbjFnT1VKbnU5R2o0MnBxZkRVM3VCeV9TYzR4d1l3R0tBVEhtUnBzV1k3MEZXWEEyQ2E4X2tMeUNrQXVFUjFTOWJzLTRkZTM0T0tRSFRubUFQSXFNUC10MDBpVmIxZ3VmeVl4bG1xUWJrMlZtc0x2bHg3Sm9sTzlwRlI3OU8wNHdlNHVJSndJTms0S1NlR0YwekU?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793129182689,
+  "fetchedAt": 1793142232756,
   "errors": [
     {
       "source": "CourtListener",
