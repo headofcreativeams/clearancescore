@@ -28,9 +28,9 @@
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
     },
     {
-      "title": "Runway Gen-4.5 API Setup: Generate AI Video in 13 Steps [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11S3Vyc1p4d0xYelRoZFNEZkxFQmpTUTJOejBGS3hndTM0UXVWNlg2d21PMmxQUjhzbzR6X2pjVk9CVExGWUgwNDRSMGJMWWhrWlJPSkJ2RTRCZ0VqVm8tai0weEZQQ2dXekpURlprMFZiQQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 17:24:28 GMT"
+      "title": "Leak Shows That Google-Funded AI Video Generator Runway Was Trained on Stolen YouTube Content, Pirated Films - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xWmtGbkVaeFZ4RzBhU2tvNkdaMHVLVHhLQTZUNVU0LTZvdk9zeWFaWW9sUVJRRDlndUp4Z1Z4Q21KTEVrZ2h5UzhvWkdFdmlSQ21CWFg4VWtUWTJHUUNR?oc=5",
+      "pubDate": "Thu, 25 Jul 2024 07:00:00 GMT"
     },
     {
       "title": "Runway AI Secures $300M From Nvidia And Fidelity To Revolutionize Film With Gen-4 Model And Studio Deals Raising Its Valuation To $3B - Yahoo Finance",
@@ -43,11 +43,11 @@
       "pubDate": "Wed, 14 Oct 2026 13:43:13 GMT"
     }
   ],
-  "fetchedAt": 1793109781865,
+  "fetchedAt": 1793129183010,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 429"
+      "message": "HTTP 401"
     }
   ]
 }
