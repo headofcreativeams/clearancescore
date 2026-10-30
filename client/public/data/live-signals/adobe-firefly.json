@@ -13,14 +13,14 @@
       "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Disney’s Imagineering Arm Using Adobe’s Firefly AI Models for Park Designs - Variety",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzNYUE5NNC1HcDRhNGRBSWZ6Nml4WHl0T0s4UTRoQi1YV2RQXzVXXzY1SF9xRXh2TTBoWWl1UVhxZklhOTluS0J2MEh6NW5WcHQ4YzhrUHZNWkdqWnQ5QjlhVXozclF5M1NMZGhoZkF2V3I3TEEzdmZUTllpR1Bxa0NfdTBZQ1h3UDdtSnFnOHNadWVqelhibGFOeFN5Wl9w?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Disney’s Imagineering Arm Using Adobe’s Firefly AI Models for Park Designs - Variety",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzNYUE5NNC1HcDRhNGRBSWZ6Nml4WHl0T0s4UTRoQi1YV2RQXzVXXzY1SF9xRXh2TTBoWWl1UVhxZklhOTluS0J2MEh6NW5WcHQ4YzhrUHZNWkdqWnQ5QjlhVXozclF5M1NMZGhoZkF2V3I3TEEzdmZUTllpR1Bxa0NfdTBZQ1h3UDdtSnFnOHNadWVqelhibGFOeFN5Wl9w?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "Legal risks loom for Firefly users after Adobe’s AI image tool training exposed - MarTech",
@@ -43,7 +43,7 @@
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793353251469,
+  "fetchedAt": 1793376917605,
   "errors": [
     {
       "source": "CourtListener",
