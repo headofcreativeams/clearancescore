@@ -3,7 +3,7 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Midjourney will \"find you and collect that money\" if you infringe any IP with v6 - The Decoder",
+      "title": "Midjourney will \"find you and collect that money\" if you infringe any IP with v6 - the-decoder.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjEzTV9FYmN3S3BpbDdJc3l5eTVyaWJUYWNGdVZ3MDUxMlFBbzl2dEpZU2VaZHJMcnZ0VUpkemQ4ajItZmFjUmZwemtENnFDc3F6SVFiYVh1RjVSOFNnOVVDdzlpNHdPRlF2Wk94UmhxalhqNVljeGlDZXNWT0REaUlfc0ZVNUp6WHpINlVWQjlWRDc3WXVKaFBYeGY2ZTNPbFhzUmJ3?oc=5",
       "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
     },
@@ -23,11 +23,6 @@
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
     },
     {
-      "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
-      "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
-    },
-    {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpDaVM5azZJbGZVamJIV0M3dUJORnBHMUQ2WHZzV3RETHkxN2o1Tkg0cVdrVDJPSFJVQ1JWZDU4MndWWkg0YnppemNDc1pUaVZITFZlY0lIbWRxekhncXQ0R3BsbnIwVlhfQm9oQnRMcFNWdjVkWEZQVlB1TFVGbURZYjZQQW55UXBxY0tyMWlrQU5YTUpuMHhmanJpcF91amI3YnFKQjR5WUd1UFpZRzFHWGxSRnVfT0VDWmVB?oc=5",
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTOExNdFQ3N0tsR3R4cC11RVVOeU1SdFhsRkw0UE5zc1NLQ2JKUS1rM3YwemVBYllCcjM1Q2xoUFdPWW5DY3ViWDJ6SGxjNVVjUkN1QXpZM3A4RmVLZ242a1FyYw?oc=5",
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Artists Fight AI (and DeviantArt) in New Class-Action Lawsuit - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObURIeHZWZlhFVmhxTDVPR3ZXQVlNUzluOFV3dDdJR2ZzMmFsS1hpX3drVmpyTm9TN0kwbHhpM2FRVU9WZWF0M1NGakNMVWtLYUQ2YjBnUWhwTU1IQUhuTjIxNnlTVVMzdGk3T25QN19KUGt3WDBId3JJR0lObUZ6aHR6S1kxUEhO?oc=5",
+      "pubDate": "Tue, 17 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793478976467,
+  "fetchedAt": 1793490372026,
   "errors": [
     {
       "source": "CourtListener",
