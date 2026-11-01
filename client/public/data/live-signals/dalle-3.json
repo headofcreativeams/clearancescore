@@ -3,11 +3,6 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "How to use Bing Image Creator with DALL-E 3 — generate AI art in just seconds - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LMTR1VGVJdTUyc1VDcWtDcWl4RkdJU2FWT0RSSmhvWDJ1V2puVGRMLVlGVG1rQTZ3eWtKNmdOcjkzNDBOWmltUzdQNk9JczlUS0ZfNU9sU01rMzh0YTNvUFhFbmNtQ1dfNkZqSlRhRmlYcF9hMXFwLXNCX0FuQQ?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 14:28:41 GMT"
-    },
-    {
       "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools - CNET",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
       "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "New OpenAI Art Program Does NOT Claim Copyright for AI - mindmatters.ai",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEdWZFNCb2FDbmEyRXExbjcwV3NVM3JTN2JUVDl5d1E5VHNscFVJUFhoLUJmMWJ5QmZtNW01WlA5N25aZ0NYLThjYThsblRlYXVCUURRclFBbUVlbjNHQkZYRkxBUDdGWjRWaW1HMzl3UEg3TGFaQVZsVWRub0pkOGdKU1pPRnlSSDVXU2wydw?oc=5",
       "pubDate": "Fri, 22 Jul 2022 07:00:00 GMT"
+    },
+    {
+      "title": "DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZc283d24xbFJ2R1F5dzgwa2JHWkpOZTJSUVdxOElaNkZ4UjlZaXp0azJyX2Q5alI4QjZ5SC1qdFo0dm1ITTE0eS1jVmp5bmZmd0dZ?oc=5",
+      "pubDate": "Thu, 14 Jul 2022 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793532675214,
+  "fetchedAt": 1793553292981,
   "errors": [
     {
       "source": "CourtListener",
