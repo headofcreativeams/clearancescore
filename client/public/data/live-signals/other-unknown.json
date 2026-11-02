@@ -8,14 +8,14 @@
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHd3ckVsc0JMQ0o1SDViVGhBNXNIaFd4LXRxOEMtQkt4MWh6cGhhTGNnRXFKMktCSHphRGwycGtKamEyWVlHT21pRUNJNGFGY3Foa1NEMm1UdTBMRzdVb0MtLU96UFFBd1lyckFJa2RSbWxQR2h1T0lkNjhvVGRhX3VOWGI4SjNtTUVXTkVPTktUTFNkbEdUQlhDVDRCb2NKNW0yYTdwb0FBbzFZdWhnYXFVMkVLZ2RzYmcw?oc=5",
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "AACR 2026: Cancers of Unknown Primary Identified by DNA Methylation AI Model - Genetic Engineering and Biotechnology News",
@@ -43,7 +43,7 @@
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793640031119,
+  "fetchedAt": 1793663935812,
   "errors": [
     {
       "source": "CourtListener",
