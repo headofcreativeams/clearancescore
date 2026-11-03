@@ -28,14 +28,14 @@
       "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "Deepfake CSAM lawsuit against xAI, Grok expands - CyberScoop",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJfZElLMFIzSjNmdjJZRVVobE5VR0VjUjNKQUJvYkhEWnhSTjRGZ1kyYUE0NkI3bGd0bklXNnFUTnVGS0NDc2VrcldCd3FJblQwT0ZaWjdjbzlBSFBjM2paSy1zaTdLeHVXVXVHcWxiY1FrOXdUWWpNU0JHWDNRNQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "Tennessee girls take Grok, Stability AI to court over explicit AI deepfakes - WZTV",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSGFNa0VBM251THJ5TzVGeEwyX1JnbDZmU2k1ckwwUzJIUnVEVWpHWTduSFBac2pBQjdfUTBaUWZqMVJhbE9kdHdHYTJITEFORE1xUWFCVF9vMkZ3YkpEd0xrTEpKOG9kcGhnY3pndVpya09zX244SE51dmlfX0s0ZUh6X25VM1RtYVVOVERYMkM3RU13WVRZdHFleXRocEdWaWZjU2NDbTE5WVRXT2JRUExTTHJzanFJekN1SXRYYmh4ZnJmYjdTUFk2clJhVUZUMmJ2UkZ2elZyQl9WVzlzV3RPMWdLTjVSR2N5VjF2c0FjbWJSVHRmRFo2eWVvQ01BLXdhMjZXaUVwMDJyYy1lQlloZ2poMDF6UEo4R1E1a3U0RWtQVm9F?oc=5",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Deepfake CSAM lawsuit against xAI, Grok expands - CyberScoop",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJfZElLMFIzSjNmdjJZRVVobE5VR0VjUjNKQUJvYkhEWnhSTjRGZ1kyYUE0NkI3bGd0bklXNnFUTnVGS0NDc2VrcldCd3FJblQwT0ZaWjdjbzlBSFBjM2paSy1zaTdLeHVXVXVHcWxiY1FrOXdUWWpNU0JHWDNRNQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Getty Images v. Stability AI: English High Court Rejects Secondary Copyright Claim - Latham & Watkins LLP",
@@ -43,7 +43,7 @@
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793687349133,
+  "fetchedAt": 1793716564772,
   "errors": [
     {
       "source": "CourtListener",
