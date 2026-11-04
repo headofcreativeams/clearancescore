@@ -3,14 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "Adobe Can’t Shake Trademark Suit Over Firefly Foundry AI Models - Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUFfSEkxdUdwXzM1MFNmQ1JmZ1JlSkpnTzRBanRpLS10dUpxUTN0bThRLTRTLUpZQ1gwb0lwQW1MVWJjSjRQakNtMFI1WThtRW1ZWExrSkxwdEhWODdKaFc4djhmTlpzcFhNNFQxdHpRSGZkM0lydVdsT3hfTnBOd0I5QjVjTW8tY0FfaWlnakpUREhMa3h2ck1RYWlkelJJ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools - CNET",
@@ -33,17 +33,17 @@
       "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "AI Image Generation Statistics 2026: Market Size, Adoption & Risks - SQ Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWR4LWIyQlRaRTVBaFNCeHBpNXlYbkRBZUY5ZFJrYXZSQS11a2I1S2NrSGRpUUQ5N1M3eS1qWjgyVU1hcTFTa0JoYzVOWHhHWDZPcFVBVWl4UlZWM1JyWU85WVBseUU?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkZDakI5WEZ2SUR1dU5WMm9MRkxybzd6ZkRTQWpVemRJVS02dnFlajhvTGRtQ2UwdTJfR0ZWYm8tTUpHN25mZjhHMTZvaTFkVFlnZ2RQMXFuUF95bmM4d1VSakRYd0dacklUcGdKZ1RsZmdyVXhFTFd1WW8xNTFjdWhiOTJuR2RpaXVBUHZGVEFsQ1BDQ3RKbG9nSnZHVTRFZGFtUGVkVEUxX2t5c2NRRFB6VEJlRll6WWJiN21n?oc=5",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI Image Generation Statistics 2026: Market Size, Adoption & Risks - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWR4LWIyQlRaRTVBaFNCeHBpNXlYbkRBZUY5ZFJrYXZSQS11a2I1S2NrSGRpUUQ5N1M3eS1qWjgyVU1hcTFTa0JoYzVOWHhHWDZPcFVBVWl4UlZWM1JyWU85WVBseUU?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793753688249,
+  "fetchedAt": 1793776576597,
   "errors": [
     {
       "source": "CourtListener",
