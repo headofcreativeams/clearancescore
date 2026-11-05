@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEJfSEdQUXRnVzRpVFVZUDNBSW9BdVRyRXpYczdRN3c4a3B2ZmdPMFVRMzdvZS1FdWV2bEc3N2tobXlrVGlFZ3hjNTA1NV9QaUVYUG1xaWJVOElPNmZUajBZLUoyVHZfUW42NWhnTVdSaUFIUUNtZU9fWXJUQkFkOXFVbWg?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
       "sourceId": "gnews-ai-insurance",
-      "pubDate": "Wed, 04 Nov 2026 18:02:43 GMT"
+      "pubDate": "Wed, 04 Nov 2026 18:02:44 GMT"
     },
     {
       "id": "gnews-ai-copyright-9-aHR0cHM6Ly9uZXdz",
@@ -89,7 +89,7 @@
       "pubDate": "Mon, 02 Nov 2026 18:32:50 GMT"
     },
     {
-      "id": "gnews-ai-copyright-10-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-11-aHR0cHM6Ly9uZXdz",
       "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls - The Verge",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVN6Z2R4ZUVYdmk5b2lDOFB5ZlROZjkwYWx1N2ltR2lKaVBmbGpNS2N5Y2ttTndmQkRZcDZUSDlza29RVkQtcXdxYjhCdXhqbk90RkJjNlUyR2pFejBfV1VuNEE0QUdKWjFWQWJfYnV0aDdWOWMtaWh0Yy1hVjdZeVFRVkM?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -103,6 +103,14 @@
       "sourceLabel": "Google News — AI copyright lawsuits",
       "sourceId": "gnews-ai-copyright",
       "pubDate": "Mon, 02 Nov 2026 17:11:30 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-11-aHR0cHM6Ly9uZXdz",
+      "title": "The AI Coverage Gap Businesses Can’t Afford to Ignore - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21teEhrcmJfNEhPM3REbTVESk8yUGE4XzBVMVdNMWRGejE4R29mZS1pSjExSUZnNy1tZXd5bmFBNGI4X1dVb20zbDNJY05iOEJUUS1vakhaNkxJbUhpV2FyQ1hWU1N1VEoxMW1Tby1GV3A2NU9WNTQ2ZGFLNkRYX1B6VWFCWlZqSllaZEJ1cy1nM0hx?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Mon, 02 Nov 2026 15:45:00 GMT"
     },
     {
       "id": "gnews-genai-litigation-1-aHR0cHM6Ly9uZXdz",
@@ -122,14 +130,6 @@
     },
     {
       "id": "gnews-ai-insurance-4-aHR0cHM6Ly9uZXdz",
-      "title": "AI is already creating insurance claims. Is your business covered? - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlFydXFIYmNGS0ZfcEJtRUZqU3k1RG1hNE1DNFUycjNhZWxaRlJxQWszSU5WeTRQcWhQaUhQUXFCa0xXcXFEQXhicDBXNVNBSDJNUW4yX0NnZklXVWRSLWd3ZF9jQjZoMHJaNWNFNFZsRmhiWTFod1poRDljU2RDMlJCT3d6N1hEQjJtSmZxSHdvTlFGemN6R1Mxemk3cEE?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Sun, 01 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-2-aHR0cHM6Ly9uZXdz",
       "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WTJPMm53OUM5OE10RlZxeF9fQjktNUU5SjM5UFJlUnhsT2VKV250WkdpME1wUnFRVTZES1l0M3hEeUZ2d0pIVFZ2bmFvVHE4dWx4WVJGcEVKQ3NMamt4NDcwLWpZWEZvY3QzdjhQeS1ud1BQV0puaNIBfkFVX3lxTE13dU95SnVEdkdhSzN2QVNmV3lCZDlfZ1NYVlFmZG4zblcyVjA3ZU54WGFmSG5VSk1oV0JTMEl5WlpWZkpFTmdWRHNNZl9aUkNXODlmUjNNcEVyM3FjYm9vVDBEWTZFLTc5a2E1UVhGSVdLM0F5UWZ4RzR4bF9nQQ?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -137,15 +137,7 @@
       "pubDate": "Wed, 28 Oct 2026 13:45:36 GMT"
     },
     {
-      "id": "gnews-ai-insurance-10-aHR0cHM6Ly9uZXdz",
-      "title": "Chubb CEO Greenberg: Industry Has to ‘Put Arms Around’ AI Liability - Insurance Journal",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3V1ZibmQ4ZzB2TTJfcExZT2RTbUcxX01fUDR3c0FkUEtnRklhWFVUNzExb1ctWGdFZmtMOE5UWW82WWo1ZEhCTWhCLWtrMnZrbjZnWGNuemFxS1FydFJlQ1dDVW1xUG1QUWIwQjZteVV5OGRKaXBZ?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-5-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-7-aHR0cHM6Ly9uZXdz",
       "title": "AI exclusions are spreading through commercial policies, brokers warn clients to check cover - Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdmp3R2VadnBkNG1RRThrTU90bklQcmx4bi13dGpNQS1FUzlCeVpTRGpocGEtSnROTEpTSkxKalVQVmp2SkttN1Mtb0hVTHlpcHpSR29iVGR4a2RqMjZJQ1lrUXZCY0ZXd1A3V3pYNHBQVjV2LVRfNC1NYW9YRFJVdk5IeWdqdm9HTlNPaXdXMWVPNjFmQjhPLVJGWExoUHVOeUpscDJlVDgtZXJLNmNIZ1JGcjBfNllKY1kwcWNrSWp2c1ZiT205MF9lOFM5c3VuNDhBT1Bta2taUlBsMlZHVlhjTlJCU0ZZSm9JWXRvUkdiTlJQbnV2aWZjQTJYMlo1?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -161,7 +153,7 @@
       "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-6-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-8-aHR0cHM6Ly9uZXdz",
       "title": "Specialty insurers weigh AI liability risks, resist exclusions - Business Insurance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUl6UTJ1ZHNqbTdPSDdNc21mSVQ3UUhNNlowWmNURUE0VGx0UzdjQlBsZzRPbVpzc0pUWnc3aDRvdFlCQXRNMldOMmJ4S3p6NFpaeHo4OHRrNjZ0R1FTS0RYRFE1SnpvdWRQbVFjc1B5dzFqbWJac19naU1TdXNmc3A1TG1wcXUydjFwMHdQNEs4Vy00blg1V3pzdzU?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -175,14 +167,6 @@
       "sourceLabel": "Google News — Generative AI litigation",
       "sourceId": "gnews-genai-litigation",
       "pubDate": "Tue, 06 Oct 2026 20:51:38 GMT"
-    },
-    {
-      "id": "gnews-ai-insurance-8-aHR0cHM6Ly9uZXdz",
-      "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5",
-      "sourceLabel": "Google News — AI liability insurance",
-      "sourceId": "gnews-ai-insurance",
-      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "gnews-publicity-ai-1-aHR0cHM6Ly9uZXdz",
@@ -201,7 +185,7 @@
       "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-7-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-2-aHR0cHM6Ly9uZXdz",
       "title": "How Insurers Are Responding to AI Risks - RAND",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGM2VWeUxRTGJWLV9IU2lFRXlNZkR5ZlhCMzRHRFAxZlg1TklBM0RpeEtEaUs5aVI0ZUhOZWxqX0QxT1FNcW1DSTh0NFNQbkEwZUE2djg2TmVWMWdIc3FYakNkYndlY1h6?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -209,7 +193,7 @@
       "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-copyright-11-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-copyright-10-aHR0cHM6Ly9uZXdz",
       "title": "The AI Copyright Cases Are Starting to Tell Us Something - Adam Feldman | Substack",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlYVVZTWMzWTV1bDZGM2JqWDdBNThIdmduSlFMNjFMS2dkUHp3Q21laFd6TVMzUVFqWTZ0SHFFZjNKWmt2bzl2YlRKcjgxM0ZKaW5GLW9BeC11U082enlZWm41NWdLaFNDLVVjaUZWVkZWbG9VdTF6dw?oc=5",
       "sourceLabel": "Google News — AI copyright lawsuits",
@@ -217,12 +201,12 @@
       "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-11-aHR0cHM6Ly9uZXdz",
-      "title": "AI exclusions in D&O and E&O coverage: What insurers and insureds need to know - Dentons",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeU5FUFRHczdNM1dwQVducWNGdFJIb2ZtOUstOEVUTXFELXp2d2xEWG4wN2w2eTFTaWE0RWJZdWpjNnRxRV9oNDNHVkdvNzhxZTVESnBHU0xraXlDVFRJbEQ3N0pkSVNMZkdnVkRKS3k3RkgzT0V5WmppdzRxSEFhYlFlNlFVNF9aZ3hXRE9BR0tkbFFCNDNrejA5Mmh1OHo4ekdNS3JfYm4?oc=5",
+      "id": "gnews-ai-insurance-9-aHR0cHM6Ly9uZXdz",
+      "title": "The Insurance Industry’s Retreat from AI Threatens to Slow Innovation and Adoption - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFh3QlBfSGF3RlBGaEtsTms5NUtXOVc5dnZmcUxKZWs0ZmNIbU5BNDVSbmJUWW5EVWhWbVU5WF9rRExwZzdTaGNRbE9DSk01V3VqaHo4N2tHaFFrTzNDWlVHeGxRSU5IcF96NlM5LTNNUklkNWlic3Z6SHppRW5FbTBsMUtvN25YNkZSdThWSDZqVUJoY2RZd2dmbVctZGFz?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
       "sourceId": "gnews-ai-insurance",
-      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
       "id": "gnews-genai-litigation-3-aHR0cHM6Ly9uZXdz",
@@ -233,7 +217,7 @@
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "gnews-ai-insurance-9-aHR0cHM6Ly9uZXdz",
+      "id": "gnews-ai-insurance-5-aHR0cHM6Ly9uZXdz",
       "title": "Insurer Interest in AI Exclusions Growing as Risk Becomes Omnipresent - Claims Journal",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lalB2eHlWWi1Md29WUm1Yc0tNNGRqSlptU3hZVVMtbmRnTjladEE5N1Nrc1RMWFFqYllaMjFKa3FOcXNCTzFldmNsYl85MW8xSkYtZnVFYzdRUjJGZHcySWQyX0pzeXg0Mmw4NEZiRXY3RTQ?oc=5",
       "sourceLabel": "Google News — AI liability insurance",
@@ -273,6 +257,14 @@
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
+      "id": "gnews-ai-insurance-10-aHR0cHM6Ly9uZXdz",
+      "title": "The AI Insurance Gap and What It Means for Technology Contracts: Law Firm, Attorneys, Lawyers - Honigman",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0JyeTc5aHpSMzdLZkV1aGk0LUlBTEM0UGhfd3ZuVndfVzg2dTJqVjFiYk9XbXk2Y1VoVU9nQzAxcVdjWHB4WHpNMUpfYkdieGVZTmd3TkJ6N1ZkOUw2S0o1TEg3TXo4aU1NTmY5SjJ0cmpQLTYyeUEwWHZzR2UzRlpTRV9qOHQxUVlPaFlyS0FURjdhSkE?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
       "id": "gnews-publicity-ai-7-aHR0cHM6Ly9uZXdz",
       "title": "The AI Playbook: What sports stars must do now to protect their IP in the age of artificial intelligence - Pryor Cashman LLP",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUg4NzBCTGVJNEI1cDdOYTNUQUxBNVFLQzRlNTVRVVdRSTBzX2FlVFdHNGNlNThULWVyOVdxbjExRVhNbVlxYUlnajd6M2Vuek00VGtUVWhFSjBaNEZZdXVRMnRpLVZrYm1hUWtVcUtVVWFnM1otS3c1bkZFRF9ZMFlGU1BabGdfd0QzWEFIRjlCRlVXc1cxZmJEMlVVREZUYnBlZUVFOGZGUExhT05xYnk4NzlGMmlpaWZaVi1tSHJVdDVWanR5U2V1bTVtblp1UEY4NjZUekNQT0VUdUE?oc=5",
@@ -287,6 +279,14 @@
       "sourceLabel": "Google News — Generative AI litigation",
       "sourceId": "gnews-genai-litigation",
       "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "id": "gnews-ai-insurance-6-aHR0cHM6Ly9uZXdz",
+      "title": "HSB Introduces AI Liability Insurance for Small Businesses - Munich Re",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT1h2d2pxZXd0cks3dERkQ1hSTGVwWnBSb0ZOQUNBeHYzQTFFaExUY1Jic3gwYnYzdmVTUFJLTW90Vm9XREYxY2xGbjREa3pyTWloSl9GMldWcjY1WDhKVnVxdENWTk0tODdma3FGbnRoWVBvSlA5UG11ZmxvOXcyRmpwa0M1QWZWUWdNZ0hxU1M2enFIa1NQQUpmZGpNc1FkOGtrOENhMmRHZFl6VmpJNi1DcEMtM19xXzBrOGpyT3oybTEzS3ZsbkhjXzI3cS1DamtKQ2V5V2FXRl9xb3g4?oc=5",
+      "sourceLabel": "Google News — AI liability insurance",
+      "sourceId": "gnews-ai-insurance",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
       "id": "gnews-genai-litigation-6-aHR0cHM6Ly9uZXdz",
@@ -321,7 +321,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793843314669,
+  "fetchedAt": 1793869344157,
   "errors": [],
   "sources": [
     {

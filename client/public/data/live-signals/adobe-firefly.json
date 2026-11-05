@@ -28,11 +28,6 @@
       "pubDate": "Mon, 22 Apr 2024 07:00:00 GMT"
     },
     {
-      "title": "Adobe built its Firefly AI art generator to avoid bias and copyright issues - Popular Science",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sY25Tdzl4YkFrd3JmRzZsckNweGZaRE5MWE9VY21TTVBSby1Mczh1dlhOQkZkRzV4cjB1TmJIeUhPOW10LThVa05lV3Zyd1dQYXZpYmVmeEZkb25mMWJsM0ExZ0xfZ3NkeGxYRFVfY0ZnNWhYTFE?oc=5",
-      "pubDate": "Tue, 21 Mar 2023 07:00:00 GMT"
-    },
-    {
       "title": "Adobe offers copyright indemnification for Firefly AI-based image app users - Computerworld",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcV8zaVNXSktnZFJlbFJzNWE2Z3N5STJzQ04zRmxsQWNVR3BBZWlFNzZ0RmgxOGdNdl9zMzlfT3hWdGtsSHNMbTlRVGlKVEZWVW5IS0pHR3NOWkNpb0RBcHdBSmVnMkw4Rm5JU2ZYdW9PZlJFUHQzQTNHaDVjR18wVWtSTWpKcGZnVDVodlVpWlk4azZ3VFRxdm8tWkVnMEdZNnZCcDhxNm9ZYmxIU0JvTjhKT25lam1waGhRVklhX21mNjlH?oc=5",
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
@@ -41,13 +36,18 @@
       "title": "Adobe Will Reimburse Firefly AI Users Against Copyright Suits - TheWrap",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kaGVFZV9DQzVJOTNFM0h2bFVjQ3JGZmtmOGlSdldPM3BjWlJaSFJjRTdwYmUzTndXZWU4c0dYXzhpQkZxUTIwaFN3akdoeG4tX3BNY2Q2ZzhYZVUySE0zdW9zZTYtLTBBVW5HNHJ2VE1lamx6NUZ1V1BaOENvNzA?oc=5",
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe’s new Firefly can create ‘custom, fully-licensed’ AI soundtracks for video - Music Business Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmp2MGxTVExiOWxWdlhCMkVubDFhQ2FXVlNMem1QZmg3VVBzZ0NSUkJTRUdkTjB5T1dvMDVMOTAtNHkzT1VhdWx2VXFHMDJPV2dXdlhvcDN4c3VTNk9sMnRoWE1NUWUwR01Eb3duY0pXNTMwOEhVT1lPVEUtN09EalFqUEdrTjlrdzdnSW5EUUFOSzE4aDcxSFlLLThCYmRWZDBleGZIVmdfaHloQVpKUFZyNU82Zms?oc=5",
+      "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793843315738,
+  "fetchedAt": 1793869404169,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "This operation was aborted"
     }
   ]
 }

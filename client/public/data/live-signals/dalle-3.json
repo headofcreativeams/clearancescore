@@ -43,11 +43,11 @@
       "pubDate": "Thu, 16 Nov 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793843315272,
+  "fetchedAt": 1793869384165,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "This operation was aborted"
     }
   ]
 }
