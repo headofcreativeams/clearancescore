@@ -33,9 +33,9 @@
       "pubDate": "Fri, 22 Dec 2023 08:00:00 GMT"
     },
     {
-      "title": "Midjourney Blocks All Stability AI Employees After Alleged Data Theft Attempt - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXY0aTNyLTBWMGg3S0Q2XzFIRGkydGNtZDB6WklQdDl6SXdZWk5va1JtQmlMUjRaaXdPbHhTZ18zNnBiR21KZGU1UmF6YjFlWk9ZQXF4RkktbHFjZlhHeFZQTW1MVEdpekRUcGp5ZF9jN3paT1VHbkdJQ2psM2h3OUg2azY5eHY2RF9hZWRpWVFDczg1MEZObnhRUDZNRlhJc2tyRUtJbFpCNG01RV85Vg?oc=5",
-      "pubDate": "Fri, 08 Mar 2024 08:00:00 GMT"
+      "title": "Best AI Design Tools in 2026: Tested and Ranked by Use Case - Memeburn",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jczdCd1ItSXllS3lhYjM0ejFOTEcwLUhRX1BHVURDd1NZMEE4QnpkeXBMUm1QUExKcy1FeDItcWFUd2VkS09JblFjWVhMUGYtS25STg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 04:05:56 GMT"
     },
     {
       "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
@@ -43,11 +43,11 @@
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1793869364161,
+  "fetchedAt": 1793899444452,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "This operation was aborted"
+      "message": "HTTP 401"
     }
   ]
 }

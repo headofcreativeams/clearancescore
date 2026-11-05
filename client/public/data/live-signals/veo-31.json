@@ -18,6 +18,11 @@
       "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
     },
     {
+      "title": "Google launches Veo 3.1 AI video generator. Here are the best new features. - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QemZJWk5HSTUxd3liZFJWSjhJX0tKWVB1VzVhdnZDN2x4eFFzUmFGSkZnVnRVMUNnRUQ0VnlKanJhYy1ram93WDBrSjItdnJFZWtKVllLX3VBSWU3YnplN2xhWUFPNmJ5YkJGUjFPMnA2Sm02?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "Google Veo 3.1 Updates Promise Even More Realistic AI-Generated Video - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0QtV1Ixc1l1d1hVS18tcThObGw4QTROcUdYY2NDVlpkRHpyUmZ0bHJVNW54LU84N0hyTGlydHpJQzA3YVdYVVdOTGJNYUktWDQ3NnZHeU1maHR4TUYwQmRCbVJnSU1iMHVDdkoyQjFvVlk5UDNMbWhRb25SV1pRNmYyTVlxTTF3M0d2MXdZeFRueG9jOFI5QU9rV1FJLW92bVQ0QWl3?oc=5",
       "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
@@ -33,21 +38,16 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Salesforce Faces Class Action Over Alleged Illegal AI Training Data - Decrypt",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0JONVdUSjh4OVZ6S3NrLTYyRkNxWTRxOFhSbGx6OExhRU91dzNFN2tWNXg2VmFsTG9oUXk1N3BLUUtxeGtHR3ZJN1l2b0RKMHMwUkNQckstb1cxS1FZMUhWNGwwRGFyLTEtRk9aRFRJVk9fNE95dWtzMGRibEFSc1ptTk5QUUFvMWctV2FyQ0ZrQWpDYUItUg?oc=5",
-      "pubDate": "Fri, 17 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "Google Moves AI Video Developers Beyond Veo 3.1 Preview - SoaplandTV",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmF0MXBIMFJGUEEwZlJuUDRtNGluUjN2ekRrc0g0eU5ZLVh0dmZrZnRIRDhXTGRwbmI4NmVRRzlVUDdlSVVvTXhsUnVMQTdMWExmZ3BScmRWV3NTV2dPNHhJY0dYREhNdmtYUkM1RTRXemk2NWtIUjBKRG5WSXhpYXlxRUZhZ1Z2cFZRSWY4TXBadw?oc=5",
       "pubDate": "Tue, 27 Oct 2026 21:24:18 GMT"
     }
   ],
-  "fetchedAt": 1793869460205,
+  "fetchedAt": 1793899446191,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "This operation was aborted"
+      "message": "HTTP 401"
     }
   ]
 }
