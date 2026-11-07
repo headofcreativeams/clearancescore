@@ -28,14 +28,14 @@
       "pubDate": "Mon, 09 Jun 2025 07:00:00 GMT"
     },
     {
-      "title": "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaV9QYWh5aFRuUDB6cUhKVW1tRlE4cVpoanZPbnZrVXdjajBsdlVGUGVfbm9XZHdqa1ZYRlZ0YVBPMmowMUR4OVludlV4LU5tR25GY2JTcmVHWGFHNXNUME9EUVR0MWZPMnlfMi1Oc2I0SkFPWmR2QmFuMzdFRzNyakdTeHhJYVFpX05BY2dqaVVQTk1BeVVEa0Z3dTZvN29RQ2ZB?oc=5",
-      "pubDate": "Wed, 25 Jan 2023 08:00:00 GMT"
-    },
-    {
       "title": "Getty Images lawsuit says Stability AI misused photos to train AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkZSYTcwcW5xd2x6ZmxQQ0tzcVBHV3ZJUkJDeHBNSTlibWNLNTZHX3Q3SkZ2LWV2SmVEVWpaWlpjaHpya3BWWmxJWHhXTm4wZWM0UG9WOVlLdEt6SXhHRXdXYmV3NjFXSG12QzA2X3NLbDN5YnV6akhkb2Joek9RbW5rMzhxaWFwckU1WUFYZVd1VGhlbmFOMGRpZ2pJUmFKOW92NmVWUQ?oc=5",
       "pubDate": "Mon, 06 Feb 2023 08:00:00 GMT"
+    },
+    {
+      "title": "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaV9QYWh5aFRuUDB6cUhKVW1tRlE4cVpoanZPbnZrVXdjajBsdlVGUGVfbm9XZHdqa1ZYRlZ0YVBPMmowMUR4OVludlV4LU5tR25GY2JTcmVHWGFHNXNUME9EUVR0MWZPMnlfMi1Oc2I0SkFPWmR2QmFuMzdFRzNyakdTeHhJYVFpX05BY2dqaVVQTk1BeVVEa0Z3dTZvN29RQ2ZB?oc=5",
+      "pubDate": "Wed, 25 Jan 2023 08:00:00 GMT"
     },
     {
       "title": "Artists Score Major Win in Copyright Case Against AI Art Generators - The Hollywood Reporter",
@@ -43,7 +43,7 @@
       "pubDate": "Tue, 13 Aug 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794081326651,
+  "fetchedAt": 1794094090656,
   "errors": [
     {
       "source": "CourtListener",
