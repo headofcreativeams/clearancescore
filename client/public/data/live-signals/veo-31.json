@@ -23,14 +23,14 @@
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "Google Veo 3.1 Updates Promise Even More Realistic AI-Generated Video - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0QtV1Ixc1l1d1hVS18tcThObGw4QTROcUdYY2NDVlpkRHpyUmZ0bHJVNW54LU84N0hyTGlydHpJQzA3YVdYVVdOTGJNYUktWDQ3NnZHeU1maHR4TUYwQmRCbVJnSU1iMHVDdkoyQjFvVlk5UDNMbWhRb25SV1pRNmYyTVlxTTF3M0d2MXdZeFRueG9jOFI5QU9rV1FJLW92bVQ0QWl3?oc=5",
-      "pubDate": "Mon, 19 Jan 2026 08:00:00 GMT"
-    },
-    {
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
+      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
@@ -43,7 +43,7 @@
       "pubDate": "Tue, 27 Oct 2026 21:24:18 GMT"
     }
   ],
-  "fetchedAt": 1794018969034,
+  "fetchedAt": 1794042995128,
   "errors": [
     {
       "source": "CourtListener",
