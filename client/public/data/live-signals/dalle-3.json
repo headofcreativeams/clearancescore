@@ -8,24 +8,24 @@
       "pubDate": "Wed, 10 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
-      "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
-    },
-    {
-      "title": "Dall-E 3 Is So Good It’s Stoking an Artist Revolt Against AI Scraping - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXpGelBmZ1BUYjdxV2lGSlMyalRDM0xSR0NMamt5LWNIbThSY3E5ZjdPMjBWRVdDYkxRR1MxVTR6M3BmeV9LakVGWmVKSG1VLWl4aE1aaFJnd1BJUEc3RDQxX2lqamVMZzI0clZsUnYtaXpETld2UmN4UXhXSjBtTHR1NnJYRmNkbUVKM1hvN1BKMXExRU1mRWtVdm9iam1oUEdqZmxqUEpVR1l3X1U5djBla2xhWC1rQzF6Zg?oc=5",
-      "pubDate": "Fri, 03 Nov 2023 07:00:00 GMT"
-    },
-    {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 15:04:37 GMT"
     },
     {
+      "title": "Dall-E 3: AI image generator unveils major new upgrades and ChatGPT integration - BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSGFzSkNMeG90bVlpWnYzWDNLakt3M0l2cW54YnA2TjJUVzdWcWNpaU5ILW14a3JIdGpYaEl0eHAtSXRPMXdrR0FsRnhVRHVJN1dUWkotd3VZMWRiN1JZV3N2cw?oc=5",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
+    },
+    {
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "title": "Dall-E 3 Is So Good It’s Stoking an Artist Revolt Against AI Scraping - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXpGelBmZ1BUYjdxV2lGSlMyalRDM0xSR0NMamt5LWNIbThSY3E5ZjdPMjBWRVdDYkxRR1MxVTR6M3BmeV9LakVGWmVKSG1VLWl4aE1aaFJnd1BJUEc3RDQxX2lqamVMZzI0clZsUnYtaXpETld2UmN4UXhXSjBtTHR1NnJYRmNkbUVKM1hvN1BKMXExRU1mRWtVdm9iam1oUEdqZmxqUEpVR1l3X1U5djBla2xhWC1rQzF6Zg?oc=5",
+      "pubDate": "Fri, 03 Nov 2023 07:00:00 GMT"
     },
     {
       "title": "OpenAI unveils DALL-E 3, allows artists to opt out of training - TechCrunch",
@@ -43,11 +43,11 @@
       "pubDate": "Thu, 16 Nov 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794094089922,
+  "fetchedAt": 1794105569564,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }

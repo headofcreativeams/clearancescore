@@ -43,11 +43,11 @@
       "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     }
   ],
-  "fetchedAt": 1794094090961,
+  "fetchedAt": 1794105570758,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
