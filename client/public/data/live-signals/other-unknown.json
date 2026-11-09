@@ -3,6 +3,11 @@
   "caseLaw": [],
   "news": [
     {
+      "title": "Winner of France's top literary prize admits using AI for novel - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWG9KZkhyMHNsOFFxWGdzT0RwNnJwd2tObnBrWWtXdHNkdkpLcnd3OGZfaXltMEwzdUFqSHlVekxPSkVrSVgyUnhWR3Nsa1RsdEc2SDZZMHpUcnZ5eGp4YXVzWjNMTFJoZlp1c3EzMU9uaFhkeHcxcTRDYWhLVHVnaVM0Zmx2ekl6eUlMRnVPd1ROeGhkUDVxMzZiTjQ5eUwtQ0xxYXhlRVdMVEY2RWhXV0hxeGdLSmtPalRCRkJtdzNJOFhD?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 15:59:02 GMT"
+    },
+    {
       "title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5",
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
@@ -36,18 +41,13 @@
       "title": "How much energy will AI really consume? The good, the bad and the unknown - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbzJaUUhjWVUwWGJnWi0zLTU0V25URnFzY3NPZWI5RWhkdk0yRHhtN2tzQVhuY05FcjRjZC04V0V0anlhLVNyUkt1Rlk3TnltQUZEUkdZa0ZyU0c3Tk9j?oc=5",
       "pubDate": "Wed, 05 Mar 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794205737732,
+  "fetchedAt": 1794242806480,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

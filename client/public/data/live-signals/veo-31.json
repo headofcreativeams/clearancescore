@@ -23,14 +23,14 @@
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
     },
     {
+      "title": "Google's New Veo 3.1 AI Video Model Can Blend Images into Clips - Android Headlines",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURHaGcydkFic2lUcE9SRzZDMzYyYUc5ZG5xcWxsaUJLb1RyQzBxS1NabGhzdmtzYjg2dlNXUnJkQU9vdG1Tc1hEeUhjb0pHd0lmRDhhVVNHazVEOFZER3pRamZWRUQ5aDdPOGxrQnI3emVkM3daTDZ0M3MydERCVlFYTTd4dWxtb0ttTlBOcldDaVN2UnZqOWtubDZKQk9HRWtNa2wwSQ?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnpTUDhETFN0Y3lmdnNEYm1wcGhteFBLTXFmakdwM3gydm10bGtTS01pc05vcGlxTnV3alJveFBuY2ppbHI5YVZ6NEpWMW4xZ09VSm51OUdqNDJwcWZEVTN1QnlfU2M0eHdZd0dLQVRIbVJwc1dZNzBGV1hBMkNhOF9rTHlDa0F1RVIxUzlicy00ZGUzNE9LUUhUbm1BUElxTVAtdDAwaVZiMWd1ZnlZeGxtcVFiazJWbXNMdmx4N0pvbE85cEZSNzlPMDR3ZTR1SUp3SU5rNEtTZUdGMHpF0gHfAUFVX3lxTFAyelNQOERMU3RjeWZ2c0RibXBwaG14UEtNcWZqR3AzeDJ2bXRsa1NLTWlzTm9waXFOdXdqUm94UG5jamlscjlhVno0SlYxbjFnT1VKbnU5R2o0MnBxZkRVM3VCeV9TYzR4d1l3R0tBVEhtUnBzV1k3MEZXWEEyQ2E4X2tMeUNrQXVFUjFTOWJzLTRkZTM0T0tRSFRubUFQSXFNUC10MDBpVmIxZ3VmeVl4bG1xUWJrMlZtc0x2bHg3Sm9sTzlwRlI3OU8wNHdlNHVJSndJTms0S1NlR0YwekU?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
@@ -43,11 +43,11 @@
       "pubDate": "Tue, 27 Oct 2026 21:24:18 GMT"
     }
   ],
-  "fetchedAt": 1794205737139,
+  "fetchedAt": 1794242805849,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
