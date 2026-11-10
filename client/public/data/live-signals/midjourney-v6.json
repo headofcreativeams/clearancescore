@@ -3,14 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
-      "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
-    },
-    {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
+      "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
     },
     {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
@@ -38,12 +38,12 @@
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
     },
     {
-      "title": "Midjourney Announces AI Text-to-Video Generator to Be Released Soon - No Film School",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZmFVb3BuSWctazVuS19BOUdqcDF4TzE1MHhQVEVrdzlmRjA5Uk9mSGhHR21sWkhEQy1sbkRJaEVfOTlRZFBBWG0zaDVhTkZoUkJjclU4c0RaT1htdFE?oc=5",
-      "pubDate": "Tue, 16 Jan 2024 08:00:00 GMT"
+      "title": "Artists Fight AI (and DeviantArt) in New Class-Action Lawsuit - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObURIeHZWZlhFVmhxTDVPR3ZXQVlNUzluOFV3dDdJR2ZzMmFsS1hpX3drVmpyTm9TN0kwbHhpM2FRVU9WZWF0M1NGakNMVWtLYUQ2YjBnUWhwTU1IQUhuTjIxNnlTVVMzdGk3T25QN19KUGt3WDBId3JJR0lObUZ6aHR6S1kxUEhO?oc=5",
+      "pubDate": "Tue, 17 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794296731435,
+  "fetchedAt": 1794326954608,
   "errors": [
     {
       "source": "CourtListener",

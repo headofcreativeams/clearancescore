@@ -8,14 +8,14 @@
       "pubDate": "Thu, 05 Nov 2026 17:18:03 GMT"
     },
     {
+      "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
     },
     {
       "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
@@ -38,16 +38,16 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "GPT-6 Astra Pricing Confirms OpenAI’s Premium Track: $10/$50 While Rivals Cut - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHVOdWxaaHZJWl8xWEFZYy1meXM0Z1ppdV9lcVB0cVhQU3VhaEdIalNwZVNOOVhUQjgtYXJXU1o4alM0S040Ynk3QnlPOE1nRHZ2VjRZV1h5VEFJTGhScEZWbkl1a2kzYTFaZDQ1UnJWRk5xU042M2hVVXdtVndXSXUzMzJxYTVkTnEwRnVRWVVvN3NTRzgw?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 07:00:00 GMT"
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794296734207,
+  "fetchedAt": 1794326956530,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 502"
     }
   ]
 }
