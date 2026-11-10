@@ -18,11 +18,6 @@
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHd3ckVsc0JMQ0o1SDViVGhBNXNIaFd4LXRxOEMtQkt4MWh6cGhhTGNnRXFKMktCSHphRGwycGtKamEyWVlHT21pRUNJNGFGY3Foa1NEMm1UdTBMRzdVb0MtLU96UFFBd1lyckFJa2RSbWxQR2h1T0lkNjhvVGRhX3VOWGI4SjNtTUVXTkVPTktUTFNkbEdUQlhDVDRCb2NKNW0yYTdwb0FBbzFZdWhnYXFVMkVLZ2RzYmcw?oc=5",
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
@@ -41,13 +36,18 @@
       "title": "How much energy will AI really consume? The good, the bad and the unknown - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbzJaUUhjWVUwWGJnWi0zLTU0V25URnFzY3NPZWI5RWhkdk0yRHhtN2tzQVhuY05FcjRjZC04V0V0anlhLVNyUkt1Rlk3TnltQUZEUkdZa0ZyU0c3Tk9j?oc=5",
       "pubDate": "Wed, 05 Mar 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
+      "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794270819336,
+  "fetchedAt": 1794296735197,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

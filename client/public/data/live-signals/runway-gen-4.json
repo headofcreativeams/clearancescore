@@ -28,26 +28,26 @@
       "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "Netflix Is Using Startup Runway AI's Video Tools for Production - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTExhVm9kZXppd0lXUU5rSDZHTldMazdnUUJQYjdVWG1hOEN6QlBkRjBfcUZMNW1jcWZjamIweXVCNG8xR1ZldHVxTDFlSkV3cFVPTFFSMjVTN0VibFExaUtqMG12VFpKWkZzTmtxckt0WmNaSGg5TUFUb2F5YU9pejJmRzVTbEh1UFdqM1gwMDRqQXFxOHM2Vk5rc0YzaTBiQk1lOHNXSlc1aHFrT0JldFpsTXU?oc=5",
-      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
-    },
-    {
       "title": "In latest AI training drama, Runway accused of using publicly available YouTube videos - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGFwWjZadnJqTlY4RWNuQkFyX2VqNk5leTJsb0J0d0syZlh2cFFZYzFKWEJJZjlEN1k4ZUQycFkwMHZMNTZUaDhvNzBoR00zYThZNWZQNVoyOVpYdWJkbmpSOW1aV3ZLQkpGYUZfRHhUdkhCa0RFak9CalNxcUFFN1FXSE9GdW1vLU44dlJaT1ZtWVhPUENnTXVNc09vNEpsM1RETHQ2ZHNuV0c5c0kxbEdtWnM1YWc?oc=5",
       "pubDate": "Thu, 25 Jul 2024 07:00:00 GMT"
     },
     {
-      "title": "Baseten Adds Runway’s Gen-4.5 and Aleph 2.0 to Dedicated Inference - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF0VEdHdThGUVMybXU0OVBCb1EwTGhfWjdjR0FJN1JRa3pnbk5oSnJ6U1hVRzhQWUlCLVNrNWw5ZXRjM0VaWWtpdktqYThLVWFVV19oaFRYcUZPN2l0eGt6TEhPcDBNSlZLSVFENG54Z0lTczhWS21vXzJ0dkVqYTNBeEowQlZfZDVRWFBVaUo?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "title": "Netflix Is Using Startup Runway AI's Video Tools for Production - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTExhVm9kZXppd0lXUU5rSDZHTldMazdnUUJQYjdVWG1hOEN6QlBkRjBfcUZMNW1jcWZjamIweXVCNG8xR1ZldHVxTDFlSkV3cFVPTFFSMjVTN0VibFExaUtqMG12VFpKWkZzTmtxckt0WmNaSGg5TUFUb2F5YU9pejJmRzVTbEh1UFdqM1gwMDRqQXFxOHM2Vk5rc0YzaTBiQk1lOHNXSlc1aHFrT0JldFpsTXU?oc=5",
+      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Runway AI Secures $300M From Nvidia And Fidelity To Revolutionize Film With Gen-4 Model And Studio Deals Raising Its Valuation To $3B - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2s2V0dld3U5TVhyVDJJS0R5NUpUZy16M3lvUHhCTjVRdnJkNHlMdzEwM3ZjNVhqLWhwTVVFZTZtV29EQ0ljRmxzMUZTTDV1cU8yUUJQa0lzWGNKR3dFOHdfQ3dXQkM4bUxRaFBiT0o2a3dDWmdFcUVPUmlYanNJcQ?oc=5",
+      "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794270818999,
+  "fetchedAt": 1794296734904,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

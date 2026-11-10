@@ -3,14 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
-      "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
-    },
-    {
       "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
+    },
+    {
+      "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
+      "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
     },
     {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
@@ -18,14 +18,14 @@
       "pubDate": "Fri, 05 Jan 2024 08:00:00 GMT"
     },
     {
-      "title": "AI Image Generators Are Spitting Out Copyrighted Characters, Raising Possibility of Catastrophic Lawsuit - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZElsVEIwcmNoaTB2bHpUUWVjeXlfWXFzanlnMmJRb25YSTE1T3pxSDBoQ3poU2FhZFgtZ3dHZnZ2RkZjQ1pDbkdPM1EwWGhPU2U2a2RmaGhKUGRKV0w3dG0yRVhidDNUeWs4M04ySGc?oc=5",
-      "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
-    },
-    {
       "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "title": "AI Image Generators Are Spitting Out Copyrighted Characters, Raising Possibility of Catastrophic Lawsuit - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZElsVEIwcmNoaTB2bHpUUWVjeXlfWXFzanlnMmJRb25YSTE1T3pxSDBoQ3poU2FhZFgtZ3dHZnZ2RkZjQ1pDbkdPM1EwWGhPU2U2a2RmaGhKUGRKV0w3dG0yRVhidDNUeWs4M04ySGc?oc=5",
+      "pubDate": "Tue, 09 Jan 2024 08:00:00 GMT"
     },
     {
       "title": "Midjourney’s V6 Brings New Era of AI Image Generation - Unite.AI",
@@ -33,21 +33,21 @@
       "pubDate": "Fri, 22 Dec 2023 08:00:00 GMT"
     },
     {
-      "title": "Best AI Design Tools in 2026: Tested and Ranked by Use Case - Memeburn",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jczdCd1ItSXllS3lhYjM0ejFOTEcwLUhRX1BHVURDd1NZMEE4QnpkeXBMUm1QUExKcy1FeDItcWFUd2VkS09JblFjWVhMUGYtS25STg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 04:05:56 GMT"
-    },
-    {
       "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTOExNdFQ3N0tsR3R4cC11RVVOeU1SdFhsRkw0UE5zc1NLQ2JKUS1rM3YwemVBYllCcjM1Q2xoUFdPWW5DY3ViWDJ6SGxjNVVjUkN1QXpZM3A4RmVLZ242a1FyYw?oc=5",
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Midjourney Announces AI Text-to-Video Generator to Be Released Soon - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZmFVb3BuSWctazVuS19BOUdqcDF4TzE1MHhQVEVrdzlmRjA5Uk9mSGhHR21sWkhEQy1sbkRJaEVfOTlRZFBBWG0zaDVhTkZoUkJjclU4c0RaT1htdFE?oc=5",
+      "pubDate": "Tue, 16 Jan 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794270816989,
+  "fetchedAt": 1794296731435,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
