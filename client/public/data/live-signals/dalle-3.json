@@ -23,6 +23,11 @@
       "pubDate": "Fri, 03 Nov 2023 07:00:00 GMT"
     },
     {
+      "title": "OpenAI offers a way for creators to opt out of AI training data. It's so onerous that one artist called it 'enraging.' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWktWOWZDQkFyOWZLZV91M0hrdGR4ZTRpSzBvOEpoWEFUeFAyTU1xbnFRWHA3aC1fM25tY1drU0dQREN2WjcteEhZcUVaVW5GcGxpODFXcGd2Ykdtd1RpM0liTWJSRXhEZUJaQzdKcGc4MDVSeXN4UVNRelYyM0ZBU1hVSVRXckFKSy1GTw?oc=5",
+      "pubDate": "Fri, 29 Sep 2023 07:00:00 GMT"
+    },
+    {
       "title": "How to Use the Dall-E 3 AI Art Generator to Create Stunning Images From Text - PCMag",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmaVdacm5URjBidS1zbkNIQ3lhN29OdEtzY2ZYYnR3VTFaR2c1VTlQVEhBV2JfRFBoUWNXU1pVQlJEUzZVQ3lHaTNoSEZvQk8zLXJoVFZiTWdyRVVjXzJPU3dOc0diQlcwWjFNcDBtb28?oc=5",
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
@@ -36,14 +41,9 @@
       "title": "Here's how to use DALL·E 3 the RIGHT way - Creative Bloq",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3X1VrVXV2NU1CSTJvY1RCWkxIUlg1YU1VZjFJa3JUekJDOGxPVU8yeUkxWk1NWm01SVhqTl9jRE5uLXRwcU1YMmp3ZEdtcUl2WnA0V2VMSmtRTGd6UlV5dw?oc=5",
       "pubDate": "Fri, 30 May 2025 07:00:00 GMT"
-    },
-    {
-      "title": "From toy to tool: DALL-E 3 is a wake-up call for visual artists—and the rest of us - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQelYtWlVnaElPbHdfMDNqSUpPRVptN0tfNWQ1Mm9TbmFSd0VqcThiZFQ4NFpzZW1vQk9yNUZUZWQ1YVFvR3J0SDBINmNfZ29CZHF6RXR1LUtIejByYWExVFBiOTI2TDdrTXdaOE9BRnRpY1JyZmw5eGVEOHQ0b0tNSU9pVUx5bmpyWllvdHEtQ0dHVXBtOFVscHNaY2d3X2JLOEpPU1QwRnd1dU03Y1FsemI5eWxEVC1sZkVRZ1lHbGRrLWdmMUNUTU1XNzNsdXprSlRZ?oc=5",
-      "pubDate": "Thu, 16 Nov 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794385573608,
+  "fetchedAt": 1794414581761,
   "errors": [
     {
       "source": "CourtListener",

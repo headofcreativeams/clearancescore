@@ -18,14 +18,14 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTRHSkJPYnROTjB0b1VTRU5zb1R1cW5xaHdKU2hBRUFDOHhUYWMtdkRTbmJTVjU2ZDhKci1XMXJsdk1XQ3M5QjNoYzlZMUtfLUZNUXBOYVluMFE0SVNoRktqbEhlVWdRcTZjQ0hhNUNiNmxKTnJyeWF6T2JMQ3cyUVBIanhoMnpyWXBmWFROZw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTRHSkJPYnROTjB0b1VTRU5zb1R1cW5xaHdKU2hBRUFDOHhUYWMtdkRTbmJTVjU2ZDhKci1XMXJsdk1XQ3M5QjNoYzlZMUtfLUZNUXBOYVluMFE0SVNoRktqbEhlVWdRcTZjQ0hhNUNiNmxKTnJyeWF6T2JMQ3cyUVBIanhoMnpyWXBmWFROZw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
@@ -43,7 +43,7 @@
       "pubDate": "Sun, 06 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794385574919,
+  "fetchedAt": 1794414583055,
   "errors": [
     {
       "source": "CourtListener",
