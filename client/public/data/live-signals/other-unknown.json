@@ -13,11 +13,6 @@
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHd3ckVsc0JMQ0o1SDViVGhBNXNIaFd4LXRxOEMtQkt4MWh6cGhhTGNnRXFKMktCSHphRGwycGtKamEyWVlHT21pRUNJNGFGY3Foa1NEMm1UdTBMRzdVb0MtLU96UFFBd1lyckFJa2RSbWxQR2h1T0lkNjhvVGRhX3VOWGI4SjNtTUVXTkVPTktUTFNkbEdUQlhDVDRCb2NKNW0yYTdwb0FBbzFZdWhnYXFVMkVLZ2RzYmcw?oc=5",
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
@@ -33,6 +28,11 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "AI 'slop' is transforming social media - and there's a backlash - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNDA2bFFUbmx5aDlVcjdxaWE1c1JHZDZTcmxnampFRW5PN19EejRhQklPMkJmeDNYZnlMczE3MWl0M0h2UkhpZUN5b0hoX0RRZzExcTBZUmV3dw?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "AI Companions Are Here, but Their Impact on Human-to-Human Relationships Is Still Unknown - Discover Magazine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2h2b3FKZ2RQYi1GVEJzN3A4M0t3T3ZNeHFsYUhkbUtwcGpqZDhVTlVQdC1ocjNOMWxZczNmVnVtS2tWQXI0bXJyUFQ1NmhLaERSYVJjS3AtdFYzVjdxWl9zd2U2ME9WRUdlcmlVTTUtZ0dYVWI0RmV1bFFfaEk0bmxZNEVUVUpnQW42ZXA3U1RTSDBpS19wMWdXTDZ2MzRwdklVZ2w0a05fVmNVR3Y2UlhNcTI3eGRBR0FWcUI4LVR6ZG1wdWc?oc=5",
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT"
@@ -43,7 +43,7 @@
       "pubDate": "Wed, 05 Mar 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794361406034,
+  "fetchedAt": 1794385575843,
   "errors": [
     {
       "source": "CourtListener",
