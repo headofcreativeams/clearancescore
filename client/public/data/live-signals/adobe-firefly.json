@@ -3,11 +3,6 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Who gets to train creative AI? Adobe’s Firefly expansion puts licensing in focus - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1A3VktZMUY1Yk9zLVdiTFVsYXZpZG0yTGVEcmx6ZFhrWlhJWlZ3ZkdaOC1CN0w3SFBXcUJyeGxpci1XdVdqMm52dkZlLV9xaE82QmkzSDdpQ215ME9ia1luVGUzaFZWT211REtJV214WjE1SlFwMEtUeTZQR1BlQ2RNR1JpU2p1ZHIxRmVpSVZxNEk3Q2hMQWJVX3NBaU9WeG0zWjY0WWVCbUpBV244MjIteWhPSjBDemhRY3c2VlhtV1lhMXdaelRCbXJTcTZHbUpXemh1em9pOGlYNTZ6TUY3YlPSAeoBQVVfeXFMT2FwQVRNYTg0X0xKU1RXcERuYmxhVmd0R2hxSldhaWFVdjB0X3p3UzBtSU55STJWYWZQODdtd3ZLQ0VwTjVVcnJjLWZNWWEyODRFblU4UEdEMVRrcldIdHRFUllkQVZSRWx1Nm1Ia29KRk5fdFBvdi1UTjJTUXAxUnFvOFlESENFWkdzXzZDME0tRWJZdWNybDVHbG40THVOOW8wQndYWjZURENFaDZ5QTVaYVFPd1ZGNzlwVXdXU0ZncXRJcnhrT3A1QXNmc1dVMmJ6SjhiMEpWZGFacTdWTmpsbVNuX2w1OUJ3?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 14:12:56 GMT"
-    },
-    {
       "title": "How to Make an Image From Text With AI in 2026 Using Adobe Firefly - CNET",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkY3UHp2ZmdjZWs2UlB3OG51bXNFYk9aRGhjOUJMVG1zRXltWDEtdmVJVERnRl9SYkVlZzZidkpLTkFIYUM5ZUg0aE1ZN0JRMzUwM18zVHZ1TUNTTVdlb1NfdUxFaHZRRTF1VDAxeFM5b3NIVWRubG1SeDJNelJlbUx0eEVkeGZic2RvcHdkMGU5V19sQlFxOVN0RVFMS0l2a09F?oc=5",
       "pubDate": "Tue, 10 Nov 2026 16:49:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Legal risks loom for Firefly users after Adobe’s AI image tool training exposed - MarTech",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzVBN3FZYUQxUWRMdkg4YnVMWkMxM3huQWtZVkhQSTRib0dpcFQ4cXQwYmNNdXRwWUItUUdIZWNqWGVwaVljVWVBMkVrdTdreGRGSXhCUUxxNjJ5Nm9YZF9RamRvUDlyeW9GX0Y4eC1ZYl96UUZBdEs1YnhmbkI2NXl5aTFwYVBJVUF4N2FLT1A4YkJjaWl0VlNvX1pMZ0VM?oc=5",
       "pubDate": "Mon, 22 Apr 2024 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe offers copyright indemnification for Firefly AI-based image app users - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcV8zaVNXSktnZFJlbFJzNWE2Z3N5STJzQ04zRmxsQWNVR3BBZWlFNzZ0RmgxOGdNdl9zMzlfT3hWdGtsSHNMbTlRVGlKVEZWVW5IS0pHR3NOWkNpb0RBcHdBSmVnMkw4Rm5JU2ZYdW9PZlJFUHQzQTNHaDVjR18wVWtSTWpKcGZnVDVodlVpWlk4azZ3VFRxdm8tWkVnMEdZNnZCcDhxNm9ZYmxIU0JvTjhKT25lam1waGhRVklhX21mNjlH?oc=5",
+      "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794414582270,
+  "fetchedAt": 1794437874890,
   "errors": [
     {
       "source": "CourtListener",

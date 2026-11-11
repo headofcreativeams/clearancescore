@@ -18,14 +18,14 @@
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "Getty Images and Stability AI face off in British copyright trial that will test AI industry - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1JVM1Jja0ZnZERhazVJZVJZZExWdl9RTzdFUklTOG1FVXdjU19qNzQ5SEY2TldMR0RlMlFCb05hd0NQZDVnZS1wdWxSc1QyRmNtNndlWlBRMUh1VlJXRHNITktYWWhRWVBuaUJDcHJObEZ5S3ZwS29wZ0ZENVd6Vy1kZEFJSVZ2TzlOV09FeHlpR1JxLUpPdnl2ek1DZTFKckFMTVJaOXFkajRFazRZSHpWc0RrOVU4RXc?oc=5",
-      "pubDate": "Mon, 09 Jun 2025 07:00:00 GMT"
-    },
-    {
       "title": "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaV9QYWh5aFRuUDB6cUhKVW1tRlE4cVpoanZPbnZrVXdjajBsdlVGUGVfbm9XZHdqa1ZYRlZ0YVBPMmowMUR4OVludlV4LU5tR25GY2JTcmVHWGFHNXNUME9EUVR0MWZPMnlfMi1Oc2I0SkFPWmR2QmFuMzdFRzNyakdTeHhJYVFpX05BY2dqaVVQTk1BeVVEa0Z3dTZvN29RQ2ZB?oc=5",
       "pubDate": "Wed, 25 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "title": "Getty Images and Stability AI face off in British copyright trial that will test AI industry - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1JVM1Jja0ZnZERhazVJZVJZZExWdl9RTzdFUklTOG1FVXdjU19qNzQ5SEY2TldMR0RlMlFCb05hd0NQZDVnZS1wdWxSc1QyRmNtNndlWlBRMUh1VlJXRHNITktYWWhRWVBuaUJDcHJObEZ5S3ZwS29wZ0ZENVd6Vy1kZEFJSVZ2TzlOV09FeHlpR1JxLUpPdnl2ek1DZTFKckFMTVJaOXFkajRFazRZSHpWc0RrOVU4RXc?oc=5",
+      "pubDate": "Mon, 09 Jun 2025 07:00:00 GMT"
     },
     {
       "title": "Getty Images lawsuit says Stability AI misused photos to train AI - Reuters",
@@ -43,7 +43,7 @@
       "pubDate": "Fri, 20 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794414582756,
+  "fetchedAt": 1794437875545,
   "errors": [
     {
       "source": "CourtListener",

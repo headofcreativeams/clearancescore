@@ -3,6 +3,11 @@
   "caseLaw": [],
   "news": [
     {
+      "title": "Midjourney will \"find you and collect that money\" if you infringe any IP with v6 - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjEzTV9FYmN3S3BpbDdJc3l5eTVyaWJUYWNGdVZ3MDUxMlFBbzl2dEpZU2VaZHJMcnZ0VUpkemQ4ajItZmFjUmZwemtENnFDc3F6SVFiYVh1RjVSOFNnOVVDdzlpNHdPRlF2Wk94UmhxalhqNVljeGlDZXNWT0REaUlfc0ZVNUp6WHpINlVWQjlWRDc3WXVKaFBYeGY2ZTNPbFhzUmJ3?oc=5",
+      "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
+    },
+    {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 08:00:00 GMT"
@@ -36,14 +41,9 @@
       "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTOExNdFQ3N0tsR3R4cC11RVVOeU1SdFhsRkw0UE5zc1NLQ2JKUS1rM3YwemVBYllCcjM1Q2xoUFdPWW5DY3ViWDJ6SGxjNVVjUkN1QXpZM3A4RmVLZ242a1FyYw?oc=5",
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Artists Fight AI (and DeviantArt) in New Class-Action Lawsuit - No Film School",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObURIeHZWZlhFVmhxTDVPR3ZXQVlNUzluOFV3dDdJR2ZzMmFsS1hpX3drVmpyTm9TN0kwbHhpM2FRVU9WZWF0M1NGakNMVWtLYUQ2YjBnUWhwTU1IQUhuTjIxNnlTVVMzdGk3T25QN19KUGt3WDBId3JJR0lObUZ6aHR6S1kxUEhO?oc=5",
-      "pubDate": "Tue, 17 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794414581478,
+  "fetchedAt": 1794437871630,
   "errors": [
     {
       "source": "CourtListener",
