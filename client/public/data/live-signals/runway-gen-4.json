@@ -3,14 +3,14 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
-      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
-    },
-    {
       "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     },
     {
       "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
@@ -28,14 +28,14 @@
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
     },
     {
-      "title": "Baseten Adds Runway’s Gen-4.5 and Aleph 2.0 to Dedicated Inference - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF0VEdHdThGUVMybXU0OVBCb1EwTGhfWjdjR0FJN1JRa3pnbk5oSnJ6U1hVRzhQWUlCLVNrNWw5ZXRjM0VaWWtpdktqYThLVWFVV19oaFRYcUZPN2l0eGt6TEhPcDBNSlZLSVFENG54Z0lTczhWS21vXzJ0dkVqYTNBeEowQlZfZDVRWFBVaUo?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "Runway AI Secures $300M From Nvidia And Fidelity To Revolutionize Film With Gen-4 Model And Studio Deals Raising Its Valuation To $3B - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2s2V0dld3U5TVhyVDJJS0R5NUpUZy16M3lvUHhCTjVRdnJkNHlMdzEwM3ZjNVhqLWhwTVVFZTZtV29EQ0ljRmxzMUZTTDV1cU8yUUJQa0lzWGNKR3dFOHdfQ3dXQkM4bUxRaFBiT0o2a3dDWmdFcUVPUmlYanNJcQ?oc=5",
       "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVptaEJEdFJOZVBJQ2ZxVE1CYWp1a1I4VXYtQm1iWEhMSEZWRWtuM1hFay1WclBISkpWX2dZa29xR0taMlN0NmRBOXM2em5aSF9LWnQ0dDg5MXR0R3N6OE8tbXRsTEFKV1BMNmJ5anBnOEszeGd2Z3BMT3BhYjdUNEM2RlU5OUlteXlYeXJfa1h6OWZlQ1J6a19VT2dxZw?oc=5",
+      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
     },
     {
       "title": "Leak Shows That Google-Funded AI Video Generator Runway Was Trained on Stolen YouTube Content, Pirated Films - Futurism",
@@ -43,7 +43,7 @@
       "pubDate": "Thu, 25 Jul 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794437882974,
+  "fetchedAt": 1794455002823,
   "errors": [
     {
       "source": "CourtListener",
