@@ -8,11 +8,6 @@
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     },
     {
-      "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
       "title": "Runway AI Gen-4 advances video consistency - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXJBeXZwdWdjYms3V1RHNDh5a1lfZmVuU29aYWpOOU96YjZ1TVRVRVo0QXYzdTUzYmRJN1dyNDlaWF9TU2NwdGZDejI3aUlUS2Q2Y3FKYW9sV2g0Ni1idUM0anpFVWhDd0I4TEJfNzlBTUF5cHQ1c09CMXNXQ21veDg5clZFX1VkTFdLNEZsN3hENGNzdVBkX001VWlRR0ZuYXF1d0VTQXB1NHJxREhVNlNiNWJVYmFPemdLbWNiS20yRlJ0ZUZGUw?oc=5",
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Baseten Adds Runway’s Gen-4.5 and Aleph 2.0 to Dedicated Inference - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF0VEdHdThGUVMybXU0OVBCb1EwTGhfWjdjR0FJN1JRa3pnbk5oSnJ6U1hVRzhQWUlCLVNrNWw5ZXRjM0VaWWtpdktqYThLVWFVV19oaFRYcUZPN2l0eGt6TEhPcDBNSlZLSVFENG54Z0lTczhWS21vXzJ0dkVqYTNBeEowQlZfZDVRWFBVaUo?oc=5",
       "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVptaEJEdFJOZVBJQ2ZxVE1CYWp1a1I4VXYtQm1iWEhMSEZWRWtuM1hFay1WclBISkpWX2dZa29xR0taMlN0NmRBOXM2em5aSF9LWnQ0dDg5MXR0R3N6OE8tbXRsTEFKV1BMNmJ5anBnOEszeGd2Z3BMT3BhYjdUNEM2RlU5OUlteXlYeXJfa1h6OWZlQ1J6a19VT2dxZw?oc=5",
+      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794484447362,
+  "fetchedAt": 1794512227111,
   "errors": [
     {
       "source": "CourtListener",
