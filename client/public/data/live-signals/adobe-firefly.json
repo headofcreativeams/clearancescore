@@ -8,14 +8,14 @@
       "pubDate": "Tue, 10 Nov 2026 16:49:00 GMT"
     },
     {
-      "title": "Best AI Video Generators in 2026: Features, Pricing and Commercial Use - Tech Junkie",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03NWh3SnZEa2x4WjllRFRGdnJTYXhqblhteURVeDR0V2hsZ3hmUTB3UTRFMEhJVlpVQldhV0JveGQ4YUdyaDFzZUhKYmxTajN5OGc4V3dodXFqZ18teDU5T3ZB?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 22:11:42 GMT"
-    },
-    {
       "title": "Adobe sued for trademark infringement over 'Foundry' AI tool - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGV4Q21QanJRZ1ZuS0pMbEFEWTRlOXFGYm1QWlVzdENzVW05NTk0TnNJZkxrcFh5cUVqUWVCWDMtTGdPUEM5YUhLMF9VTkdrU2F4SVhfel9IYUJEdktMNVFtdGJZalptWmVuckp5Y1RlcnJjTllvckxKTVRoT05acEZOalZJRUc2QTBRaUFHancxbEpfaWRPNWN1cmNLNkZlZEtSdmloTTZpZ0U?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe Expands Firefly Into AI-Powered Editing Assistant Across Creative Apps - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBycFB2Mkdoc19FcEhJZHJLZkpQVk1mM1U2dDJ6SU1hMjVQaGNZNHZVamxXZFZQS2dKUGk2bzRTUG1nR3gxaFh6M3pxdE5kSGtZSWxPR3NWWTA1a1ZiSW5uUVREcUx2TWtlU2JtYWJ0RTM3X0ZmQUFjeHJTUDBaV0U?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "Legal risks loom for Firefly users after Adobe’s AI image tool training exposed - MarTech",
@@ -43,11 +43,11 @@
       "pubDate": "Tue, 21 Mar 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794584149132,
+  "fetchedAt": 1794605956256,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "This operation was aborted"
+      "message": "HTTP 405"
     }
   ]
 }
