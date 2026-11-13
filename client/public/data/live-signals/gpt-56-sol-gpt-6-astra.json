@@ -5,7 +5,7 @@
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT"
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -13,14 +13,9 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI bets on AI economics with lower-cost GPT-6.1 Terra - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHVkck8xQkc0dnhrVWZnOU10cV9wRWxYTDQtbExQNVVpQnN4VE53eFBnQjhybDRaNXFWd0x6dm1QTkJGeENyanhrZWlJYXZiemFLOURtb1BTSzNhQ1M0UzNrTXJyTExhTy16SG1CT2g2RUFpSTdZX0ZSQU5xajkydEVyeFNVYUo0S1FxYXoyVHJ3ak13Y2d5Zms2dTVwWXBvZkh4ZFRxdw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
@@ -41,9 +36,14 @@
       "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794512226524,
+  "fetchedAt": 1794530517756,
   "errors": [
     {
       "source": "CourtListener",
