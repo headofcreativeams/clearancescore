@@ -43,11 +43,11 @@
       "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794605955404,
+  "fetchedAt": 1794620962355,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

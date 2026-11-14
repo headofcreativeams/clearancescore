@@ -10,7 +10,7 @@
     {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -43,11 +43,11 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794605957191,
+  "fetchedAt": 1794620964942,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

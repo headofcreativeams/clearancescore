@@ -28,6 +28,11 @@
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "AI Companions Are Here, but Their Impact on Human-to-Human Relationships Is Still Unknown - Discover Magazine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2h2b3FKZ2RQYi1GVEJzN3A4M0t3T3ZNeHFsYUhkbUtwcGpqZDhVTlVQdC1ocjNOMWxZczNmVnVtS2tWQXI0bXJyUFQ1NmhLaERSYVJjS3AtdFYzVjdxWl9zd2U2ME9WRUdlcmlVTTUtZ0dYVWI0RmV1bFFfaEk0bmxZNEVUVUpnQW42ZXA3U1RTSDBpS19wMWdXTDZ2MzRwdklVZ2w0a05fVmNVR3Y2UlhNcTI3eGRBR0FWcUI4LVR6ZG1wdWc?oc=5",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "AI reveals new class of cellular ‘off switch’ linked to cancer pathways - Cornell Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1dKaUpPanA5NktFMEZIZ2hfSjYtRUVCOFh6LUhZdkpabXNwT0ZMY3ctazNlY2FFT29QcGlSMkt0MU9XVkR6TS1YOWQzQXVUaENaYWV5eUhERy1nR2dfUHFKazJhNXlzdDM4SURSbTNyODA3amZZQnROLWh2OXpldmowM0tiek9Xcng4VnljX21ZWWYwLTRKS1R4bGVQU3RfeUE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
@@ -36,18 +41,13 @@
       "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
       "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Subnautica 2 publisher’s CEO used ChatGPT in failed bid to avoid paying US$250m bonus to own studio head, court hears - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGl4b0NmUGI1S1RvOEdGbktBSndDeGN6MzVrcWhYV0c0Zm9zNXVHWFpZdGNjMDV5Wi1GdU0ybHNYcVFLZHowV3hkZWFUN0JGMkhySGxpQXdtRGxVLU1vdlpIdGVLci1hMHhUS2d3UVRRNk1aUFIzUDdlOVpaUUdDeXZWMDkzRzVkWDYxcGNud2hUZGlNWlJFZXN1WDV0eGE0QWtqS0g0aS03QmNGcWFqZlVKUUZFSXBQR0wyV1dpQ25ySE4xbmlSSnN3S2dhekZZOUVR?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794605958167,
+  "fetchedAt": 1794620965637,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
