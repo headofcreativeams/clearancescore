@@ -18,11 +18,6 @@
       "pubDate": "Wed, 25 Jan 2023 08:00:00 GMT"
     },
     {
-      "title": "Getty Images lawsuit says Stability AI misused photos to train AI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkZSYTcwcW5xd2x6ZmxQQ0tzcVBHV3ZJUkJDeHBNSTlibWNLNTZHX3Q3SkZ2LWV2SmVEVWpaWlpjaHpya3BWWmxJWHhXTm4wZWM0UG9WOVlLdEt6SXhHRXdXYmV3NjFXSG12QzA2X3NLbDN5YnV6akhkb2Joek9RbW5rMzhxaWFwckU1WUFYZVd1VGhlbmFOMGRpZ2pJUmFKOW92NmVWUQ?oc=5",
-      "pubDate": "Mon, 06 Feb 2023 08:00:00 GMT"
-    },
-    {
       "title": "Getty Images and Stability AI face off in British copyright trial that will test AI industry - AP News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1JVM1Jja0ZnZERhazVJZVJZZExWdl9RTzdFUklTOG1FVXdjU19qNzQ5SEY2TldMR0RlMlFCb05hd0NQZDVnZS1wdWxSc1QyRmNtNndlWlBRMUh1VlJXRHNITktYWWhRWVBuaUJDcHJObEZ5S3ZwS29wZ0ZENVd6Vy1kZEFJSVZ2TzlOV09FeHlpR1JxLUpPdnl2ek1DZTFKckFMTVJaOXFkajRFazRZSHpWc0RrOVU4RXc?oc=5",
       "pubDate": "Mon, 09 Jun 2025 07:00:00 GMT"
@@ -38,16 +33,21 @@
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     },
     {
+      "title": "Getty Images lawsuit says Stability AI misused photos to train AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkZSYTcwcW5xd2x6ZmxQQ0tzcVBHV3ZJUkJDeHBNSTlibWNLNTZHX3Q3SkZ2LWV2SmVEVWpaWlpjaHpya3BWWmxJWHhXTm4wZWM0UG9WOVlLdEt6SXhHRXdXYmV3NjFXSG12QzA2X3NLbDN5YnV6akhkb2Joek9RbW5rMzhxaWFwckU1WUFYZVd1VGhlbmFOMGRpZ2pJUmFKOW92NmVWUQ?oc=5",
+      "pubDate": "Mon, 06 Feb 2023 08:00:00 GMT"
+    },
+    {
       "title": "Artists sue AI company for billions, alleging \"parasite\" app used their work for free - CBS News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdElLM1BaclRKeWFMQUdCT082TEJ2VmhGbWZYLXdEVzhGMzlSa21KQW45RFExNzdiR2kwajRNV3NKb1hnbmFVNjBsb01iSUdxb244QXZNdWs1X2JXYzBxSUFxaW5kTWFBVVhuOVREZGhsbU1pU0xIX3lHNThnbHQyRlRzTTZrT3cybjdpaU9pTnpsSGIxZ1lLNm1uUnh6RTNR?oc=5",
       "pubDate": "Fri, 20 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794669663599,
+  "fetchedAt": 1794686479515,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }

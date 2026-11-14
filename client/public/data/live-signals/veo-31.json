@@ -18,11 +18,6 @@
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXQ1dHVrUndEU090eERLaTFmbGJLbDhENEgzV0FyT284dVB5VXRyOTFScXhJcXVKaDRRZVhpNEdsd1pxaV9XbnBzYzQybGt3dmtxNDJKOEd4OEZkM2Y4SmFiODJLaG5LWEJxelZpSmx0MWdVRThNTlRWVjBrbHNpYmJXUUdDWVRlYWtfa09UX2tHSENQbHc?oc=5",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "The Best AI Video Generators of 2025: A Comparison of Sora 2, Veo 3.1, PixVerse, Hailuo, and Grok - Fello AI",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU01HWXphQVVUa0lmNmhPSkJTZXlnZGtwd05XVDZaSzI5VmJCREkxMmw5dnNYb3BtWk1rYXpod2t4bUpYYXpOS0d2TjcwaDJ3ZXJKSWNib2Y3Z0N2c1lqeDM5N2JWajdldG1Dd1lfTzNjZ3ZUVGFtQkhINDU5RGQzNE5HelE5Sklra3hJRWZQM0ZzMlA3WVJZczZlWXlEbkJLRlZTTklqWHVFRnhSVVItWg?oc=5",
       "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
@@ -41,13 +36,18 @@
       "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Google Moves AI Video Developers Beyond Veo 3.1 Preview - SoaplandTV",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmF0MXBIMFJGUEEwZlJuUDRtNGluUjN2ekRrc0g0eU5ZLVh0dmZrZnRIRDhXTGRwbmI4NmVRRzlVUDdlSVVvTXhsUnVMQTdMWExmZ3BScmRWV3NTV2dPNHhJY0dYREhNdmtYUkM1RTRXemk2NWtIUjBKRG5WSXhpYXlxRUZhZ1Z2cFZRSWY4TXBadw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 21:24:18 GMT"
     }
   ],
-  "fetchedAt": 1794669664482,
+  "fetchedAt": 1794686480057,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
