@@ -33,21 +33,21 @@
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "Salesforce Faces Class Action Over Alleged Illegal AI Training Data - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0JONVdUSjh4OVZ6S3NrLTYyRkNxWTRxOFhSbGx6OExhRU91dzNFN2tWNXg2VmFsTG9oUXk1N3BLUUtxeGtHR3ZJN1l2b0RKMHMwUkNQckstb1cxS1FZMUhWNGwwRGFyLTEtRk9aRFRJVk9fNE95dWtzMGRibEFSc1ptTk5QUUFvMWctV2FyQ0ZrQWpDYUItUg?oc=5",
+      "pubDate": "Fri, 17 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
       "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Google Moves AI Video Developers Beyond Veo 3.1 Preview - SoaplandTV",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmF0MXBIMFJGUEEwZlJuUDRtNGluUjN2ekRrc0g0eU5ZLVh0dmZrZnRIRDhXTGRwbmI4NmVRRzlVUDdlSVVvTXhsUnVMQTdMWExmZ3BScmRWV3NTV2dPNHhJY0dYREhNdmtYUkM1RTRXemk2NWtIUjBKRG5WSXhpYXlxRUZhZ1Z2cFZRSWY4TXBadw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 21:24:18 GMT"
     }
   ],
-  "fetchedAt": 1794620965118,
+  "fetchedAt": 1794645610083,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }

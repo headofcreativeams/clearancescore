@@ -10,7 +10,7 @@
     {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -38,16 +38,16 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1podlZPcHNTNnRGMU85VE5qN2x0LVpGWHZFRTJwOWVGTkpOdlVOYU5LLU5zSXVJc2IxYkhsMWFaMHJ6bkFCaHFMQnoyTlJibjktVUhOY1k2alNmMUVsNW55dEtCWHRES2VOSTQzQXRGMmRtd0pScWptdlVjVDdRa3dOeFFSMEFzZlFGN1ZCN19ONWU2TTNJaWpaY3NKTTdUY0tzanN3X2QyV3AyeWU5R2NoUXZoSTJZcXpxdnI4OTRqZTRYQ2hUMjJQa1dURkJ2eVk4ZUlNaExlX0hUVFBrZFBzV1oyY29kU2Jr?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:42:16 GMT"
     }
   ],
-  "fetchedAt": 1794620964942,
+  "fetchedAt": 1794645609849,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }

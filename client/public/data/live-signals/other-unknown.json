@@ -8,9 +8,9 @@
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+      "title": "Winner of France's top literary prize admits using AI for novel - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWG9KZkhyMHNsOFFxWGdzT0RwNnJwd2tObnBrWWtXdHNkdkpLcnd3OGZfaXltMEwzdUFqSHlVekxPSkVrSVgyUnhWR3Nsa1RsdEc2SDZZMHpUcnZ5eGp4YXVzWjNMTFJoZlp1c3EzMU9uaFhkeHcxcTRDYWhLVHVnaVM0Zmx2ekl6eUlMRnVPd1ROeGhkUDVxMzZiTjQ5eUwtQ0xxYXhlRVdMVEY2RWhXV0hxeGdLSmtPalRCRkJtdzNJOFhD?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense - NBC News",
@@ -33,21 +33,21 @@
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "AI reveals new class of cellular ‘off switch’ linked to cancer pathways - Cornell Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1dKaUpPanA5NktFMEZIZ2hfSjYtRUVCOFh6LUhZdkpabXNwT0ZMY3ctazNlY2FFT29QcGlSMkt0MU9XVkR6TS1YOWQzQXVUaENaYWV5eUhERy1nR2dfUHFKazJhNXlzdDM4SURSbTNyODA3amZZQnROLWh2OXpldmowM0tiek9Xcng4VnljX21ZWWYwLTRKS1R4bGVQU3RfeUE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
+      "title": "OpenAI claims its AI technology acted on its own in an ‘unprecedented’ hack of another company - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUFuLWU4MmhOMzZRMFNpejhRV0dsT1lOYXVXOVgzY0p6a2xrYXhNZmVYb3E4ampfaDFDb1U5cDh3S09aRVJCaENaMkhUSEk4NkxtY2lJanZab25keXlvcmhUOUlNRjE3azBNZ01wYTd0Y2JFTEZXdXAwTW9VTFoteHdyemNXeWFPRC1idG5IX3RGY3VCSXdr?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
+      "title": "Subnautica 2 publisher’s CEO used ChatGPT in failed bid to avoid paying US$250m bonus to own studio head, court hears - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGl4b0NmUGI1S1RvOEdGbktBSndDeGN6MzVrcWhYV0c0Zm9zNXVHWFpZdGNjMDV5Wi1GdU0ybHNYcVFLZHowV3hkZWFUN0JGMkhySGxpQXdtRGxVLU1vdlpIdGVLci1hMHhUS2d3UVRRNk1aUFIzUDdlOVpaUUdDeXZWMDkzRzVkWDYxcGNud2hUZGlNWlJFZXN1WDV0eGE0QWtqS0g0aS03QmNGcWFqZlVKUUZFSXBQR0wyV1dpQ25ySE4xbmlSSnN3S2dhekZZOUVR?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794620965637,
+  "fetchedAt": 1794645610655,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }

@@ -13,6 +13,11 @@
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     },
     {
+      "title": "Runway’s new Gen-4.5 text-to-video model that beats OpenAI’s Sora 2, Google’s Veo 3 - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2QVpZanEweE5zSXJ4SU03cFlHMk9naC1lTDNLcmdQVDM5cmRvRHcyMGF1bmNvT0l4REJtaF9vRWpCZFc2LWpQc0VoTUFUTVhMVE14TkRpb2d1N1RocEgySk9kQlhiaHRuR2pNUlVSRkJFY0JaNDltaWp0Q2lKQWtXcUdJV0FnSC1oNTlhcFA2U2xwQWZ1cmtfZFAyYkg4WUJDSUxwN2ZtbmJLOXZtRXpFNTJnVWtjVUR2RzlOUk15eFpRNHdCZlBKWExnNk1XZTI3V09qOGdIcWVvWUtuekthTDlYUkRSWHJ3UGg4c9IB9gFBVV95cUxPZXlNZWZTclZzOXNCblZiNHBKTy1KRU9ZLXBKbjBTTWRUeko0S0R4b0tJYWFwbW9sOXRyVklkSXVIajFld1EycFZYTGVTdUdVTE9Wa3Qya2kzTUtTZjN6Z0RwUUxkeTJpaTJGcWtCcDNGaVMzamkweUJaZnBVaGUxaXhqU1lmYnhWb2xlRE5XOWdYOFFqMlJfZEc0ejgycDVXYzRUWGpRSHc3elVHMGJ1YmZnVnR2T1FVNVJKRjdURUx6U1JqWVlvY21LdUtZODZUQXBlSVNRM214eDZnMVd1YmpGeEZNRzR1Sl9hNm5QTHRHdjN4cXc?oc=5",
+      "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "In latest AI training drama, Runway accused of using publicly available YouTube videos - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGFwWjZadnJqTlY4RWNuQkFyX2VqNk5leTJsb0J0d0syZlh2cFFZYzFKWEJJZjlEN1k4ZUQycFkwMHZMNTZUaDhvNzBoR00zYThZNWZQNVoyOVpYdWJkbmpSOW1aV3ZLQkpGYUZfRHhUdkhCa0RFak9CalNxcUFFN1FXSE9GdW1vLU44dlJaT1ZtWVhPUENnTXVNc09vNEpsM1RETHQ2ZHNuV0c5c0kxbEdtWnM1YWc?oc=5",
       "pubDate": "Thu, 25 Jul 2024 07:00:00 GMT"
@@ -36,18 +41,13 @@
       "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVptaEJEdFJOZVBJQ2ZxVE1CYWp1a1I4VXYtQm1iWEhMSEZWRWtuM1hFay1WclBISkpWX2dZa29xR0taMlN0NmRBOXM2em5aSF9LWnQ0dDg5MXR0R3N6OE8tbXRsTEFKV1BMNmJ5anBnOEszeGd2Z3BMT3BhYjdUNEM2RlU5OUlteXlYeXJfa1h6OWZlQ1J6a19VT2dxZw?oc=5",
       "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Baseten Adds Runway’s Gen-4.5 and Aleph 2.0 to Dedicated Inference - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkF0VEdHdThGUVMybXU0OVBCb1EwTGhfWjdjR0FJN1JRa3pnbk5oSnJ6U1hVRzhQWUlCLVNrNWw5ZXRjM0VaWWtpdktqYThLVWFVV19oaFRYcUZPN2l0eGt6TEhPcDBNSlZLSVFENG54Z0lTczhWS21vXzJ0dkVqYTNBeEowQlZfZDVRWFBVaUo?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794620965381,
+  "fetchedAt": 1794645610378,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
