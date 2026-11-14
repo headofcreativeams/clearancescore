@@ -3,6 +3,11 @@
   "caseLaw": [],
   "news": [
     {
+      "title": "Runway Releases Gen-4.5 Video Model - AI Business",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wZzBNNExEOHR5eTFBTTl1a1daRFNoQWRIRENKM2FlSm5xbXI0eGJoNV9jZWI1ZlFSdzZRWlo4bGZJeDRDZlh3WVpnZWFfV3dPYzdBRFNnQlBhODdfeEFOY0lKT1FQbWFnbHFIbVhxQlplR2VBb1BqWk5uUlo?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
@@ -36,14 +41,9 @@
       "title": "Runway AI Secures $300M From Nvidia And Fidelity To Revolutionize Film With Gen-4 Model And Studio Deals Raising Its Valuation To $3B - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2s2V0dld3U5TVhyVDJJS0R5NUpUZy16M3lvUHhCTjVRdnJkNHlMdzEwM3ZjNVhqLWhwTVVFZTZtV29EQ0ljRmxzMUZTTDV1cU8yUUJQa0lzWGNKR3dFOHdfQ3dXQkM4bUxRaFBiT0o2a3dDWmdFcUVPUmlYanNJcQ?oc=5",
       "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVptaEJEdFJOZVBJQ2ZxVE1CYWp1a1I4VXYtQm1iWEhMSEZWRWtuM1hFay1WclBISkpWX2dZa29xR0taMlN0NmRBOXM2em5aSF9LWnQ0dDg5MXR0R3N6OE8tbXRsTEFKV1BMNmJ5anBnOEszeGd2Z3BMT3BhYjdUNEM2RlU5OUlteXlYeXJfa1h6OWZlQ1J6a19VT2dxZw?oc=5",
-      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794645610378,
+  "fetchedAt": 1794669664747,
   "errors": [
     {
       "source": "CourtListener",
