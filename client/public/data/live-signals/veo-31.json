@@ -23,11 +23,6 @@
       "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
     },
     {
-      "title": "Google's New Veo 3.1 AI Video Model Can Blend Images into Clips - Android Headlines",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURHaGcydkFic2lUcE9SRzZDMzYyYUc5ZG5xcWxsaUJLb1RyQzBxS1NabGhzdmtzYjg2dlNXUnJkQU9vdG1Tc1hEeUhjb0pHd0lmRDhhVVNHazVEOFZER3pRamZWRUQ5aDdPOGxrQnI3emVkM3daTDZ0M3MydERCVlFYTTd4dWxtb0ttTlBOcldDaVN2UnZqOWtubDZKQk9HRWtNa2wwSQ?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
@@ -41,9 +36,14 @@
       "title": "Google releases improved AI video model Veo 3.1 - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRS1GSVhiblNXU1NwR1E2WkNtQUVpSTRBLVZkRmhocFAxQUZTY3pMdTFLWnNUa1l3REVfVGc1WlZBdlZmNHU5S2JmcEpUNzRLeWk5ZEctRXdYd1F1RUpfWXZ1VDFrdUozajBCRTJfWTRzd0ZySTRRWUdMRHFndUloZi14VC1nVDQyNFFQYTlMMmVBYnBGQW00NjJYYTNTR2ZmMnJBRmJhY1JfUUFSSWhhbNIBtwFBVV95cUxNY0xwQkU4LUJ4dFF0S1FKcEd3Rm41azJHeVluVFpvQnQ3OG44TUZMSTlkVlkwZElZRFhaMDVXUWZCeXlfdHdTdDJPS3JiVVdNOTA1S2JiQkRMenpYNTZ4bWFWRUxwUjZLT3oxZzJjN3ZwZ21hRGNKNU54ZF9yTGp1NHUzWXZDV1E4eW5RLXN0cTNyYUxiZEdiRE9zb0tVNV9PSVhpZElfWnRTV00yQXllUlMtOW04ak0?oc=5",
       "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
+      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794746667884,
+  "fetchedAt": 1794769736784,
   "errors": [
     {
       "source": "CourtListener",
