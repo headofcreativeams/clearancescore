@@ -18,11 +18,6 @@
       "pubDate": "Thu, 21 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "Dall-E 3 Is So Good It’s Stoking an Artist Revolt Against AI Scraping - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXpGelBmZ1BUYjdxV2lGSlMyalRDM0xSR0NMamt5LWNIbThSY3E5ZjdPMjBWRVdDYkxRR1MxVTR6M3BmeV9LakVGWmVKSG1VLWl4aE1aaFJnd1BJUEc3RDQxX2lqamVMZzI0clZsUnYtaXpETld2UmN4UXhXSjBtTHR1NnJYRmNkbUVKM1hvN1BKMXExRU1mRWtVdm9iam1oUEdqZmxqUEpVR1l3X1U5djBla2xhWC1rQzF6Zg?oc=5",
-      "pubDate": "Fri, 03 Nov 2023 07:00:00 GMT"
-    },
-    {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 15:04:37 GMT"
@@ -38,12 +33,17 @@
       "pubDate": "Thu, 15 Aug 2024 07:00:00 GMT"
     },
     {
+      "title": "Dall-E 3 Is So Good It’s Stoking an Artist Revolt Against AI Scraping - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXpGelBmZ1BUYjdxV2lGSlMyalRDM0xSR0NMamt5LWNIbThSY3E5ZjdPMjBWRVdDYkxRR1MxVTR6M3BmeV9LakVGWmVKSG1VLWl4aE1aaFJnd1BJUEc3RDQxX2lqamVMZzI0clZsUnYtaXpETld2UmN4UXhXSjBtTHR1NnJYRmNkbUVKM1hvN1BKMXExRU1mRWtVdm9iam1oUEdqZmxqUEpVR1l3X1U5djBla2xhWC1rQzF6Zg?oc=5",
+      "pubDate": "Fri, 03 Nov 2023 07:00:00 GMT"
+    },
+    {
       "title": "Here's how to use DALL·E 3 the RIGHT way - Creative Bloq",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3X1VrVXV2NU1CSTJvY1RCWkxIUlg1YU1VZjFJa3JUekJDOGxPVU8yeUkxWk1NWm01SVhqTl9jRE5uLXRwcU1YMmp3ZEdtcUl2WnA0V2VMSmtRTGd6UlV5dw?oc=5",
       "pubDate": "Fri, 30 May 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794719214277,
+  "fetchedAt": 1794746666565,
   "errors": [
     {
       "source": "CourtListener",

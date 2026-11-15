@@ -3,6 +3,11 @@
   "caseLaw": [],
   "news": [
     {
+      "title": "Two AI copyright cases, two very different outcomes – here’s why - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUI1WUktTUdXaVk5NTR4Sk5xUjJJNGRQWlJGb0d5eGM0OHVjci10Nm5ZUHhrN1ZkYzFfSnB4Q0taODgzd2FLZTFaOU5xdlBxWFFkMjNvSk5tcTVHdFVMV2dCWndCMnotS3RTbi1OQUk5QlpTSTJpVXFYZ2J0bFZEYWtMZWM3QjJrbkd6ZnFoS2oxcnNRdmRXNHBWTQ?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools - CNET",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
       "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
@@ -36,14 +41,9 @@
       "title": "Getty Images lawsuit says Stability AI misused photos to train AI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkZSYTcwcW5xd2x6ZmxQQ0tzcVBHV3ZJUkJDeHBNSTlibWNLNTZHX3Q3SkZ2LWV2SmVEVWpaWlpjaHpya3BWWmxJWHhXTm4wZWM0UG9WOVlLdEt6SXhHRXdXYmV3NjFXSG12QzA2X3NLbDN5YnV6akhkb2Joek9RbW5rMzhxaWFwckU1WUFYZVd1VGhlbmFOMGRpZ2pJUmFKOW92NmVWUQ?oc=5",
       "pubDate": "Mon, 06 Feb 2023 08:00:00 GMT"
-    },
-    {
-      "title": "Artists sue AI company for billions, alleging \"parasite\" app used their work for free - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdElLM1BaclRKeWFMQUdCT082TEJ2VmhGbWZYLXdEVzhGMzlSa21KQW45RFExNzdiR2kwajRNV3NKb1hnbmFVNjBsb01iSUdxb244QXZNdWs1X2JXYzBxSUFxaW5kTWFBVVhuOVREZGhsbU1pU0xIX3lHNThnbHQyRlRzTTZrT3cybjdpaU9pTnpsSGIxZ1lLNm1uUnh6RTNR?oc=5",
-      "pubDate": "Fri, 20 Jan 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794719215255,
+  "fetchedAt": 1794746667396,
   "errors": [
     {
       "source": "CourtListener",
