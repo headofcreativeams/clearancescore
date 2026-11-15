@@ -3,12 +3,7 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "No, AI agents did not discover a previously unknown Maya site - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmJaNTU5MzB6eGpWWUs1VkdJX2xoLURRbVBHQjZCRnJGNWhWdWRud21IajhuSWw2T1VZS0gwdTBSdlF5bkZ5RUp1T0RwX3ZoT2dkS1lLTm5fOGFZY1JabUFvR2YxWEhac3d3QmtTYS13Smo2NWh2cGp1WDd1SHd2VENyMnpNSXppU2xkYk9WX3dvSFhySzFSZnVQLWEyQl9NQnc?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 19:42:40 GMT"
-    },
-    {
-      "title": "Winner of France's top literary prize admits using AI for novel - Euronews",
+      "title": "Winner of France's top literary prize admits using AI for novel - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWG9KZkhyMHNsOFFxWGdzT0RwNnJwd2tObnBrWWtXdHNkdkpLcnd3OGZfaXltMEwzdUFqSHlVekxPSkVrSVgyUnhWR3Nsa1RsdEc2SDZZMHpUcnZ5eGp4YXVzWjNMTFJoZlp1c3EzMU9uaFhkeHcxcTRDYWhLVHVnaVM0Zmx2ekl6eUlMRnVPd1ROeGhkUDVxMzZiTjQ5eUwtQ0xxYXhlRVdMVEY2RWhXV0hxeGdLSmtPalRCRkJtdzNJOFhD?oc=5",
       "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
@@ -28,6 +23,11 @@
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "‘Navigating the unknown together’: me and my idiot AI boyfriend - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSG1XcXJDdVc3QUhKWFNYeHFEOVp4QUFuWEF0c0o1eThFb1RTYk9QWkFJRFZDbHY2aUVtMl9HeUFwRkJMc3hGQlRSN0l3UXJrYVlVX2sxUEVCMmEzNEMyYnEzeEhhVllFQk55ZjVSQUpJeUM1TGNrZmw2Y2oydFlsYmEtYlMydzhvWEJnM2tMMXJJRnBKZ0xxcjVEUElIcHdjUnFUc0E2clM?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company’s digital defense - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHd3ckVsc0JMQ0o1SDViVGhBNXNIaFd4LXRxOEMtQkt4MWh6cGhhTGNnRXFKMktCSHphRGwycGtKamEyWVlHT21pRUNJNGFGY3Foa1NEMm1UdTBMRzdVb0MtLU96UFFBd1lyckFJa2RSbWxQR2h1T0lkNjhvVGRhX3VOWGI4SjNtTUVXTkVPTktUTFNkbEdUQlhDVDRCb2NKNW0yYTdwb0FBbzFZdWhnYXFVMkVLZ2RzYmcw?oc=5",
       "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
@@ -43,7 +43,7 @@
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794700510638,
+  "fetchedAt": 1794719216382,
   "errors": [
     {
       "source": "CourtListener",

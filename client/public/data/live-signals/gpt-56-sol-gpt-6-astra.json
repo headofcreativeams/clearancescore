@@ -3,29 +3,9 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Introducing GPT-6.1 Terra - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 18:05:36 GMT"
-    },
-    {
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSc19rMHltU1g3bFNDaTE2Rno0ZmRFSkJuTV9lS3RDeXdRLWtLUjRCTmZZS29yd1dzWERUeGxNS1ZJSGVRVktCMlNyRjJza2RSMXlqa3JlNEhzRkFVaUktSkRxczZLVTR4UXljbnB0WkR0bFlIRElmVW80SE5Bb0pndEZHRG5XZmIya0k1Rl9ZUEJzQWR2c0hhWWM1aTZZVjJ5bjZLYlRJY2ZabHVmbVFaR0tNUjhlQU83VjUyMGl4RDJaQnJJWGJGaTgyUERI?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Announcing OpenAI GPT-6 Astra on Snowflake Cortex AI - Snowflake",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HQWl0X3FndXlsWC1iSTZHQWR4d21CYUROVTktVjJEcVhZcmoxTTRDYmFUOENJcUJZTmxVeDVrTmRxMnJLcnJHUE1MMWVZY3NHWi1fcUZhQkhULWtjZEw1dVFKVzVWaWVfNUpJN2tZeWhUeFJCMGZvdHl4dHM2Zw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Claude Fable 5.2 vs GPT-6 Astra: Benchmarks and task costs - Kingy AI",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQM3ZCTUViNFZ5aTNHREZCWEZUb01OUC1lLV8yZHJYaDZoU3Vxd2FZX0hJSnZRVW1vdUkwM0h3bFdEeUZKSlZzR0drX1p2Njd0b1R4eWdFWkQ3SzA?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 03:20:28 GMT"
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra might be too powerful to understand or control - Transformer | Substack",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHEyR0o0V0l2SURvTlpDMzNBeUtzLXU3Vl95cGN5VHo3MUNrWEpKS244NnEwRmp3bm1QSlZTMkx5MW5xSV9SQzJPbGZJdF81QzJZMHF6c0xpTHdlcmxCbGF1WUpWX0dZc1R5SDNCUC1ETXRVR0E5TjlTUWRJdGZhY0lzS3dHV3BCenZQNVZQTlU2NGZLUDU5SGZncmtsOWc?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:07:05 GMT"
     },
     {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
@@ -38,12 +18,32 @@
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "GPT-6 Sol closes most of the alignment gap with Astra. It’s one-fifth the price. - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04ejFtQ19IcWxGeXJPc1kxamV0aUhCUUhWdlE1b21DOExHUGZ2YWlNZGFMaHpJT2kxSXhBSE16dFVEa2wyVmJmbWhDNVZJTlFMNXFybnJBQkNRZw?oc=5",
+      "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTRHSkJPYnROTjB0b1VTRU5zb1R1cW5xaHdKU2hBRUFDOHhUYWMtdkRTbmJTVjU2ZDhKci1XMXJsdk1XQ3M5QjNoYzlZMUtfLUZNUXBOYVluMFE0SVNoRktqbEhlVWdRcTZjQ0hhNUNiNmxKTnJyeWF6T2JMQ3cyUVBIanhoMnpyWXBmWFROZw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Sol doubles its accuracy rate – for half the cost - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfanMweWU2N1p3WTJOcC1WRVhVSG1xdlVXTFJXV3BqYUs1dVBXWnVOVHRENnhQOWFfOUlSRG5aRU9ob1JJcGo3RmtZd3gxZmtSQy1MM3Z1dDdxaWdXWHpXS0JWQmZmWmFmTW1QbVUwMjg?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1podlZPcHNTNnRGMU85VE5qN2x0LVpGWHZFRTJwOWVGTkpOdlVOYU5LLU5zSXVJc2IxYkhsMWFaMHJ6bkFCaHFMQnoyTlJibjktVUhOY1k2alNmMUVsNW55dEtCWHRES2VOSTQzQXRGMmRtd0pScWptdlVjVDdRa3dOeFFSMEFzZlFGN1ZCN19ONWU2TTNJaWpaY3NKTTdUY0tzanN3X2QyV3AyeWU5R2NoUXZoSTJZcXpxdnI4OTRqZTRYQ2hUMjJQa1dURkJ2eVk4ZUlNaExlX0hUVFBrZFBzV1oyY29kU2Jr?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1794700509794,
+  "fetchedAt": 1794719215534,
   "errors": [
     {
       "source": "CourtListener",
