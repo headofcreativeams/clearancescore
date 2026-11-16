@@ -1,16 +1,53 @@
 {
   "query": "Veo 3.1",
   "caseLaw": [],
-  "news": [],
-  "fetchedAt": 1794797896879,
+  "news": [
+    {
+      "title": "Google Announces New Veo 3 AI Video Model Amid Sora Hype - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTI4T2dBbHE5Z2xILTVBRU9jUVBEdHNFUTFQWDBCbkFIWXNiS2dYX3NKM2Jic1lBMGpUaVJPU3gxVGR3ZXZkTzdIX2oyZ3FnR1ZJT3pVMUhab0pOTmYyYXdoSUlDM0RjaTNRbDk1QlhFb3B3TklEcWlGci16OWRoQ2dIV1AwdEdDQzV2UWNEd1praDNhSEhNVTNYaUtyU1NqLXZjQlI1dGU?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Google releases new AI video model Veo 3.1 in Flow and API: what it means for enterprises - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzZ0YUN1X0ZVUkhTZlloVGVLaUNnTTJpbS1MZzRmb292azVQNDdYWHlJekJtSFRUWjRDcUFXYnZscVhkeVZCQ1pFVF9feGZsYUZVZTlGUTcxVHlfQzQxSmhsY3VjNFhkVktwVTdTdVJ1WTNiV2VnUE10LWFXa0VZdDhycFNtVm1mczdxMldZQmVLdFF0QUdaOUt2V2doX1g4RFJBLS1kakxWbl9qLUhxTw?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXQ1dHVrUndEU090eERLaTFmbGJLbDhENEgzV0FyT284dVB5VXRyOTFScXhJcXVKaDRRZVhpNEdsd1pxaV9XbnBzYzQybGt3dmtxNDJKOEd4OEZkM2Y4SmFiODJLaG5LWEJxelZpSmx0MWdVRThNTlRWVjBrbHNpYmJXUUdDWVRlYWtfa09UX2tHSENQbHc?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The Best AI Video Generators of 2025: A Comparison of Sora 2, Veo 3.1, PixVerse, Hailuo, and Grok - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU01HWXphQVVUa0lmNmhPSkJTZXlnZGtwd05XVDZaSzI5VmJCREkxMmw5dnNYb3BtWk1rYXpod2t4bUpYYXpOS0d2TjcwaDJ3ZXJKSWNib2Y3Z0N2c1lqeDM5N2JWajdldG1Dd1lfTzNjZ3ZUVGFtQkhINDU5RGQzNE5HelE5Sklra3hJRWZQM0ZzMlA3WVJZczZlWXlEbkJLRlZTTklqWHVFRnhSVVItWg?oc=5",
+      "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
+    },
+    {
+      "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
+      "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Salesforce Faces Class Action Over Alleged Illegal AI Training Data - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0JONVdUSjh4OVZ6S3NrLTYyRkNxWTRxOFhSbGx6OExhRU91dzNFN2tWNXg2VmFsTG9oUXk1N3BLUUtxeGtHR3ZJN1l2b0RKMHMwUkNQckstb1cxS1FZMUhWNGwwRGFyLTEtRk9aRFRJVk9fNE95dWtzMGRibEFSc1ptTk5QUUFvMWctV2FyQ0ZrQWpDYUItUg?oc=5",
+      "pubDate": "Fri, 17 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Google releases improved AI video model Veo 3.1 - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRS1GSVhiblNXU1NwR1E2WkNtQUVpSTRBLVZkRmhocFAxQUZTY3pMdTFLWnNUa1l3REVfVGc1WlZBdlZmNHU5S2JmcEpUNzRLeWk5ZEctRXdYd1F1RUpfWXZ1VDFrdUozajBCRTJfWTRzd0ZySTRRWUdMRHFndUloZi14VC1nVDQyNFFQYTlMMmVBYnBGQW00NjJYYTNTR2ZmMnJBRmJhY1JfUUFSSWhhbNIBtwFBVV95cUxNY0xwQkU4LUJ4dFF0S1FKcEd3Rm41azJHeVluVFpvQnQ3OG44TUZMSTlkVlkwZElZRFhaMDVXUWZCeXlfdHdTdDJPS3JiVVdNOTA1S2JiQkRMenpYNTZ4bWFWRUxwUjZLT3oxZzJjN3ZwZ21hRGNKNU54ZF9yTGp1NHUzWXZDV1E4eW5RLXN0cTNyYUxiZEdiRE9zb0tVNV9PSVhpZElfWnRTV00yQXllUlMtOW04ak0?oc=5",
+      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
+      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "fetchedAt": 1794826110067,
   "errors": [
     {
       "source": "CourtListener",
       "message": "HTTP 401"
-    },
-    {
-      "source": "Google News",
-      "message": "HTTP 503"
     }
   ]
 }
