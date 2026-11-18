@@ -10,7 +10,7 @@
     {
       "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
     },
     {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
@@ -21,11 +21,6 @@
       "title": "OpenAI's GPT-6.1 Terra matches GPT-6 Astra at 10% of the token cost - Interesting Engineering",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTRHSkJPYnROTjB0b1VTRU5zb1R1cW5xaHdKU2hBRUFDOHhUYWMtdkRTbmJTVjU2ZDhKci1XMXJsdk1XQ3M5QjNoYzlZMUtfLUZNUXBOYVluMFE0SVNoRktqbEhlVWdRcTZjQ0hhNUNiNmxKTnJyeWF6T2JMQ3cyUVBIanhoMnpyWXBmWFROZw?oc=5",
       "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTJMZ1lvVFRqajJaWF9udFJqNTktMWJMeE4xemx4S1R1S2xXT21uNnVBV2JJMkY0WXJ4YjZsdFBUbUpjWG1iYjZQRFFzWkhleDdkTTl3eGNOOGJhTW1IRmhucjZaX1hQbnZyWjhDdmVfUEt4RU5pTDBIV1lKb3ZyYmN4Nm9qLU1aaTZZLW1sVWhGY0dkb0trUDM3TE1pNnI0Mm9KZk5YQm1wT2Q2NnFLcURRZDAyVGtMaWdjX1h3?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns - Al Jazeera",
@@ -41,9 +36,14 @@
       "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3R1YzE3eUE4OHJmUlZqdERxNWdSaWE3Q0hiRDRzZmlRaWl3MGhWUy1KT21xZjBVYlhmUmdEQ0hoQVBkTlJZMWdJWklYNXlxVjRiN3ZhdnM0dHgxd2pwaEUtSlNTV1YxTHZyajlJSEFzbWxqY1AxdnVicE0xVGk3djZScENoYUtKbjhET283Q0EyenNoMVlXS204TldleTUzTmc?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795000624362,
+  "fetchedAt": 1795030148932,
   "errors": [
     {
       "source": "CourtListener",
