@@ -23,6 +23,11 @@
       "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
     },
     {
+      "title": "Runway Gen-4.5 Sets New Benchmark for AI Video Quality - Times Of AI",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWZTR0hhNnd5aTRNbmF0SkswczB2Zm5aMUlJZHN6T3RPem9Dck9BS3ZxZ2ZPWUJzdWt0SFpqd1RWRklqUi1Xb2U4WGI4QnI1NnVCSDhwOWFJOE55OFpVR3RWNDZHWnVNUDVXZjNhR0NsdTZLVndwc3RYbWV5Qy1iZjlaSXNoZjAteE5SRjZkZkFDSGZwd0E?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "Netflix Is Using Startup Runway AI's Video Tools for Production - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTExhVm9kZXppd0lXUU5rSDZHTldMazdnUUJQYjdVWG1hOEN6QlBkRjBfcUZMNW1jcWZjamIweXVCNG8xR1ZldHVxTDFlSkV3cFVPTFFSMjVTN0VibFExaUtqMG12VFpKWkZzTmtxckt0WmNaSGg5TUFUb2F5YU9pejJmRzVTbEh1UFdqM1gwMDRqQXFxOHM2Vk5rc0YzaTBiQk1lOHNXSlc1aHFrT0JldFpsTXU?oc=5",
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
@@ -36,18 +41,13 @@
       "title": "Runway’s new Gen-4.5 text-to-video model that beats OpenAI’s Sora 2, Google’s Veo 3 - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT2J2QVpZanEweE5zSXJ4SU03cFlHMk9naC1lTDNLcmdQVDM5cmRvRHcyMGF1bmNvT0l4REJtaF9vRWpCZFc2LWpQc0VoTUFUTVhMVE14TkRpb2d1N1RocEgySk9kQlhiaHRuR2pNUlVSRkJFY0JaNDltaWp0Q2lKQWtXcUdJV0FnSC1oNTlhcFA2U2xwQWZ1cmtfZFAyYkg4WUJDSUxwN2ZtbmJLOXZtRXpFNTJnVWtjVUR2RzlOUk15eFpRNHdCZlBKWExnNk1XZTI3V09qOGdIcWVvWUtuekthTDlYUkRSWHJ3UGg4c9IB9gFBVV95cUxPZXlNZWZTclZzOXNCblZiNHBKTy1KRU9ZLXBKbjBTTWRUeko0S0R4b0tJYWFwbW9sOXRyVklkSXVIajFld1EycFZYTGVTdUdVTE9Wa3Qya2kzTUtTZjN6Z0RwUUxkeTJpaTJGcWtCcDNGaVMzamkweUJaZnBVaGUxaXhqU1lmYnhWb2xlRE5XOWdYOFFqMlJfZEc0ejgycDVXYzRUWGpRSHc3elVHMGJ1YmZnVnR2T1FVNVJKRjdURUx6U1JqWVlvY21LdUtZODZUQXBlSVNRM214eDZnMVd1YmpGeEZNRzR1Sl9hNm5QTHRHdjN4cXc?oc=5",
       "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Lionsgate partners with Runway AI to develop custom video generation model - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHlNRGRva0hNNklaeG5uaWpFb1h0YUFqbkJIRzhvc1lXNU5ZVFJ5SE45bEp2TGpraHRXRlNhSVgwdkFva2lDWFVnc29EUndfY0NuVEw1cDdsOFhZSnJqaVNLRVBIUTV2dWxLWURXVFg4NktGNGJMNHAxYy1oU3k5bEktd2otSWhpTVdLS0dzMlY0cTFGdGxrcjVabmFWcDNnT29vQjlR?oc=5",
-      "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795030149433,
+  "fetchedAt": 1795051556143,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "This operation was aborted"
     }
   ]
 }
