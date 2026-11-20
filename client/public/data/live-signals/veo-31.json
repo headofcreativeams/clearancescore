@@ -18,19 +18,14 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Google Launches Veo 3.1 with Granular Editing, Rich Audio, and True-to-Life Visuals - SQ Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94YVJMOWNER0pGZFUwTzlYeDV0S3RJYnVTa09jem4zT29QN1lBWkJqaTl5Y1BzTnl6ZGN1bU5pb0EzalR1dDN0dk1wN2NsdmxXQzM1Q1NoelQ4eUxUZUgzQ01HZUpxV28?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "The Best AI Video Generators of 2025: A Comparison of Sora 2, Veo 3.1, PixVerse, Hailuo, and Grok - Fello AI",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU01HWXphQVVUa0lmNmhPSkJTZXlnZGtwd05XVDZaSzI5VmJCREkxMmw5dnNYb3BtWk1rYXpod2t4bUpYYXpOS0d2TjcwaDJ3ZXJKSWNib2Y3Z0N2c1lqeDM5N2JWajdldG1Dd1lfTzNjZ3ZUVGFtQkhINDU5RGQzNE5HelE5Sklra3hJRWZQM0ZzMlA3WVJZczZlWXlEbkJLRlZTTklqWHVFRnhSVVItWg?oc=5",
       "pubDate": "Fri, 28 Nov 2025 15:58:12 GMT"
     },
     {
-      "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
-      "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+      "title": "Google Launches Veo 3.1 with Granular Editing, Rich Audio, and True-to-Life Visuals - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94YVJMOWNER0pGZFUwTzlYeDV0S3RJYnVTa09jem4zT29QN1lBWkJqaTl5Y1BzTnl6ZGN1bU5pb0EzalR1dDN0dk1wN2NsdmxXQzM1Q1NoelQ4eUxUZUgzQ01HZUpxV28?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API - MarkTechPost",
@@ -38,12 +33,17 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
+      "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "Google Veo 3.1’s Now Makes Creating Vertical AI Videos Easy - Times Of AI",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak9uTmlBSl9DVDVLZGJZSnBZd0M0RVVSRVNpa2RoY1dqeFRuOXNLZHQ4N1dtd0JTX05WYWRRMVRGTldTeTVWdE96T09wbXJIeVo3STFfMzdXazU5SmpCbnpYRFhSaDl0MHFCNTZfUjQxTnF0Z1R2LWF3Z2hvMWdqVlFpMA?oc=5",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795162065094,
+  "fetchedAt": 1795193876569,
   "errors": [
     {
       "source": "CourtListener",
