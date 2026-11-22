@@ -8,6 +8,11 @@
       "pubDate": "Mon, 26 Oct 2026 18:05:36 GMT"
     },
     {
+      "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
       "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
@@ -28,11 +33,6 @@
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 21:41:59 GMT"
-    },
-    {
       "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
@@ -43,7 +43,7 @@
       "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795354639535,
+  "fetchedAt": 1795379338590,
   "errors": [
     {
       "source": "CourtListener",
