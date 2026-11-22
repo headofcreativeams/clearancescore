@@ -3,9 +3,19 @@
   "caseLaw": [],
   "news": [
     {
+      "title": "Why is Anthropic destroying books? | Kathryn James - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEVlRFRITW81TFBYNkJON2N0aGs4UXRmaG9qR0xaUG1HaVNlc0RGbEdPUlJXZjd0cHRDa1p1Mk1tTC16S3RBOWFuTHpCQmpTdzVVOW55cGNwOGk3clh2UGxhdnN4S09CTjUxbEk0anF5aXRjRGc2Q2VTSmQ1UmZvVlVwQWI0RkhNQVdV?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "Copyright Board Grants License To Use Postcard From Unknown Author - Legal 500",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1NQbTNUUDAxVUs2LU5xcEdWaFFQUk11VUEwTXNLMjUxdDRHUnRwZ21xc2xmZzRRTTl3MFVvV0lreDdFeHJsSmdlblN1OGNZMmRQQzY0YThZM2Fzb1U4Vy0wYUYxSzZ4MHpvRi1rN0tPS3hVT0RjYzEya3I2Y0swc1dVZTlHR3VHMTBjUzFPbzVubWc2NXVzSlU2RXJKdi1GXzh3cDFIM1JTbHhFdzZaTGFRMUtBNEdxNUpvdldLQk5FMWZpRDlMdm5SZ1Brdw?oc=5",
       "pubDate": "Wed, 14 Oct 2026 15:34:30 GMT"
+    },
+    {
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "Krafton loses lawsuit, is ordered to reinstate ousted Unknown Worlds CEO - Game Developer",
@@ -13,37 +23,27 @@
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Subnautica 2 publisher’s CEO used ChatGPT in failed bid to avoid paying US$250m bonus to own studio head, court hears - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGl4b0NmUGI1S1RvOEdGbktBSndDeGN6MzVrcWhYV0c0Zm9zNXVHWFpZdGNjMDV5Wi1GdU0ybHNYcVFLZHowV3hkZWFUN0JGMkhySGxpQXdtRGxVLU1vdlpIdGVLci1hMHhUS2d3UVRRNk1aUFIzUDdlOVpaUUdDeXZWMDkzRzVkWDYxcGNud2hUZGlNWlJFZXN1WDV0eGE0QWtqS0g0aS03QmNGcWFqZlVKUUZFSXBQR0wyV1dpQ25ySE4xbmlSSnN3S2dhekZZOUVR?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "AI 'slop' is transforming social media - and there's a backlash - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNDA2bFFUbmx5aDlVcjdxaWE1c1JHZDZTcmxnampFRW5PN19EejRhQklPMkJmeDNYZnlMczE3MWl0M0h2UkhpZUN5b0hoX0RRZzExcTBZUmV3dw?oc=5",
       "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
-      "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
+      "title": "How much energy will AI really consume? The good, the bad and the unknown - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbzJaUUhjWVUwWGJnWi0zLTU0V25URnFzY3NPZWI5RWhkdk0yRHhtN2tzQVhuY05FcjRjZC04V0V0anlhLVNyUkt1Rlk3TnltQUZEUkdZa0ZyU0c3Tk9j?oc=5",
+      "pubDate": "Wed, 05 Mar 2025 08:00:00 GMT"
+    },
+    {
+      "title": "New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3drcW5PNXVNU2hiZ2trcjdYVGU5N0Nza1JkMGw5SXhWaGhwU0tJaUlmWGxPMzlmQV9jTEIzWTJWaU14TmJhNHR5em9vOGdURVVpazJDWjJiWUxTMFhRMnlzZlROMmczS0JQTUMxVDJHbDNLQl9wRkt1enhPTVVMUVVTR0pYeXo1LVNFbzdKTUJpQzY5QnpQYjhLZ2dOSWMzcXJidTJwRVBSa0VGQ3ZjX1BGdlNNazBYRllwVUZQajNTdmVaT19vSDJqcnQ3UQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 01:58:10 GMT"
     },
     {
       "title": "76ers' LeBron James sues makers of AI sports-betting app 'Bron' - ESPN",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNandiM1dsYVVyLWFNMHRxQ1dCWVNyZXFpYy10TnpaYVhKWWd2TnE2T2dFLThQWU9lb3JkRUVwRVJjQm1NWUVkWkYyc19rLWxkeG1jbnpJZ1NYM1ZfQWx1WDlad2VUQVZZU3RKaXIyaUdfVV9OTDBYdUFWUVFocTctNzF4aG8zS2tLNnRVWFdGaEtKYjFWeWFDMjZ5UzNqc25tc0Mwaw?oc=5",
       "pubDate": "Tue, 17 Nov 2026 23:36:00 GMT"
-    },
-    {
-      "title": "Opinion | AI: Full Speed Ahead in a Dark Unknown - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DTUYzNFNvQjBZc1BKek5uTkl4WTJqQk5zbWMybHlVbXpoQ29MOURyZ3pRZ2hUU1VPcElmOGtjUkJwSjZpTnhtLWNKYWd5VEpETWRoM1FhMDBIMFhMM1BzYVF0M19DMHJuT1JhS3BsRjhyR2d1N3EtU3JKaXU4Yk0?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How much energy will AI really consume? The good, the bad and the unknown - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbzJaUUhjWVUwWGJnWi0zLTU0V25URnFzY3NPZWI5RWhkdk0yRHhtN2tzQVhuY05FcjRjZC04V0V0anlhLVNyUkt1Rlk3TnltQUZEUkdZa0ZyU0c3Tk9j?oc=5",
-      "pubDate": "Wed, 05 Mar 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795305361433,
+  "fetchedAt": 1795325973884,
   "errors": [
     {
       "source": "CourtListener",
