@@ -38,16 +38,16 @@
       "pubDate": "Wed, 20 Sep 2023 07:00:00 GMT"
     },
     {
-      "title": "New OpenAI Art Program Does NOT Claim Copyright for AI - Walter Bradley Center for Natural and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEdWZFNCb2FDbmEyRXExbjcwV3NVM3JTN2JUVDl5d1E5VHNscFVJUFhoLUJmMWJ5QmZtNW01WlA5N25aZ0NYLThjYThsblRlYXVCUURRclFBbUVlbjNHQkZYRkxBUDdGWjRWaW1HMzl3UEg3TGFaQVZsVWRub0pkOGdKU1pPRnlSSDVXU2wydw?oc=5",
-      "pubDate": "Fri, 22 Jul 2022 07:00:00 GMT"
+      "title": "From toy to tool: DALL-E 3 is a wake-up call for visual artists—and the rest of us - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQelYtWlVnaElPbHdfMDNqSUpPRVptN0tfNWQ1Mm9TbmFSd0VqcThiZFQ4NFpzZW1vQk9yNUZUZWQ1YVFvR3J0SDBINmNfZ29CZHF6RXR1LUtIejByYWExVFBiOTI2TDdrTXdaOE9BRnRpY1JyZmw5eGVEOHQ0b0tNSU9pVUx5bmpyWllvdHEtQ0dHVXBtOFVscHNaY2d3X2JLOEpPU1QwRnd1dU03Y1FsemI5eWxEVC1sZkVRZ1lHbGRrLWdmMUNUTU1XNzNsdXprSlRZ?oc=5",
+      "pubDate": "Thu, 16 Nov 2023 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795424741859,
+  "fetchedAt": 1795469112256,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
