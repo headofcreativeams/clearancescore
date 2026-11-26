@@ -28,14 +28,14 @@
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     {
+      "title": "Netflix Is Using Startup Runway AI's Video Tools for Production - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTExhVm9kZXppd0lXUU5rSDZHTldMazdnUUJQYjdVWG1hOEN6QlBkRjBfcUZMNW1jcWZjamIweXVCNG8xR1ZldHVxTDFlSkV3cFVPTFFSMjVTN0VibFExaUtqMG12VFpKWkZzTmtxckt0WmNaSGg5TUFUb2F5YU9pejJmRzVTbEh1UFdqM1gwMDRqQXFxOHM2Vk5rc0YzaTBiQk1lOHNXSlc1aHFrT0JldFpsTXU?oc=5",
+      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
+    },
+    {
       "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVptaEJEdFJOZVBJQ2ZxVE1CYWp1a1I4VXYtQm1iWEhMSEZWRWtuM1hFay1WclBISkpWX2dZa29xR0taMlN0NmRBOXM2em5aSF9LWnQ0dDg5MXR0R3N6OE8tbXRsTEFKV1BMNmJ5anBnOEszeGd2Z3BMT3BhYjdUNEM2RlU5OUlteXlYeXJfa1h6OWZlQ1J6a19VT2dxZw?oc=5",
       "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Netflix Is Using Startup Runway AI's Video Tools for Production - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTExhVm9kZXppd0lXUU5rSDZHTldMazdnUUJQYjdVWG1hOEN6QlBkRjBfcUZMNW1jcWZjamIweXVCNG8xR1ZldHVxTDFlSkV3cFVPTFFSMjVTN0VibFExaUtqMG12VFpKWkZzTmtxckt0WmNaSGg5TUFUb2F5YU9pejJmRzVTbEh1UFdqM1gwMDRqQXFxOHM2Vk5rc0YzaTBiQk1lOHNXSlc1aHFrT0JldFpsTXU?oc=5",
-      "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
     },
     {
       "title": "Lionsgate partners with Runway AI to develop custom video generation model - SiliconANGLE",
@@ -43,7 +43,7 @@
       "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795635043707,
+  "fetchedAt": 1795660060710,
   "errors": [
     {
       "source": "CourtListener",
