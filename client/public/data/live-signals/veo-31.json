@@ -33,21 +33,21 @@
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "Google Launches Veo 3.1 with Granular Editing, Rich Audio, and True-to-Life Visuals - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94YVJMOWNER0pGZFUwTzlYeDV0S3RJYnVTa09jem4zT29QN1lBWkJqaTl5Y1BzTnl6ZGN1bU5pb0EzalR1dDN0dk1wN2NsdmxXQzM1Q1NoelQ4eUxUZUgzQ01HZUpxV28?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "Veo 3.1 AI video generation is now free for all Google users - Chrome Unboxed",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhIUHNwMjNBZzAxRXVMUWlya081UFRYSUZMSzBpa21XU1B5S3Z5MnBRaUQwZExLWEFidEtjd1A5cEliN1JUVXRrRUc0X21lVXRlMVdGZjA1cC1TNUpWbXhGRzMySEQ1UU5pZHV2dmhhcmV1XzN2NGV4RTZBWm8xYWpSTHUxVVNLeXNTcVJfcnY?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sora 2 vs Veo 3.1: AI video generation tools - Times Of AI",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZjJhbFFfSGlnb2tHYmFZMEhGcHV0bXNTX0RyLW0zU18wSkxpQTljLXdDSHduQ2FUWVUxblFnRzVSdXVtRHlOQnZTZHJjQnJYOVJSN2ZaSk1IbWt6ODZyeF9tNnNCZWNmTXdhOXhwYw?oc=5",
-      "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795692198605,
+  "fetchedAt": 1795724631258,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
