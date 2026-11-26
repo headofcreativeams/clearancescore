@@ -38,16 +38,16 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Predicting the unknown: a robust approach lets AI extrapolate to undiscovered materials - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYeWNCTXFvVEtLZGRSWFBVSmJ4TEdDT3pmaHk2WHhyd19zeUxwcGx4cWtqTGh4S0phWWoyUUM2eUEzYmhrdkJSRy1FQ0ZKZXprOWhMcW5uRlBMS0FK?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 16:35:45 GMT"
+      "title": "Learning to Collaborate with Unknown Agents in the Absence of Reward - The Association for the Advancement of Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNmQta1JJWWhtRlYwTVV5bzF0a25yYjNpelQtOGlDUXB3OVRNWnNEbjFHbGduQS1EejVMRmZTZERGOEYwQmN3anJ6dGVLV1RZUkwzUlJURS1oa1JNT09jaGVMTC0?oc=5",
+      "pubDate": "Fri, 11 Apr 2025 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795660060974,
+  "fetchedAt": 1795692199216,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }

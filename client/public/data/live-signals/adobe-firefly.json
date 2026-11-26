@@ -8,11 +8,6 @@
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "Best AI Image Generators of 2026: We Tested All the Biggest Creative AI Tools - CNET",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "Legal risks loom for Firefly users after Adobe’s AI image tool training exposed - MarTech",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzVBN3FZYUQxUWRMdkg4YnVMWkMxM3huQWtZVkhQSTRib0dpcFQ4cXQwYmNNdXRwWUItUUdIZWNqWGVwaVljVWVBMkVrdTdreGRGSXhCUUxxNjJ5Nm9YZF9RamRvUDlyeW9GX0Y4eC1ZYl96UUZBdEs1YnhmbkI2NXl5aTFwYVBJVUF4N2FLT1A4YkJjaWl0VlNvX1pMZ0VM?oc=5",
       "pubDate": "Mon, 22 Apr 2024 07:00:00 GMT"
@@ -41,13 +36,18 @@
       "title": "Is Adobe saying the right things about AI art and copyrights? - Creative Bloq",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3lzeUFnUlZXVlNRN0lYeFFVSDRuRGZnU0VrS0xTZkh4MlN4RUp0VWxPWEU0Y1N1NlJmUTRxV1otV0xrSjhpTnljMDRHQkY5TlEyT3JBWVNoMk54SnZRMFR6VUpIYURkTF9hS05OMEZqSEliNGI0Z09Yc3JZc0g0SHB4dndzcmJjNXlZdTFWdGVuRXV4NThhbjBwSVlWeGRBWVhvWEtzZFpFdw?oc=5",
       "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Adobe built its Firefly AI art generator to avoid bias and copyright issues - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sY25Tdzl4YkFrd3JmRzZsckNweGZaRE5MWE9VY21TTVBSby1Mczh1dlhOQkZkRzV4cjB1TmJIeUhPOW10LThVa05lV3Zyd1dQYXZpYmVmeEZkb25mMWJsM0ExZ0xfZ3NkeGxYRFVfY0ZnNWhYTFE?oc=5",
+      "pubDate": "Tue, 21 Mar 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795660059244,
+  "fetchedAt": 1795692197846,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
