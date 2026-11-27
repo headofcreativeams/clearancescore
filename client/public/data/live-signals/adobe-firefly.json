@@ -13,6 +13,16 @@
       "pubDate": "Mon, 22 Apr 2024 07:00:00 GMT"
     },
     {
+      "title": "Adobe’s ‘Ethical’ Firefly AI Was Trained on Midjourney Images - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0h1QldzNFRubE5GS0VpN09LUTFRenA2TWJOaE4xUGNuX19YZHFpeVQ1MUl0OGtlcDNsWlhjNlBYN0ZWZjkyN2RJOHlydXdxekZKa2RVMjZXZ2xHS2JJUWk4STJVQUI2WXAxN0pKSFZlQ21fUVJLVXF3Y1BMYzZ0aUh2TW4?oc=5",
+      "pubDate": "Fri, 12 Apr 2024 07:00:00 GMT"
+    },
+    {
+      "title": "Adobe is so confident its Firefly generative AI won’t breach copyright that it’ll cover your legal bills - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFUzOGZYRkhwR0VzeVNydUJqV2tPdHpFYWp6b3VkT0oxWkhheEc5emNydGFqYTRzWkt6ME9XVXdqSlNfTW1WRkFmYWJ4c05PQXV6NU1DWVp4YkNxb3pFR3FVUjQtNjlueGttZ0pBTWoxM2Vwc1RwUjBrZmhjTHBNRGF1bmNHYWVvRUNUNm1tTE5fekFRZWd0VktpRXpfbUM0cEh0YTg1dnlhZDFkeHpfWjlMQTdfdUV4Tkdmb3gybHFZTmxRUndETDM5NEVvWHhPemUw?oc=5",
+      "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
+    },
+    {
       "title": "Adobe offers copyright indemnification for Firefly AI-based image app users - Computerworld",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcV8zaVNXSktnZFJlbFJzNWE2Z3N5STJzQ04zRmxsQWNVR3BBZWlFNzZ0RmgxOGdNdl9zMzlfT3hWdGtsSHNMbTlRVGlKVEZWVW5IS0pHR3NOWkNpb0RBcHdBSmVnMkw4Rm5JU2ZYdW9PZlJFUHQzQTNHaDVjR18wVWtSTWpKcGZnVDVodlVpWlk4azZ3VFRxdm8tWkVnMEdZNnZCcDhxNm9ZYmxIU0JvTjhKT25lam1waGhRVklhX21mNjlH?oc=5",
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
@@ -28,26 +38,16 @@
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
     },
     {
-      "title": "Is Adobe saying the right things about AI art and copyrights? - Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3lzeUFnUlZXVlNRN0lYeFFVSDRuRGZnU0VrS0xTZkh4MlN4RUp0VWxPWEU0Y1N1NlJmUTRxV1otV0xrSjhpTnljMDRHQkY5TlEyT3JBWVNoMk54SnZRMFR6VUpIYURkTF9hS05OMEZqSEliNGI0Z09Yc3JZc0g0SHB4dndzcmJjNXlZdTFWdGVuRXV4NThhbjBwSVlWeGRBWVhvWEtzZFpFdw?oc=5",
-      "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT"
-    },
-    {
       "title": "Adobe Offers Firefly Generative AI Copyright Indemnity - Tech Monitor",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fWk14bUQ3RU9fMXVvTVdYMGJhWjRENk03Qmpyc0hFNE5lRkxYMWpHMEx1SHRuNGRhbWk0d3VkOWpZdG41NUdoQmJYN3l5WHg1ZjY0a2hPeEdoNEdQSFZLZEhXMk1UMXR3NldQZ2w2MzNCRGNLMXFfZkQ5OWlkZw?oc=5",
       "pubDate": "Thu, 08 Jun 2023 07:00:00 GMT"
-    },
-    {
-      "title": "Adobe built its Firefly AI art generator to avoid bias and copyright issues - Popular Science",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sY25Tdzl4YkFrd3JmRzZsckNweGZaRE5MWE9VY21TTVBSby1Mczh1dlhOQkZkRzV4cjB1TmJIeUhPOW10LThVa05lV3Zyd1dQYXZpYmVmeEZkb25mMWJsM0ExZ0xfZ3NkeGxYRFVfY0ZnNWhYTFE?oc=5",
-      "pubDate": "Tue, 21 Mar 2023 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795748646226,
+  "fetchedAt": 1795782010361,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
