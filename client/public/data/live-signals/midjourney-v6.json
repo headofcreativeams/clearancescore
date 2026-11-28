@@ -3,16 +3,6 @@
   "caseLaw": [],
   "news": [
     {
-      "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney - Music Business Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHIzVkZ5SmdSN1BOR19jc1JNNkxUR2Q2bXptQlJWU3RHZzBDZ2F6cVRNN3Zablc3VE5yOXRPQjl4S2lrS19Ya0xVeWdnME1nUEdjME9aSlN6R0VNLVpaU1gya2RUQUo3S09JVUxyaU5Cc193QzAySWZMelBFUW5hVkpsZ0lsT2Q0SC1YSlEyT2g2RmVrS192d2xvdmtFOXNzU3NndURSVU1TOVRVWUVuSDF6R2RCWXB1aE5fMFFkWFlKa1FIWXF6TllQa003RV9FOUpZ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Midjourney will \"find you and collect that money\" if you infringe any IP with v6 - the-decoder.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjEzTV9FYmN3S3BpbDdJc3l5eTVyaWJUYWNGdVZ3MDUxMlFBbzl2dEpZU2VaZHJMcnZ0VUpkemQ4ajItZmFjUmZwemtENnFDc3F6SVFiYVh1RjVSOFNnOVVDdzlpNHdPRlF2Wk94UmhxalhqNVljeGlDZXNWT0REaUlfc0ZVNUp6WHpINlVWQjlWRDc3WXVKaFBYeGY2ZTNPbFhzUmJ3?oc=5",
-      "pubDate": "Tue, 26 Dec 2023 08:00:00 GMT"
-    },
-    {
       "title": "Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclVrUEVCVVNCUTZyUlNrdXpVT0U3ck1Sd2VJLTdwbVV0M0Q3QzgtbGtNckRFWlB2dmEyelExRmN6cXJndWJzNXFFQV9WZVl5clhILW4yUXQyUQ?oc=5",
       "pubDate": "Sat, 06 Jan 2024 15:04:37 GMT"
@@ -21,11 +11,6 @@
       "title": "Midjourney V6 Takes Major Step Forward with Photorealism and In-Image Text - No Film School",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Y2pnLXRYckxYMkloUnZLamtUNnNRQmNFY1c4WS1GMUwtbm9KdnV6OEhTWU5JQWVoYXQwY0l4UlNVNEtRandpaEFBVEJzY00?oc=5",
       "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT"
-    },
-    {
-      "title": "Why the Studios’ Midjourney Lawsuit Is Different - Copyright Lately",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZERfSDFkV1dzUlphOFBzQVNjYUduVFp0UEJPRjZLY0g2RVNSSDNRbVdkMU5Gb0hVUFdId1hCdzlTd09jS1BpbGlmYW9Nb3FQWVAzNGg0WXpTbEltRU1wOVpib2xqRmdTZjdQUGItZklUb0tGcWNKZmhKRjI4eTRaOFZ3?oc=5",
-      "pubDate": "Sun, 15 Jun 2025 07:00:00 GMT"
     },
     {
       "title": "How much detail is too much? Midjourney v6 attempts to find out - Ars Technica",
@@ -41,13 +26,28 @@
       "title": "Midjourney v6 AI art generator can finally write text in images - PC Guide",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR2dFMmxnaDJhcEVXd0g5blJHQ3Z6Ujg2SGl6YTFwV3NOdTJzT0w1TmJDanNVZ3V6X2FITG9BUVQ0ZU5OSTFyeUR4dU4xQnJHcjdz?oc=5",
       "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney - Music Business Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHIzVkZ5SmdSN1BOR19jc1JNNkxUR2Q2bXptQlJWU3RHZzBDZ2F6cVRNN3Zablc3VE5yOXRPQjl4S2lrS19Ya0xVeWdnME1nUEdjME9aSlN6R0VNLVpaU1gya2RUQUo3S09JVUxyaU5Cc193QzAySWZMelBFUW5hVkpsZ0lsT2Q0SC1YSlEyT2g2RmVrS192d2xvdmtFOXNzU3NndURSVU1TOVRVWUVuSDF6R2RCWXB1aE5fMFFkWFlKa1FIWXF6TllQa003RV9FOUpZ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Major Studios Sue AI Company Midjourney Over Copyright Claims - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTOExNdFQ3N0tsR3R4cC11RVVOeU1SdFhsRkw0UE5zc1NLQ2JKUS1rM3YwemVBYllCcjM1Q2xoUFdPWW5DY3ViWDJ6SGxjNVVjUkN1QXpZM3A4RmVLZ242a1FyYw?oc=5",
+      "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Midjourney Announces AI Text-to-Video Generator to Be Released Soon - No Film School",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZmFVb3BuSWctazVuS19BOUdqcDF4TzE1MHhQVEVrdzlmRjA5Uk9mSGhHR21sWkhEQy1sbkRJaEVfOTlRZFBBWG0zaDVhTkZoUkJjclU4c0RaT1htdFE?oc=5",
+      "pubDate": "Tue, 16 Jan 2024 08:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795815119298,
+  "fetchedAt": 1795836724570,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 405"
+      "message": "HTTP 401"
     }
   ]
 }
