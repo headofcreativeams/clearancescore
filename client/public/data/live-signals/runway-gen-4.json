@@ -18,14 +18,14 @@
       "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
     },
     {
+      "title": "Runway releases an impressive new video-generating AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTNSM0FJa0xTN3d3N0pYOEhTOUpNMHpZWWFzMG16QldQWktUSXZjbUpTSThxUlZXUWYtOEpaaF9TY3p0aHFXRWZOY21zZDF5Wnp6ZW01Wml6ejJ3cVA1Q3EwZVVwY2d3MVdxSnBvZjV4WVpROVZYWU5jMHI2ZHJ6b0RzeGs5ZVEtbllrZkhsTG5qOUVwYzBuaENn?oc=5",
+      "pubDate": "Mon, 31 Mar 2025 07:00:00 GMT"
+    },
+    {
       "title": "YouTuber sues Runway AI in latest copyright class action over AI training - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjI3QklseFZlMXpyR1RmT2tSdGJmSjRYWjZONUZBYm90VnJ6VkNRNGgxTjdUc1dNSmZrODhyZXBvYU9VYVpNUTZvSWVIb1ZnTVduc0ZrNjR5TmxwVk9CUFpyR0RfZW9scmtUbXdPQ2NzS3ZDcmc3X3l6cU05b2FUMnp6clhCREFzT2xibzJONlY0T21yY21zSzcxM2k2TWxyZVlNcUhXTkZ0elJDSzVZWE9FalRtUUZ3MzdqeGZmRnk?oc=5",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Runway, best known for its video-generating AI models, raises $308M - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1JMY0YzSHZjX3VjZUE3NjhnekZCdlVMWWJLRjktZ0pyUTlYNFJMQnBBNkQwWE9WSGs3QUlfMGFyX2xIclVrX19POVp1bXQxS2lEcmhFOG5yeEZBRjlSdmdiU1JUUUd0cnRTN1Fjd2RQLTFpX3huSnNaa1dHZ0dmTmJaM3ZEVTFSVU9uVDZMWXduTURkdHd3WUtWbDQ?oc=5",
-      "pubDate": "Thu, 03 Apr 2025 07:00:00 GMT"
     },
     {
       "title": "Runway’s New AI Video Model Promises Character Consistency - PetaPixel",
@@ -38,16 +38,16 @@
       "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT"
     },
     {
-      "title": "AI video becomes more convincing, rattling creative industry - Tech Xplore",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWpuVHFPT2ZpallrQUVJRGdfLVVRUnF5dk1uOFFwMGRZMV9lSTVKODlOQmEybzJ3clFDMXNJRUE4LW4wNXJsdnZRMkdfYmRqOUVVQm44NU14Z0ZNeW51VVliRW1WSkVQdTEwNEVnSFBaZkJLRE5EUFA1bURXRmtxSzVmdHI?oc=5",
-      "pubDate": "Tue, 08 Jul 2025 07:00:00 GMT"
+      "title": "Buzzy.now Launches Seedance 2.5 Video Generator: Powering the First End-to-End AI Filmmaking Workflow from Prompt to Final Video - Coastal Breeze News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGlrcTRpb3dOeE56NmMzY0hVRDFTOXR2MlJqRWtITmVFYTM5cDdDMHA4UWNENVYwa0FtZU5JZ2ZrWXphbmV2SHJ5RW80Y09ZeWpLU2RSSlFnVVJIaHNkNUpEWXVvRkxmNl9ob0hBSTlHNHQxcEdTYUxvYl9CcF9jZmg4QzVBQjU2d0xUMHdoM3o3aGFrcWZmckp6S3dZazZWaGpLM3hjTHNZOXd0RGgwakhGNS1obkNLSW5kVWpxb1hhOWFYQjRaSEN3VF9SUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ],
-  "fetchedAt": 1795836726804,
+  "fetchedAt": 1795868659567,
   "errors": [
     {
       "source": "CourtListener",
-      "message": "HTTP 401"
+      "message": "HTTP 405"
     }
   ]
 }
